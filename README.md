@@ -10,6 +10,7 @@ My various config files, fonts, icons, and other things I need across systems.
 * Status bar: [Polybar](https://github.com/polybar/polybar)
 * Compositor: [Picom](https://github.com/yshui/picom)
 * Program launcher: [Rofi](https://github.com/davatorium/rofi)
+* File managers: [Caja](https://github.com/mate-desktop/caja) && [Ranger](https://github.com/ranger/ranger)
 
 
 ## Currently working on:
