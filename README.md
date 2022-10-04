@@ -1,6 +1,9 @@
-# LinuxDotfiles
+# mag4no10's Linux dotfiles and config files
 
-My linux dotfiles and configs
+My various config files, fonts, icons, and other things I need across systems.
 
-
-* Distro: Parrot OS Secutiry Edition
+* Distro: Parrot OS Security Edition
+* Shell: 
+* Terminal: Alacritty
+* Window Manager: Bspwm
+* Status bar: polybar
