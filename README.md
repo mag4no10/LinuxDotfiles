@@ -16,3 +16,9 @@ My various config files, fonts, icons, and other things I need across systems.
 ## Currently working on:
   Polybar modules, terminal and other new stuff
   
+## ScreenShots:
+
+![image](https://user-images.githubusercontent.com/90365667/193933193-93bd53f1-4c54-41ea-a649-9888e45d66cd.png)
+![image](https://user-images.githubusercontent.com/90365667/193935226-5162aa43-f384-40db-aee5-32a08fb4ddb6.png)
+
+  
