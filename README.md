@@ -8,13 +8,12 @@ My various config files, fonts, icons, and other things I need across systems.
 * Window Manager: [Bspwm](https://github.com/baskerville/bspwm)
 * Shortcuts: [Sxhkd](https://github.com/baskerville/sxhkd)
 * Status bar: [Polybar](https://github.com/polybar/polybar)
-* Compositor: [Picom](https://github.com/yshui/picom)
+* Compositor: [Picom](https://github.com/jonaburg/picom)
 * Program launcher: [Rofi](https://github.com/davatorium/rofi)
 * File managers: [Caja](https://github.com/mate-desktop/caja) && [Ranger](https://github.com/ranger/ranger)
+* Fonts: [Hack Nerd Font](https://www.nerdfonts.com/font-downloads)
 
 
-## Currently working on:
-  Polybar modules, terminal and other new stuff
   
 ## ScreenShots:
 
