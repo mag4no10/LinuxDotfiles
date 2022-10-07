@@ -18,7 +18,10 @@ My various config files, fonts, icons, and other things I need across systems.
   
 ## ScreenShots:
 
-![image](https://user-images.githubusercontent.com/90365667/193933193-93bd53f1-4c54-41ea-a649-9888e45d66cd.png)
-![image](https://user-images.githubusercontent.com/90365667/193935226-5162aa43-f384-40db-aee5-32a08fb4ddb6.png)
+![image](https://user-images.githubusercontent.com/90365667/194554055-b86127d0-49be-4385-a944-12e08f894c7c.png)
+![image](https://user-images.githubusercontent.com/90365667/194554013-d1bdd176-8f31-4c48-8857-d0c4f2ac102c.png)
+![image](https://user-images.githubusercontent.com/90365667/194554158-605623dc-e4e3-44c3-8419-1cf20b4acaac.png)
+![image](https://user-images.githubusercontent.com/90365667/194554728-cc44469e-9cee-45e4-9ec9-8bb582385fe1.png)
+![image](https://user-images.githubusercontent.com/90365667/194554788-ada73b32-4d7f-4d01-ae46-5a2e0643c38b.png)
 
   
