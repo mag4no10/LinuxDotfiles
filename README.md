@@ -12,6 +12,7 @@ My various config files, fonts, icons, and other things I need across systems.
 * Program launcher: [Rofi](https://github.com/davatorium/rofi)
 * File managers: [Caja](https://github.com/mate-desktop/caja) && [Ranger](https://github.com/ranger/ranger)
 * Fonts: [Hack Nerd Font](https://www.nerdfonts.com/font-downloads)
+* Login manager: [Slim](wiki.archlinux.org/title/SLiM)
 
 
   
