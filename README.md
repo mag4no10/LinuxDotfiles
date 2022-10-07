@@ -3,7 +3,7 @@
 My various config files, fonts, icons, and other things I need across systems.
 
 * Distro: [Parrot OS Security Edition](https://parrotsec.org/)
-* Shell: Bash atm, working to zsh
+* Shell: Bash atm, working into zsh
 * Terminal: [Alacritty](https://github.com/alacritty/alacritty)
 * Window Manager: [Bspwm](https://github.com/baskerville/bspwm)
 * Shortcuts: [Sxhkd](https://github.com/baskerville/sxhkd)
