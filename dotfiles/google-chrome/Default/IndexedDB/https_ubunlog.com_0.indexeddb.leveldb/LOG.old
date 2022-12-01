@@ -1,7 +1,0 @@
-2022/12/01-00:03:17.794 8eeb Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_ubunlog.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/01-00:03:17.795 8eeb Recovering log #3
-2022/12/01-00:03:17.795 8eeb Reusing old log /home/atenea/.config/google-chrome/Default/IndexedDB/https_ubunlog.com_0.indexeddb.leveldb/000003.log 
-2022/12/01-00:04:00.990 a2e1 Level-0 table #5: started
-2022/12/01-00:04:00.992 a2e1 Level-0 table #5: 10594 bytes OK
-2022/12/01-00:04:00.993 a2e1 Delete type=0 #3
-2022/12/01-00:04:00.993 a2e1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

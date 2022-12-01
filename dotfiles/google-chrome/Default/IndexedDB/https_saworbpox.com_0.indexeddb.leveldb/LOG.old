@@ -1,6 +1,0 @@
-2022/10/21-00:54:10.387 2ed71 Creating DB /home/atenea/.config/google-chrome/Default/IndexedDB/https_saworbpox.com_0.indexeddb.leveldb since it was missing.
-2022/10/21-00:54:10.389 2ed71 Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_saworbpox.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/10/21-00:54:18.069 2e09d Level-0 table #5: started
-2022/10/21-00:54:18.071 2e09d Level-0 table #5: 3812 bytes OK
-2022/10/21-00:54:18.073 2e09d Delete type=0 #3
-2022/10/21-00:54:18.073 2e09d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

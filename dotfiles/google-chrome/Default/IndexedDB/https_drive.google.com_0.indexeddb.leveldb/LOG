@@ -1,6 +1,0 @@
-2022/12/01-08:28:11.790 8f5 Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/01-08:28:11.790 8f5 Recovering log #272
-2022/12/01-08:28:11.803 8f5 Reusing old log /home/atenea/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000272.log 
-2022/12/01-08:28:27.178 8a9 Level-0 table #281: started
-2022/12/01-08:28:27.210 8a9 Level-0 table #281: 1844744 bytes OK
-2022/12/01-08:28:27.212 8a9 Delete type=0 #272

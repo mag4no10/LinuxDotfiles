@@ -1,6 +1,0 @@
-2022/11/17-12:01:19.651 a2876 Creating DB /home/atenea/.config/google-chrome/Default/IndexedDB/https_b013e34e443343da2c9d2c069a1ece09.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
-2022/11/17-12:01:19.652 a2876 Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_b013e34e443343da2c9d2c069a1ece09.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/11/17-12:01:26.074 a2876 Level-0 table #5: started
-2022/11/17-12:01:26.075 a2876 Level-0 table #5: 480 bytes OK
-2022/11/17-12:01:26.077 a2876 Delete type=0 #3
-2022/11/17-12:01:26.077 a2876 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

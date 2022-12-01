@@ -1,6 +1,0 @@
-2022/10/18-01:22:52.146 7edba Creating DB /home/atenea/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb since it was missing.
-2022/10/18-01:22:52.148 7edba Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/10/18-01:23:09.902 82066 Level-0 table #5: started
-2022/10/18-01:23:09.903 82066 Level-0 table #5: 3240 bytes OK
-2022/10/18-01:23:09.905 82066 Delete type=0 #3
-2022/10/18-01:23:09.905 82066 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

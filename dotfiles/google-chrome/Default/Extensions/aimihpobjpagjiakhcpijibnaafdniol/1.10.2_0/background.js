@@ -1,1 +1,0 @@
-(()=>{"use strict";var t=/^https?:\/\/(osu|new).ppy.sh\/([bs]|beatmapsets)\/(\d+)\/?(#(osu|taiko|fruits|mania)\/(\d+))?/i;chrome.tabs.onUpdated.addListener((function(e,s,a){"complete"===s.status&&a.url.match(t)?chrome.pageAction.show(e):a.url.match(t)||chrome.pageAction.hide(e)}))})();

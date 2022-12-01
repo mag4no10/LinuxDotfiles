@@ -1,6 +1,0 @@
-2022/11/16-09:21:06.340 7795c Creating DB /home/atenea/.config/google-chrome/Default/IndexedDB/https_onetalk.alibaba.com_0.indexeddb.leveldb since it was missing.
-2022/11/16-09:21:06.342 7795c Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_onetalk.alibaba.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/11/16-09:21:39.126 7795b Level-0 table #5: started
-2022/11/16-09:21:39.127 7795b Level-0 table #5: 1322 bytes OK
-2022/11/16-09:21:39.128 7795b Delete type=0 #3
-2022/11/16-09:21:39.128 7795b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

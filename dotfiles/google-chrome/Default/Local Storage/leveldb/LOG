@@ -1,9 +1,0 @@
-2022/12/01-08:28:09.999 3 Reusing MANIFEST /home/atenea/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2022/12/01-08:28:10.011 3 Recovering log #3627
-2022/12/01-08:28:10.012 3 Reusing old log /home/atenea/.config/google-chrome/Default/Local Storage/leveldb/003627.log 
-2022/12/01-08:28:15.570 4 Level-0 table #3635: started
-2022/12/01-08:28:15.572 4 Level-0 table #3635: 77292 bytes OK
-2022/12/01-08:28:15.574 4 Delete type=0 #3627
-2022/12/01-08:40:14.434 c Level-0 table #3637: started
-2022/12/01-08:40:14.437 c Level-0 table #3637: 23075 bytes OK
-2022/12/01-08:40:14.439 c Delete type=0 #3634

@@ -1,6 +1,0 @@
-2022/10/30-18:53:48.804 50544 Creating DB /home/atenea/.config/google-chrome/Default/IndexedDB/https_www.geniolandia.com_0.indexeddb.leveldb since it was missing.
-2022/10/30-18:53:48.807 50544 Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_www.geniolandia.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/10/30-18:54:02.540 5145d Level-0 table #5: started
-2022/10/30-18:54:02.541 5145d Level-0 table #5: 3690 bytes OK
-2022/10/30-18:54:02.542 5145d Delete type=0 #3
-2022/10/30-18:54:02.542 5145d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

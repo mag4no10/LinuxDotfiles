@@ -1,7 +1,0 @@
-2022/11/24-12:31:39.626 5e57 Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/11/24-12:31:39.626 5e57 Recovering log #3
-2022/11/24-12:31:39.627 5e57 Reusing old log /home/atenea/.config/google-chrome/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/000003.log 
-2022/11/24-12:31:50.586 5e58 Level-0 table #5: started
-2022/11/24-12:31:50.587 5e58 Level-0 table #5: 10147 bytes OK
-2022/11/24-12:31:50.589 5e58 Delete type=0 #3
-2022/11/24-12:31:50.589 5e58 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

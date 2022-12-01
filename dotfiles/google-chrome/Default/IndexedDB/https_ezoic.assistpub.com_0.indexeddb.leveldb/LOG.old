@@ -1,6 +1,0 @@
-2022/11/14-14:43:40.270 28567 Creating DB /home/atenea/.config/google-chrome/Default/IndexedDB/https_ezoic.assistpub.com_0.indexeddb.leveldb since it was missing.
-2022/11/14-14:43:40.272 28567 Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_ezoic.assistpub.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/11/14-14:43:56.372 28170 Level-0 table #5: started
-2022/11/14-14:43:56.373 28170 Level-0 table #5: 389 bytes OK
-2022/11/14-14:43:56.374 28170 Delete type=0 #3
-2022/11/14-14:43:56.375 28170 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
