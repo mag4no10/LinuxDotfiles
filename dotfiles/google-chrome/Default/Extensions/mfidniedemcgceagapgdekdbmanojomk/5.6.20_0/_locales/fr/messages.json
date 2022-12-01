@@ -1,0 +1,3559 @@
+{
+   "200_Cash_Back_Gold": {
+      "message": "Gold de remise en argent"
+   },
+   "20_Cash_Back_Increase": {
+      "message": "Augmentation de\u003Cb style=\"font-size: 20px;\">20%\u003C/b> de la remise en argent"
+   },
+   "2_rewards_offer_arrived": {
+      "message": "L'offre de récompenses de \u003Cspan style=\"font-size: 28px;color:#EA5A4F\">2 $$ \u003C/span> est arrivée !"
+   },
+   "600_Gold": {
+      "message": " 600 Gold "
+   },
+   "AT_App_Module_Desc": {
+      "message": "Coupert Extension est désormais disponible sur Safari mobile sur iOS 15.0."
+   },
+   "AT_App_Module_Title": {
+      "message": "Essayez Coupert sur votre iPhone"
+   },
+   "AT_Coupon_Success": {
+      "message": "Coupon Réussi"
+   },
+   "AT_High_Status": {
+      "message": "Haut"
+   },
+   "AT_Medium": {
+      "message": "Moyen"
+   },
+   "AT_Members_Choice": {
+      "message": "Choix des membres"
+   },
+   "AT_Snooze_Popup_Desc": {
+      "message": "Choisissez-en un pour éviter plus d'interruptions."
+   },
+   "AT_Snooze_Popup_Title": {
+      "message": "Vous ne voulez pas utiliser ce service ?"
+   },
+   "About_Gift": {
+      "message": "Carte cadeau"
+   },
+   "About_PayPal": {
+      "message": "PayPal"
+   },
+   "Account_btn": {
+      "message": "Compte"
+   },
+   "Activate_Purchase": {
+      "message": "Activer et acheter"
+   },
+   "Activate_Rewards": {
+      "message": "Activer Récompenses"
+   },
+   "Activated_You_will_receive_it_within_24_72_hours_after_purchase": {
+      "message": " activée. Vous le recevrez dans les 24 à 72 heures suivant l'achat."
+   },
+   "Add_To_Droplist": {
+      "message": "Ajouter à la liste déroulante"
+   },
+   "Added_To_Your_Droplist": {
+      "message": "Ajouté à votre liste déroulante!"
+   },
+   "After_Cash_Back": {
+      "message": "Après Cash Back"
+   },
+   "App_Module_Btn": {
+      "message": "Installer l'application Coupert"
+   },
+   "Applied": {
+      "message": "Appliqué"
+   },
+   "Apply_Code": {
+      "message": "Appliquer Le Code"
+   },
+   "Apply_Rewards": {
+      "message": "Appliquer des récompenses"
+   },
+   "Appreciate_your_help": {
+      "message": "Apprécier ton aide!"
+   },
+   "AvgConfirmationTime": {
+      "message": "Moy. Délai de confirmation"
+   },
+   "AvgPaid": {
+      "message": "Moy. Temps payé"
+   },
+   "Avg_Cash_Back": {
+      "message": "Moy. Remise en argent"
+   },
+   "Avg_Earned": {
+      "message": "Moy. Gagné"
+   },
+   "Avg_Earned_Amount": {
+      "message": "Moy. Montant gagné"
+   },
+   "Balance": {
+      "message": "Solde"
+   },
+   "Best_Seller": {
+      "message": "Best-seller"
+   },
+   "Bonus": {
+      "message": "Bonus"
+   },
+   "Bubble_CB_Describe": {
+      "message": "Après avoir utilisé le code promo, activez le Cash Back et vous économiserez davantage."
+   },
+   "CBItemPopupDsec": {
+      "message": "La remise en argent sera ajoutée à votre compte dans les 24-72 heures."
+   },
+   "CB_Days": {
+      "message": "journées"
+   },
+   "CC_CBInject_title": {
+      "message": "Vous pouvez également utiliser ce code potentiel à la caisse pour économiser de l'argent instantanément !"
+   },
+   "CHECK_IN_TITLE_CONTINUOUS_1": {
+      "message": "Vous vous êtes enregistré pendant "
+   },
+   "CHECK_IN_TITLE_CONTINUOUS_2": {
+      "message": " jours consécutifs!"
+   },
+   "Capital_Letters_With_Coupert": {
+      "message": "Avec Coupert"
+   },
+   "CashBack_Gold": {
+      "message": "CASHBACK GOLD"
+   },
+   "CashBack_Payment": {
+      "message": "PAIEMENT CASHBACK"
+   },
+   "Cash_Back_Found_Not_Flag": {
+      "message": "Cash Back trouvée"
+   },
+   "Cash_Back_found": {
+      "message": "$fixedCommission$ Cash Back trouvée!",
+      "placeholders": {
+         "fixedCommission": {
+            "content": "$1"
+         }
+      }
+   },
+   "Cash_Back_get_cb": {
+      "message": "Cash Back"
+   },
+   "Cash_Back_to_earn_rewards": {
+      "message": "\u003Cspan style=\"font-size: 18px;font-weight: 900;color: #333333;\">Cash Back\u003C/span> pour gagner des récompenses."
+   },
+   "Cb_As_Cash_Back": {
+      "message": "comme Cash Back"
+   },
+   "Cb_Cash_Back_Good_Tips": {
+      "message": "Il s'agit d'une estimation du Cash Back que vous pouvez obtenir et le montant réel peut varier en fonction des articles et des catégories de votre achat, etc."
+   },
+   "Cb_Cash_Back_OFF": {
+      "message": "de réduction"
+   },
+   "Choose_Later": {
+      "message": "Je choisirai plus tard"
+   },
+   "Cliaim_your_rewards": {
+      "message": "Réclamez vos récompenses !"
+   },
+   "Close": {
+      "message": "proche"
+   },
+   "Compare_At_1_Store": {
+      "message": "Comparer dans 1 magasin"
+   },
+   "Compare_At_Num_Stores": {
+      "message": "Comparer dans $num$ magasins",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "Compare_Price_At_1_Store": {
+      "message": "Comparer les prix dans 1 magasin"
+   },
+   "Compare_Prices_Across_Nnm_Stores": {
+      "message": "Comparez les prix dans $num$ magasins",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "Compare_Prices_At_Num_Stores": {
+      "message": "Comparez les prix de $num$ magasins",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "Confirmed_In_30_Days_Avg": {
+      "message": "Confirmé dans 30 jours \u003Cspan style=\"font-weight: normal;opacity: 0.3;\">(moyenne)\u003C/span>"
+   },
+   "Congratulations_Even_luckier_you_will_save_more_by_activating_Cash_Back": {
+      "message": "Toutes nos félicitations! Encore plus chanceux, vous économiserez davantage en activant le Cash Back."
+   },
+   "Congratulations_You_Will_Save_More_By_Combining_Cash_Back": {
+      "message": "Toutes nos félicitations! Vous économiserez davantage en combinant le Cash Back."
+   },
+   "Copy_Code": {
+      "message": "Copier Code"
+   },
+   "Coupert_Found_Coupons": {
+      "message": "Coupert Coupons trouvés!"
+   },
+   "Coupon_Success_Rate_value": {
+      "message": "Taux de réussite du coupon \u003Cb style=\"font-size: 16px;color: #333333;\">$num$\u003C/b>",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "Delete_Account": {
+      "message": "Supprimer le compte"
+   },
+   "Dont_worry_The_good_news_is_you_can_earn_Gold_by_activating_Cash_Back": {
+      "message": "Ne vous inquiétez pas! La bonne nouvelle est que vous pouvez gagner de l'or en activant le Cash Back."
+   },
+   "Download_and_shop_to_withdraw": {
+      "message": "Téléchargez et achetez pour retirer \u003Cb style=\"color:#EA5A4F\">4 $$\u003C/b>!"
+   },
+   "Download_to_save_more": {
+      "message": "Téléchargez pour économiser plus !"
+   },
+   "Drop_Not_Subscribe_And_Not_Signin": {
+      "message": "Inscrivez-vous sur Coupert pour ajouter cet article à votre liste de suivi. Nous surveillerons les baisses de prix au cours des 60 prochains jours et vous enverrons un e-mail lorsqu'il atteindra le prix notifié."
+   },
+   "Drop_Not_Subscribe_And_Signin": {
+      "message": "Ajoutez cet article à votre liste de surveillance. Nous surveillerons les baisses de prix au cours des 60 prochains jours et vous enverrons un e-mail lorsqu'il atteindra le prix notifié."
+   },
+   "Drop_Subscribe": {
+      "message": "Nous surveillerons les baisses de prix au cours des 60 prochains jours et vous enverrons un e-mail lorsqu'il atteindra le prix notifié."
+   },
+   "Droplist": {
+      "message": "Liste déroulante"
+   },
+   "Earn_1_2_Cash_Back": {
+      "message": "Obtenez \u003Cb >\u003Cspan style=\"font-size: $num$;color:$color$\">1.2X\u003C/span> Cash Back \u003C/b> sur vos achats. Plus, 600 récompenses en or !",
+      "placeholders": {
+         "color": {
+            "content": "$2"
+         },
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "Earn_1_2_Cash_Back_Now": {
+      "message": "\u003Cb >Obtenez \u003Cspan style=\"font-size: $num$;color:$color$\">1.2X\u003C/span> Cash Back & 600 Gold \u003C/b>maintenant.",
+      "placeholders": {
+         "color": {
+            "content": "$2"
+         },
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "Earn_1_2_Cash_Back_Now_yellow": {
+      "message": "Obtenez\u003Cb style=\"color:#FF9B5A\"> \u003Cspan style=\"font-size: 18px;\">1.2X\u003C/span> Cash Back \u003C/b>& \u003Cb style=\"color:#FF9B5A\">600 Gold \u003C/b>maintenant."
+   },
+   "Earn_4_for_for_your": {
+      "message": "Earn \u003Cb style=\"font-size: 20px;color:#FF4B1E\">4 $$\u003C/b> pour votre première commande avec l'extension mobile !"
+   },
+   "Earn_600_Gold_Now": {
+      "message": "Gagnez 600 Gold maintenant !"
+   },
+   "Earn_Cash_Back_600_Gold": {
+      "message": "Gagnez 1,2X Cash Back et 600 Gold avec l'extension mobile."
+   },
+   "Earn_an_extra_20": {
+      "message": "Obtenez une remise en \u003Cb >argent supplémentaire de \u003Cspan style=\"font-size: 20px;color:#FF4B1E\">20%\u003C/span>\u003C/b>sur vos achats. De plus, 600 récompenses Gold !"
+   },
+   "Earn_golds_to_withdraw": {
+      "message": "Gagnez des pièces à retirer!"
+   },
+   "Ends": {
+      "message": "Se termine"
+   },
+   "Est_Cash_Back": {
+      "message": "Estimation de la remise en argent"
+   },
+   "Estimated": {
+      "message": "Estimé"
+   },
+   "Event_Details": {
+      "message": "pour la première commande"
+   },
+   "Excluding_Shipping_And_Tax": {
+      "message": "hors frais de port et taxes"
+   },
+   "Exclusive_Rewards": {
+      "message": "Récompenses exclusives"
+   },
+   "Extra_4_rewards_no_your": {
+      "message": "Obtenez \u003Cb style=\"font-size: 20px;color:#FF4B1E\">$$4\u003C/b> \u003Cb>de récompenses\u003C/b> supplémentaires sur votre première commande avec l'extension mobile !"
+   },
+   "Extra_Bonus": {
+      "message": "Bonus"
+   },
+   "Failed": {
+      "message": "Échec"
+   },
+   "Free_and_no_risk": {
+      "message": "Gratuit et sans risque!"
+   },
+   "Get_20_Withdrawal": {
+      "message": "Obtenez 20 % de récompenses pour vos retraits sur Coupert APP"
+   },
+   "Get_5x_offer": {
+      "message": "Obtenez l'offre 5X et vous profiterez d'un cash back de"
+   },
+   "Get_A_Money_Gift_Card_Now": {
+      "message": "Obtenez une carte-cadeau de $num$ maintenant !",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "Get_Coupert_APP_Desc": {
+      "message": "Recevez automatiquement tous les codes de réduction lors de vos achats sur Moblie Safari."
+   },
+   "Get_Coupert_App_for_iOS": {
+      "message": "Obtenez l'application Coupert pour iOS"
+   },
+   "Get_Mobile_Extension": {
+      "message": "Obtenir l'extension mobile"
+   },
+   "Get_Mobile_Extension_Desc": {
+      "message": "L'extension Safari de Coupert recherche automatiquement des offres pour vous lorsque vous faites des achats sur votre téléphone mobile."
+   },
+   "Get_Mobile_Extension_for_iOS": {
+      "message": "Obtenez Mobile Extension pour iOS"
+   },
+   "Get_Savings_on_the_Go": {
+      "message": "Faites des économies sur le pouce!"
+   },
+   "Get_Your_Money": {
+      "message": "Obtenez votre argent !"
+   },
+   "Get_an_extra_20": {
+      "message": "Obtenez une remise en \u003Cb >argent supplémentaire de \u003Cspan style=\"font-size: 20px;color:#FF4B1E\">20%\u003C/span>\u003C/b> sur vos achats. Plus, 600 récompenses Gold !"
+   },
+   "Get_an_extra_20_AT": {
+      "message": "Obtenez une remise en \u003Cb >argent supplémentaire de \u003Cspan style=\"font-size: 22px;color:#FF4B1E\">20%\u003C/span>\u003C/b> sur vos achats. Plus, 600 récompenses Gold !"
+   },
+   "Get_an_extra_20_AT_N": {
+      "message": "Obtenez une remise en \u003Cb >argent supplémentaire de \u003Cspan style=\"font-size: 26px;color:#FF4B1E\">20%\u003C/span>\u003C/b> sur vos achats. Plus, 600 récompenses Gold !"
+   },
+   "Get_an_extra_20_CB": {
+      "message": "Obtenez une remise en \u003Cb >argent supplémentaire de \u003Cspan style=\"font-size: 18px;color:#FF4B1E\">20%\u003C/span>\u003C/b> sur vos achats. Plus, 600 récompenses Gold !"
+   },
+   "Get_it_now": {
+      "message": "Obtenez-la maintenant"
+   },
+   "Get_the_free_Coupert_APP": {
+      "message": "Obtenez l'APP Coupert gratuit"
+   },
+   "GiftCardPopoverWrap": {
+      "message": "Cliquez simplement pour retirer le Cash Back que vous avez gagné de Coupert. Vous recevrez une carte-cadeau $name$ en 1 à 3 minutes.",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "GiftCardPopoverWrap3": {
+      "message": "Retirez le solde Coupert que vous avez gagné pour recevoir cette carte-cadeau en \u003Cspan style=\"color:#EA5A4F\">1 à 3 minutes\u003C/span>. Vite!"
+   },
+   "GiftCard_PopoverTitle": {
+      "message": " Échangez $money$ Coupert Cash pour passer à la caisse! Vite.",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "GiftCard_PopoverTitle2": {
+      "message": "Économisez $money$ avec la carte-cadeau !",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "GiftCard_PopoverTitle3": {
+      "message": "Vous avez trouvé une carte-cadeau de $money$ à échanger !",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "Go_to": {
+      "message": "aller à la"
+   },
+   "Gold_for_first_order": {
+      "message": "Gold pour la première commande"
+   },
+   "Gold_pendings": {
+      "message": "Pourquoi mon or est-il en attente? "
+   },
+   "Gold_rules": {
+      "message": "Règles d'or"
+   },
+   "Gold_rules_hover": {
+      "message": "L'or est échangé en solde de trésorerie  automatiquement  par le système Gold sur la base du  Cash Back Gold confirmé . Le montant maximum de Task Gold qui peut être converti en solde est autant que le montant de Cash Back Gold."
+   },
+   "Got_it1": {
+      "message": "J'ai compris!"
+   },
+   "Have_3": {
+      "message": "Vous avez "
+   },
+   "Have_withdraw": {
+      "message": "Vous avez gagné"
+   },
+   "Hide_On_This_Page": {
+      "message": "Cacher sur cette page"
+   },
+   "How_to_PayPal": {
+      "message": "Comment aimeriez-vous être payé?"
+   },
+   "How_to_pin_Coupert": {
+      "message": "Comment épingler Coupert?"
+   },
+   "I_dont_need_it": {
+      "message": "je n'en ai pas besoin"
+   },
+   "Icon_App_Module_Title": {
+      "message": "Obtenez Coupert sur votre navigateur mobile Safari."
+   },
+   "If_Coupert_is_not_added_to_your_toolbar_simply_click_the": {
+      "message": "Si Coupert n'est pas ajouté à votre barre d'outils, cliquez simplement sur le \""
+   },
+   "Increase": {
+      "message": "Augmenter"
+   },
+   "Injected_AT_One_Code_Description": {
+      "message": "Ce code peut ne pas fonctionner, et vous bénéficiez déjà du meilleur prix."
+   },
+   "Injected_Price_Coupons": {
+      "message": "Bons de réduction"
+   },
+   "Injected_Price_Nothing_Description": {
+      "message": "Ahh ~ Actuellement, c'est le meilleur prix de tous les vendeurs pour ce produit."
+   },
+   "Injected_Price_Nothing_Title": {
+      "message": "C'est le best-seller trouvé par Coupert."
+   },
+   "Injected_Price_Popup_Top_Description": {
+      "message": "Coupert compare le prix des articles dans $num$ magasins. Les options sont classées en prenant le prix du vendeur et en déduisant le Coupert Cash Back.",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "Injected_Price_Similar_Store": {
+      "message": "C'est la meilleure affaire. Mais Coupert a trouvé du Cash Back, achetez cet article dans des magasins similaires pour gagner des récompenses !"
+   },
+   "Install_Now": {
+      "message": "Installez maintenant"
+   },
+   "It_is_the_average_Cash_Back_that_Coupert_members_get_in_this_site_which_is_an_estimated_value_calculated_from_the_history_data": {
+      "message": "Il s'agit du Cash Back moyen que les membres Coupert obtiennent sur ce site, qui est une valeur estimée calculée à partir des données de l'historique."
+   },
+   "Item_Coupon_Found": {
+      "message": "Coupon d'article trouvé !"
+   },
+   "Item_Coupon_Found_desc": {
+      "message": "Nous avons trouvé un code d'économie potentiel pour cet article, copiez et enregistrez maintenant !"
+   },
+   "Item_Price": {
+      "message": "Prix de l'article"
+   },
+   "Last_24_hrs_coupon_success_rate": {
+      "message": "Taux de réussite des coupons des dernières 24 hrs$num$",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "Lets_try_it": {
+      "message": "Essayons!"
+   },
+   "Limited_time_event_for_iOS_users": {
+      "message": "Événement à durée limitée pour les utilisateurs iOS"
+   },
+   "Limited_to_Mobile_Extension": {
+      "message": "Limité à l'extension mobile"
+   },
+   "Log_In_For_Price_Drops": {
+      "message": "Connectez-vous pour les baisses de prix"
+   },
+   "Log_In_To_Earn_Rewards_No_Risk": {
+      "message": "Connectez-vous pour gagner des récompenses, aucun risque!"
+   },
+   "Log_in_to_Check_in": {
+      "message": "Connectez-vous à l'enregistrement"
+   },
+   "Login": {
+      "message": "connexion"
+   },
+   "Low": {
+      "message": "Bas"
+   },
+   "Low_Price_At_1_Store": {
+      "message": "Prix bas dans 1 magasin"
+   },
+   "Low_Price_At_X_Stores": {
+      "message": "Petits prix dans $num$ magasins",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "Medium": {
+      "message": "Moyen"
+   },
+   "Medium_Coupon_Success": {
+      "message": "Succès du coupon moyen"
+   },
+   "Members_Choice": {
+      "message": "Choix du membre"
+   },
+   "Merchant_Price_Is": {
+      "message": "Le prix de l'objet sur $name$ est",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "New_Testing_code": {
+      "message": "Test en cours"
+   },
+   "New_users_of_Mobile": {
+      "message": "Nouveaux utilisateurs de Mobile Extension uniquement."
+   },
+   "No_Working_Code_Was_Found_And_You_Could_Checkout_Confidently": {
+      "message": "Aucun code fonctionnel n'a été trouvé et vous pouvez payer en toute confiance."
+   },
+   "No_Working_Code_Was_Found_But_Youre_Eligible_For_Cash_Back": {
+      "message": "Aucun code fonctionnel n'a été trouvé, mais vous êtes éligible au Cash Back."
+   },
+   "Notice_Just_activate": {
+      "message": "Remarque: activez simplement"
+   },
+   "Notify_When": {
+      "message": "Avertir lorsque"
+   },
+   "Number_Off": {
+      "message": "$num$ % de réduction",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "One_time_only_per_user": {
+      "message": "Une seule fois par utilisateur."
+   },
+   "Only_for_iOS15": {
+      "message": "Uniquement pour iOS15 ou supérieur."
+   },
+   "Oops_AT_desc": {
+      "message": "Cliquez sur le bouton et nous testerons tous les codes de réduction et appliquerons le code de réduction le plus précieux pour vous ! "
+   },
+   "Paid_Time": {
+      "message": "Temps payé"
+   },
+   "Pending_gold": {
+      "message": " En attente Gold"
+   },
+   "Preferences_Continue": {
+      "message": "Continuer"
+   },
+   "Preferences_Options_Subtitle_Cookies": {
+      "message": "Nous collecterons les données suivantes sur les sites d'achat pour trouver les bonnes affaires pour vous."
+   },
+   "Preferences_Options_Subtitle_Core_Analytics": {
+      "message": "pour savoir si Coupert fonctionne bien dans votre navigateur."
+   },
+   "Preferences_Options_Subtitle_Google_Analytics": {
+      "message": "pour aider à optimiser la fonction Coupert et votre expérience d'achat."
+   },
+   "Preferences_Options_Title_Cookies": {
+      "message": "Cookies"
+   },
+   "Preferences_Options_Title_Core_Analytics": {
+      "message": "Analytique de base"
+   },
+   "Preferences_Options_Title_Google_Analytics": {
+      "message": "Google Analytics"
+   },
+   "Preferences_Privacy_Policy": {
+      "message": "Politique de confidentialité"
+   },
+   "Preferences_Privacy_Policy_Word": {
+      "message": "Pour en savoir plus sur la manière dont Coupert collecte et protège vos données, veuillez lire notre "
+   },
+   "Preferences_Setting_Word": {
+      "message": "paramètres"
+   },
+   "Preferences_Setting_Word_By_Left": {
+      "message": "Vous pouvez modifier vos préférences dans les "
+   },
+   "Preferences_Setting_Word_By_Right": {
+      "message": " à tout moment."
+   },
+   "Preferences_Subtitle": {
+      "message": "Nous collecterons les données suivantes sur les sites d'achat pour trouver les bonnes affaires pour vous."
+   },
+   "Preferences_Title": {
+      "message": "Nous prenons votre vie privée très au sérieux."
+   },
+   "Price": {
+      "message": "Prix"
+   },
+   "Price_After_Cash_Back": {
+      "message": "Prix après remise en argent"
+   },
+   "Price_At_This_Store": {
+      "message": "$price$ dans ce magasin",
+      "placeholders": {
+         "price": {
+            "content": "$1"
+         }
+      }
+   },
+   "Price_Comparison": {
+      "message": "Comparaison de prix"
+   },
+   "Price_Introduce": {
+      "message": "Achetez cet article et les remises en argent seront ajoutées à votre compte Coupert dans les 24 à 72 heures."
+   },
+   "Price_Product_Describe": {
+      "message": "Remise en argent estimée à $num en récompenses Coupert. L'utilisation de coupons à la caisse peut économiser encore plus !",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "Price_Searching": {
+      "message": "Recherche de prix"
+   },
+   "Rate_Clicked": {
+      "message": " \u003Cspan style=\"font-weight: 900;color: #333333;\">$rate$%\u003C/span> Cliqué",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "Rate_This_Recommendation": {
+      "message": "Évaluez cette recommandation"
+   },
+   "Re_Activate_Now": {
+      "message": "Re-Activer Maintenant"
+   },
+   "Remind_me_tomorrow": {
+      "message": "Rappelle-moi demain"
+   },
+   "Remove_This_Item": {
+      "message": "enlever cet article"
+   },
+   "Removed_From_Your_Droplist": {
+      "message": "Supprimé de votre liste déroulante!"
+   },
+   "Rewards": {
+      "message": "Récompenses"
+   },
+   "Rewards_Activated": {
+      "message": "Récompenses activées !"
+   },
+   "Rewards_Found": {
+      "message": "Récompenses trouvées!"
+   },
+   "Rewards_Rate": {
+      "message": "Taux de récompenses"
+   },
+   "Rewards_found1": {
+      "message": "Récompenses trouvées!"
+   },
+   "SS_Coupons": {
+      "message": "Coupons"
+   },
+   "SS_POPUP_close_title": {
+      "message": "Je ne suis pas intéressé, désactivez le rappel sur ce site."
+   },
+   "SS_POPUP_title": {
+      "message": "Il n'y a pas de Cash Back ici.\u003Cbr/>Nous avons des magasins similaires avec Cash Back pour vous !"
+   },
+   "SS_View_all_stores": {
+      "message": "Voir tous les magasins"
+   },
+   "SS_injecte_desc": {
+      "message": "Obtenez des remises en argent dans $num$  magasins",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "SS_injected_title": {
+      "message": "Achetez cet article dans des magasins similaires pour obtenir une remise en argent !"
+   },
+   "Save_Changes": {
+      "message": "Sauvegarder les modifications"
+   },
+   "Save_Money": {
+      "message": "Économisez $num$",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "Savings": {
+      "message": "Des économies"
+   },
+   "Savings_Found": {
+      "message": "Des économies trouvées !"
+   },
+   "Scan_To_Download": {
+      "message": "Scanner pour télécharger"
+   },
+   "Scan_to_download": {
+      "message": "Scanner pour télécharger"
+   },
+   "Seller": {
+      "message": "Magasin"
+   },
+   "Send": {
+      "message": "Envoyer"
+   },
+   "Shop_with_Mobile_Extension": {
+      "message": "Faites des achats avec Mobile Extension"
+   },
+   "Sign_Up_For_Price_Drops": {
+      "message": "Inscrivez-vous aux baisses de prix"
+   },
+   "Sign_Up_To_Claim": {
+      "message": "Ouvrir un compte et récupérer"
+   },
+   "Similar_Items": {
+      "message": "Objets similaires"
+   },
+   "Single_Coupon": {
+      "message": "coupon"
+   },
+   "Skip_Testing_and_Apply_Savings": {
+      "message": "Ignorer les tests et appliquer les économies"
+   },
+   "Snooze_For_24_Hours": {
+      "message": "Répéter pendant 24 heures"
+   },
+   "Snooze_For_Hours": {
+      "message": "Sommeil pendant 24 heures"
+   },
+   "Snooze_For_Minutes": {
+      "message": "Sommeil pendant 30 minutes"
+   },
+   "Snooze_On_All_Sites": {
+      "message": "Snooze sur TOUS les sites"
+   },
+   "Snooze_On_This_Site": {
+      "message": "Répéter sur ce site"
+   },
+   "So_far": {
+      "message": "jusqu'à présent!"
+   },
+   "Special_Offer": {
+      "message": "Offre spéciale"
+   },
+   "SubmittedCodeTitle": {
+      "message": "Merci de partager l’amour avec la communauté. Le code soumis sera essayé à la caisse."
+   },
+   "Success1": {
+      "message": "Taux de réussite"
+   },
+   "Successfully_Sent": {
+      "message": "Envoyé avec succès"
+   },
+   "Terms_Conditions": {
+      "message": "Conditions générales d'utilisation"
+   },
+   "Terms_Conditions_desc": {
+      "message": "Cette offre peut être automatiquement échangée lorsque vous effectuez votre première commande dans l'extension mobile pour iOS."
+   },
+   "Thanks_For_Your_Feedback": {
+      "message": "Merci pour vos commentaires!"
+   },
+   "The_Item_Has_Been_Added_To_Your_Watchlist": {
+      "message": "L'article a été ajouté à votre liste de surveillance."
+   },
+   "The_Price_Is_Wrong": {
+      "message": "Le prix est faux"
+   },
+   "This_Isnt_Relevant": {
+      "message": "Ce n'est pas pertinent"
+   },
+   "This_Isnt_Useful": {
+      "message": "Ce n'est pas utile"
+   },
+   "This_Page_Is_Null": {
+      "message": "Cette page est nulle"
+   },
+   "Tio_Avg_Earned": {
+      "message": "Il s'agit du Cash Back moyen que les membres Coupert obtiennent sur ce site, qui peut varier selon les articles et les catégories de votre achat, etc."
+   },
+   "Tip_Avg_Confirmation_Time": {
+      "message": "Il s'agit du temps moyen nécessaire pour confirmer le Cash Back et le temps d'attente réel pour la confirmation peut varier en fonction de la commande et de la politique, etc."
+   },
+   "Tips_Price_Avg_Cashback": {
+      "message": "Remise en argent estimée à $num$ en récompenses Coupert, confirmée dans les $days$ en moyenne.",
+      "placeholders": {
+         "days": {
+            "content": "$2"
+         },
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "To_pin_it_so_that_you_can_always_find": {
+      "message": "\" pour l'épingler afin que vous puissiez toujours trouver le \""
+   },
+   "Top_Pick": {
+      "message": "Préféré"
+   },
+   "Tracks_In_72_Hrs": {
+      "message": "Suivi en 72h"
+   },
+   "Try_all_codes_in_1_click": {
+      "message": "Essayez tous les codes en 1 clic"
+   },
+   "Up_to_500_Gold": {
+      "message": "Jusqu'à 500 Gold."
+   },
+   "View_All_Codes": {
+      "message": "Afficher tous les codes"
+   },
+   "View_Droplist": {
+      "message": "Afficher la liste déroulante"
+   },
+   "View_More": {
+      "message": "Voir plus"
+   },
+   "View_More_Coupons": {
+      "message": "Passez la souris pour voir plus de coupons!"
+   },
+   "View_and_apply_more_codes_HERE": {
+      "message": "Voir et appliquer plus de codes ICI!"
+   },
+   "Want_to_get_some_rewards": {
+      "message": "Vous voulez obtenir des récompenses?"
+   },
+   "Watch_This_Item_For_Price_Drops": {
+      "message": "Surveillez cet article pour les baisses de prix"
+   },
+   "What_Are_Your_Thoughts": {
+      "message": "Quelles sont vos pensées?"
+   },
+   "Whenever_you_need_it": {
+      "message": "\" chaque fois que vous en avez besoin."
+   },
+   "Withdraw_Introduction": {
+      "message": "Cliquez simplement sur le bouton \"retirer\" et vous recevrez une carte-cadeau Walmart US de $num$ en 1 à 3 minutes.",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "Withdraw_Now1": {
+      "message": "Retirer"
+   },
+   "Withdraw_PopoverDesc": {
+      "message": "Cliquez simplement pour retirer le Cash Back que vous avez gagné de Coupert. Vous recevrez le paiement dans environ 1 à 3 jours ouvrables."
+   },
+   "Withdraw_PopoverTitle": {
+      "message": "Échangez $money$ Coupert Cash pour passer à la caisse!",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "Withdraw_now_and_get_2X_Cash_Back": {
+      "message": "Retirez maintenant et obtenez&nbsp;\u003Cspan style=\"color:#EC594A;\">2X Cash Back\u003C/span>."
+   },
+   "You_Could_Earn_Rewards": {
+      "message": "Vous pourriez gagner des \u003Cbr/>\u003Cspan style=\"font-size: 48px;\">récompenses!\u003C/span>"
+   },
+   "You_have_saved": {
+      "message": "Vous avez économisé"
+   },
+   "You_have_successfully_earned_XX_Cash_Back": {
+      "message": "Vous avez réussi à gagner $money$ Cash Back.",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "Your_Balance": {
+      "message": "Votre soldee"
+   },
+   "Your_Earning": {
+      "message": "Votre gain"
+   },
+   "_5x_cashback": {
+      "message": "5X Cash Back"
+   },
+   "_5x_detail": {
+      "message": "seront automatiquement remboursés lorsque vous passerez vos commandes dans les 72 heures.",
+      "placeholders": {
+         "hour": {
+            "content": "$1"
+         }
+      }
+   },
+   "_5x_detail1": {
+      "message": "jusqu'à 10 $$ supplémentaires"
+   },
+   "_5x_offer_available": {
+      "message": "Offre 5X cashback disponible"
+   },
+   "_Activated_TIPS": {
+      "message": "Achetez comme d'habitude et l'or sera ajouté à votre compte dans les 24 à 72 heures."
+   },
+   "_CB_TIPS": {
+      "message": "Activez facilement et sans risque! Cliquez simplement sur le bouton pour gagner vos récompenses!"
+   },
+   "_Earn": {
+      "message": "Gagnez "
+   },
+   "_HotDealListBtnHide": {
+      "message": "Masquer"
+   },
+   "_HotDealListBtnShow": {
+      "message": "Afficher"
+   },
+   "_Now": {
+      "message": "maintenant!"
+   },
+   "__coupert_cb_rate": {
+      "message": "$codes$ Codes et Jusqu'à $rates$ de CashBack de Coupert",
+      "placeholders": {
+         "codes": {
+            "content": "$1"
+         },
+         "rates": {
+            "content": "$2"
+         }
+      }
+   },
+   "__coupert_cb_rate2": {
+      "message": "Jusqu'à $rates$ de CashBack de Coupert",
+      "placeholders": {
+         "rates": {
+            "content": "$1"
+         }
+      }
+   },
+   "__coupert_cb_rate3": {
+      "message": "$codes$ Codes & $rates$ Gold CashBack de Coupert",
+      "placeholders": {
+         "codes": {
+            "content": "$1"
+         },
+         "rates": {
+            "content": "$2"
+         }
+      }
+   },
+   "__coupert_cb_rate4": {
+      "message": "$rates$ Gold CashBack de Coupert",
+      "placeholders": {
+         "rates": {
+            "content": "$1"
+         }
+      }
+   },
+   "__coupert_cb_rate5": {
+      "message": "$codes$ Code et Jusqu'à $rates$ de CashBack de Coupert",
+      "placeholders": {
+         "codes": {
+            "content": "$1"
+         },
+         "rates": {
+            "content": "$2"
+         }
+      }
+   },
+   "__coupert_cb_rate6": {
+      "message": "$codes$ Code & $rates$ Gold CashBack de Coupert",
+      "placeholders": {
+         "codes": {
+            "content": "$1"
+         },
+         "rates": {
+            "content": "$2"
+         }
+      }
+   },
+   "_add_code": {
+      "message": "ajouter du code"
+   },
+   "_again": {
+      "message": "Vous voulez réessayer?"
+   },
+   "_cancel": {
+      "message": "Annuler"
+   },
+   "_cashBack": {
+      "message": "Avoir $rate$ Cash Back",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "_cash_back_gold": {
+      "message": "\u003Cspan style=\"position: absolute;left: 0;font-weight: normal;font-size: 16px;color: #333;line-height: 26px;\">Cash Back\u003C/span>\u003Cspan style=\"position: absolute;right: 0;font-size: 16px;font-weight: 500;color: #F46042;line-height: 28px;text-shadow: 0px 1px 1px #B5341B;\">$rate$ Gold\u003C/span>",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "_cash_back_gold1": {
+      "message": "\u003Cspan style=\"position: absolute;left: 0;font-weight: normal;font-size: 16px;color: #333;line-height: 26px;\">$multiple$X Cash back\u003C/span>\u003Cspan style=\"position: absolute;right: 0;font-size: 16px;font-weight: 500;color: #F46042;line-height: 28px;text-shadow: 0px 1px 1px #B5341B;\">$rate$ Gold\u003C/span>",
+      "placeholders": {
+         "multiple": {
+            "content": "$1"
+         },
+         "rate": {
+            "content": "$2"
+         }
+      }
+   },
+   "_cash_back_rate": {
+      "message": "\u003Cspan style=\"position: absolute;left: 0;font-weight: normal;font-size: 16px;color: #333;line-height: 26px;\">Cash Back\u003C/span>\u003Cspan style=\"position: absolute;right: 0;font-size: 16px;font-weight: 500;color: #F46042;line-height: 28px;text-shadow: 0px 1px 1px #B5341B;\">$rate$\u003C/span>",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "_cash_back_rate1": {
+      "message": "\u003Cspan style=\"position: absolute;left: 0;font-weight: normal;font-size: 16px;color: #333;line-height: 26px;\">$multiple$X Cash back\u003C/span>\u003Cspan style=\"position: absolute;right: 0;font-size: 16px;font-weight: 500;color: #F46042;line-height: 28px;text-shadow: 0px 1px 1px #B5341B;\">$rate$\u003C/span>",
+      "placeholders": {
+         "multiple": {
+            "content": "$1"
+         },
+         "rate": {
+            "content": "$2"
+         }
+      }
+   },
+   "_cash_coupon": {
+      "message": "Coupon en espèces de"
+   },
+   "_cashback1": {
+      "message": "Vous voulez $rate$ \u003Cbr /> Cash Back?",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "_cashback_link": {
+      "message": "Votre lien Cashback"
+   },
+   "_cbGold": {
+      "message": "$rate$ Gold",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "_cb_first_order": {
+      "message": "Terminer la première commande"
+   },
+   "_cb_order": {
+      "message": "Passer une commande de remboursement"
+   },
+   "_cc_wpcb_desc": {
+      "message": "Recommandez ce magasin ou ses produits par votre lien pour gagner du cashback."
+   },
+   "_check_details": {
+      "message": "20 $$ US."
+   },
+   "_check_task": {
+      "message": "Vérifier la tâche"
+   },
+   "_code": {
+      "message": "Code: $code$",
+      "placeholders": {
+         "code": {
+            "content": "$1"
+         }
+      }
+   },
+   "_code1": {
+      "message": "Code: \u003Cspan style=\"font-weight: 900\">$code$\u003C/span>",
+      "placeholders": {
+         "code": {
+            "content": "$1"
+         }
+      }
+   },
+   "_codeInfo1": {
+      "message": "Taux de réussite des coupons des dernières 48 hrs \u003Cb style=\"font-size: 14px;color: #333333;\">$num$%\u003C/b>",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "_codeInfo3": {
+      "message": "Essayez $num$ autres codes à la caisse",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "_codeInfo4": {
+      "message": "Essayez ce code à la caisse"
+   },
+   "_complete_check_in_7days": {
+      "message": "Effectuez $totalStep$ jours consécutifs d'enregistrement",
+      "placeholders": {
+         "totalStep": {
+            "content": "$1"
+         }
+      }
+   },
+   "_complete_task_list": {
+      "message": "Profil complet & Service d'expérience"
+   },
+   "_complete_two_cb_orders": {
+      "message": "Terminez deux commandes de remboursement"
+   },
+   "_continue_to_checkout1": {
+      "message": "Continuer à la caisse"
+   },
+   "_coupon_found": {
+      "message": "Codes trouvés"
+   },
+   "_coupon_found1": {
+      "message": "\u003Cspan style=\"font-size: 30px;font-weight: 900;color: #333333;line-height: 28px;\">$codes$\u003C/span>\u003Cspan style=\"font-size: 22px;font-weight: 500;color: #333333;line-height: 26px;margin-left: 14px;\">Codes trouvés\u003C/span>",
+      "placeholders": {
+         "codes": {
+            "content": "$1"
+         }
+      }
+   },
+   "_create": {
+      "message": "Créer"
+   },
+   "_create_cashback_link": {
+      "message": "Créer lien cashback"
+   },
+   "_create_your_link": {
+      "message": "Créez votre lien."
+   },
+   "_dataShare": {
+      "message": "Partage de données"
+   },
+   "_dataShareDesc": {
+      "message": "Partagez un code valide avec la communauté Coupert."
+   },
+   "_day": {
+      "message": "journée"
+   },
+   "_dollar": {
+      "message": "\u003Cspan style=\"font-weight: 900;\">$dollar$\u003C/span>\u003Cspan style=\"font-weight: normal;\">$$\u003C/span>",
+      "placeholders": {
+         "dollar": {
+            "content": "$1"
+         }
+      }
+   },
+   "_dollar1": {
+      "message": "\u003Cspan style=\"font-size: 26px;letter-spacing: 2px;\">$dollar$\u003C/span>",
+      "placeholders": {
+         "dollar": {
+            "content": "$1"
+         }
+      }
+   },
+   "_dollar2": {
+      "message": "\u003Cspan style=\"font-size: 24px;letter-spacing: 2px;\">$dollar$\u003C/span>",
+      "placeholders": {
+         "dollar": {
+            "content": "$1"
+         }
+      }
+   },
+   "_double_activate_cash_back": {
+      "message": "Activer le 2X Cashback"
+   },
+   "_double_cash_back_activated": {
+      "message": "2X Cash Back Activé"
+   },
+   "_double_cb_desc": {
+      "message": "Passez votre première commande pour retirer \u003Cspan style=\"font-size: 16px;font-weight: 900\">2 $$\u003C/span>"
+   },
+   "_double_cb_desc1": {
+      "message": "Passez votre première commande pour retirer 2 $$"
+   },
+   "_double_first_welfare": {
+      "message": "Avantages du premier ordre"
+   },
+   "_double_limited_withdraw": {
+      "message": "Retrait à durée limitée de \u003Cspan style=\"font-size: 18px;font-weight: 900;color:#FD4C46\">2 $$ \u003C/span>"
+   },
+   "_double_title": {
+      "message": "+2 $$"
+   },
+   "_double_title1": {
+      "message": " d'avantage"
+   },
+   "_double_title2": {
+      "message": "2 $$"
+   },
+   "_experience_actived_cb": {
+      "message": "Compléter \"Activer la remise en argent\" en $totalStep$ jours consécutifs",
+      "placeholders": {
+         "totalStep": {
+            "content": "$1"
+         }
+      }
+   },
+   "_first_order_cash_coupon": {
+      "message": "Offre de retrait à durée limitée de $dollar$",
+      "placeholders": {
+         "dollar": {
+            "content": "$1"
+         }
+      }
+   },
+   "_five_time_activate_cash_back": {
+      "message": "Activer le 5X Cashback"
+   },
+   "_five_time_cash_back_activated": {
+      "message": "5X Cash Back Activé"
+   },
+   "_five_time_cb": {
+      "message": "$multiple$X Cash back",
+      "placeholders": {
+         "multiple": {
+            "content": "$1"
+         }
+      }
+   },
+   "_five_time_cb1": {
+      "message": "Avec le $multiple$X Cash back:",
+      "placeholders": {
+         "multiple": {
+            "content": "$1"
+         }
+      }
+   },
+   "_five_time_desc": {
+      "message": "Cette offre peut être automatiquement utilisée lorsque vous passez des commandes pendant la période de validité, avec une subvention supplémentaire pouvant aller jusqu'à 10 $$."
+   },
+   "_foundCoupon": {
+      "message": "Vous avez appliqué un code promo valide:"
+   },
+   "_found_coupon": {
+      "message": "Vous avez appliqué un code promo valide"
+   },
+   "_get": {
+      "message": "Avoir"
+   },
+   "_get_cashback": {
+      "message": "Obtenez \u003Cspan style=\"color: #FD4C46;\">$rate$\u003C/span> de remise en argent sur votre commande !",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "_get_cashback_btn": {
+      "message": "Activer instantanément"
+   },
+   "_get_cashback_btn1": {
+      "message": "Cashback activé"
+   },
+   "_get_cashback_gold": {
+      "message": "Obtenez \u003Cspan style=\"color: #FD4C46;\">$rate$\u003C/span> pièces d'or sur votre commande !",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "_give": {
+      "message": "Donner"
+   },
+   "_handleActivateGold": {
+      "message": "Activer $gold$ Gold de Cash Back",
+      "placeholders": {
+         "gold": {
+            "content": "$1"
+         }
+      }
+   },
+   "_handleActivateRate": {
+      "message": "Activer $rate$ Cash Back",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "_handleActivatedGold": {
+      "message": "$gold$ Gold de Cash Back Activé",
+      "placeholders": {
+         "gold": {
+            "content": "$1"
+         }
+      }
+   },
+   "_handleActivatedRate": {
+      "message": "$rate$ Cash Back Activé",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "_high_coupon_success": {
+      "message": "Succès du coupon élevé"
+   },
+   "_home_refer_earn": {
+      "message": "Parrainez et gagnez \u003Cspan style=\"text-decoration: underline;color:#F86149\"> 20 $$\u003C/span>"
+   },
+   "_install_coupert": {
+      "message": "Installer Coupert"
+   },
+   "_install_mobile_btn": {
+      "message": "Téléchargez l'application"
+   },
+   "_install_mobile_desc": {
+      "message": "Téléchargez l'application mobile Coupert pour avoir plus de 4 000 de vos magasins préférés d'un simple glissement de doigt. Achetez et gagnez du cashback à tout moment, n'importe où."
+   },
+   "_install_mobile_task_desc": {
+      "message": "Install the Coupert mobile app to get Cash Back anytime, anywhere."
+   },
+   "_install_mobile_task_title": {
+      "message": "Install Mobile App"
+   },
+   "_install_mobile_title": {
+      "message": "Cashback en un clic"
+   },
+   "_learn_more": {
+      "message": "En savoir plus sur le lien cashback"
+   },
+   "_min_offer_desc": {
+      "message": "Ce coupon d'argent ne peut pas être utilisé avec d'autres offres en même temps pour le retrait d'argent."
+   },
+   "_new_cb_rate_desc": {
+      "message": "Get \u003Cspan style=\"color:#333333;font-size:16px;font-weight: bold\">$rate$\u003C/span> Cashback for $name$ on eBay!",
+      "placeholders": {
+         "name": {
+            "content": "$2"
+         },
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "_not_wpcb_desc": {
+      "message": "Recommandez des magasins et des produits via votre lien de cashback pour gagner du cashback."
+   },
+   "_only": {
+      "message": "Uniquement: $day$ jours",
+      "placeholders": {
+         "day": {
+            "content": "$1"
+         }
+      }
+   },
+   "_only1": {
+      "message": "Uniquement: "
+   },
+   "_overlay_cash_coupon": {
+      "message": "Coupon en espèces de $dollar$",
+      "placeholders": {
+         "dollar": {
+            "content": "$1"
+         }
+      }
+   },
+   "_overlay_offer_desc": {
+      "message": "Vous devez respecter les exigences de retrait minimum lors du retrait de vos coupons en espèces."
+   },
+   "_provide": {
+      "message": "Coupert a trouvé des coupons"
+   },
+   "_ratApplyCoupons": {
+      "message": "Réappliquer Le Coupon"
+   },
+   "_ratNoSavingTitle": {
+      "message": "Nous avons trouvé que les articles dans votre panier ont changé."
+   },
+   "_ratSavingTitle": {
+      "message": "Coupons déjà appliqués avec succès:"
+   },
+   "_receive": {
+      "message": "J'accepte"
+   },
+   "_recommend": {
+      "message": "Recommander"
+   },
+   "_refer": {
+      "message": "Parrainez et gagnez 20$$+"
+   },
+   "_review_title": {
+      "message": "Votre avis motive \u003Cbr /> Coupert à vous faire économiser plus!"
+   },
+   "_save_money_tit": {
+      "message": "Aidez vos amis à économiser de l'argent"
+   },
+   "_social": {
+      "message": "Partager dans les réseaux sociaux:"
+   },
+   "_step1": {
+      "message": "Choisissez un magasin ou ses produits"
+   },
+   "_step2": {
+      "message": "Créez un lien de cashback et partagez-le avec vos amis"
+   },
+   "_step3": {
+      "message": "Gagner du cashback pour les achats via le lien"
+   },
+   "_terms": {
+      "message": "Termes & Conditions"
+   },
+   "_terms_apply": {
+      "message": "Les conditions s'appliquent"
+   },
+   "_test_cb": {
+      "message": "Activer $rate$ Cash Back",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "_test_cb_desc": {
+      "message": "Cashback sera ajouté à votre compte dans les 24 à 72 heures."
+   },
+   "_test_cb_desc1": {
+      "message": "Cashback sera ajouté à votre \u003Cbr /> compte dans les 24 à 72 heures."
+   },
+   "_test_cb_desc2": {
+      "message": "Vous n'avez pas reçu d'offre \u003Cspan style=\"color: #F66042;font-weight: 900;\">5X cash back\u003C/span>."
+   },
+   "_test_cb_gold": {
+      "message": "Activer $rate$ Gold de Cash Back",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "_test_error_text": {
+      "message": "Compléter la première commande vous donnera \u003Cspan style=\"font-size: 28px;font-weight: normal;color: #F4A342;\">2 $$\u003C/span> \u003Cbr /> supplémentaires et vous pourrez retirer immédiatement."
+   },
+   "_tow_cb_orders": {
+      "message": "Passer deux commandes de cashback"
+   },
+   "_twenty_USD": {
+      "message": "Parrainez un ami, vous obtenez tous les deux "
+   },
+   "_twenty_USD1": {
+      "message": "Bonus de 20 $$ US. Vérifier!"
+   },
+   "_twenty_USD2": {
+      "message": "Parrainez et gagnez \u003Cspan style=\"font-size: 20px;font-weight: 900;text-decoration: underline;color:#FCBB45\">20 $$\u003C/span>"
+   },
+   "_twenty_pop": {
+      "message": "Partagez et gagnez 20 $$ US"
+   },
+   "_unmount_cash_coupon": {
+      "message": "Retirez $dollar$ instantanément",
+      "placeholders": {
+         "dollar": {
+            "content": "$1"
+         }
+      }
+   },
+   "_upToMaxGold": {
+      "message": "jusqu'à 2000"
+   },
+   "_up_to_txt": {
+      "message": "Jusqu'à"
+   },
+   "_use_cb": {
+      "message": "N'oubliez pas d'utiliser votre offre $multiple$x cash back.",
+      "placeholders": {
+         "multiple": {
+            "content": "$1"
+         }
+      }
+   },
+   "_was": {
+      "message": "a été $rate$",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "_was_cb_gold": {
+      "message": "\u003Cspan style=\"position: absolute;left: 0;font-weight: 500;font-size: 16px;color: #999;line-height: 26px;text-decoration: line-through;\">Cash Back\u003C/span>\u003Cspan style=\"position: absolute;right: 0;font-size: 16px;color: #999;line-height: 26px;text-decoration: line-through;\">$rate$ Gold\u003C/span>",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "_was_cb_rate": {
+      "message": "\u003Cspan style=\"position: absolute;left: 0;font-weight: 500;font-size: 16px;color: #999;line-height: 26px;text-decoration: line-through;\">Cash Back\u003C/span>\u003Cspan style=\"position: absolute;right: 0;font-size: 16px;color: #999;line-height: 26px;text-decoration: line-through;\">$rate$\u003C/span>",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "_welcome_complete_check_in_7days": {
+      "message": "Effectuez $totalStep$ jours consécutifs d'enregistrement",
+      "placeholders": {
+         "totalStep": {
+            "content": "$1"
+         }
+      }
+   },
+   "_width_code": {
+      "message": "Avec le code:"
+   },
+   "_with_coupert": {
+      "message": "Cash Back avec coupert!"
+   },
+   "_without_5x_rate": {
+      "message": "sans $multiple$X cash back: $rate$",
+      "placeholders": {
+         "multiple": {
+            "content": "$1"
+         },
+         "rate": {
+            "content": "$2"
+         }
+      }
+   },
+   "_wpcb_desc": {
+      "message": "Recommandez les produits de ce magasin et obtenez un cachback pour l'achat via votre lien."
+   },
+   "_wpcb_title": {
+      "message": "Cashback sans achat"
+   },
+   "_yes": {
+      "message": "OUI"
+   },
+   "_you_saved": {
+      "message": "Tu as sauvegardé"
+   },
+   "acceptNow": {
+      "message": "Accepter maintenant"
+   },
+   "account": {
+      "message": "Compte"
+   },
+   "account_cashback_reward": {
+      "message": "Coupert Gold peut être échangé contre de l'argent via Paypal."
+   },
+   "account_center": {
+      "message": "Centre de compte"
+   },
+   "account_gold": {
+      "message": "Compte Gold"
+   },
+   "account_sign_in": {
+      "message": "CONNEXION"
+   },
+   "account_sign_in_tips": {
+      "message": "Connectez-vous pour activer Cash Back\u003Cbr>et gagnez Coupert Gold"
+   },
+   "account_sign_up": {
+      "message": "INSCRIPTION"
+   },
+   "account_sign_up_tips": {
+      "message": "Rejoignez Coupert et\u003Cbr />obtenir \u003Cspan style=\"font-weight: 700;color: #f4a40b;\">1 $$ Récompense d'or\u003C/span>"
+   },
+   "activate": {
+      "message": "Activer"
+   },
+   "activate_cash_back": {
+      "message": "Activer le Cashback"
+   },
+   "activate_now": {
+      "message": "Activer Maintenant"
+   },
+   "activated": {
+      "message": "Activé"
+   },
+   "activated1": {
+      "message": "Activée!"
+   },
+   "activity_Of_30_board_tip": {
+      "message": "1. Vous devez effectuer un achat de plus de 300 $$ chez Farfetch ou Cettire.\u003Cbr />2. Vous devez activer le Cash Back de Coupert et ne pas utiliser d'autres programmes de récompenses."
+   },
+   "activity_Of_30_desc": {
+      "message": "Activez le Cash Back et effectuez votre achat pour réclamer la récompense !"
+   },
+   "activity_Of_30_desc_activated": {
+      "message": "Cliquez sur le bouton \"Retirer maintenant\" pour échanger votre récompense."
+   },
+   "activity_Of_30_money_30": {
+      "message": "30 $$"
+   },
+   "activity_Of_30_terms_conditions": {
+      "message": "Termes & Conditions"
+   },
+   "activity_Of_30_title": {
+      "message": "30 $$ de bonus pour $name$",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "activity_Of_30_title_activated": {
+      "message": "Bonus de 30 $$ activé"
+   },
+   "activity_Of_30_withdraw_now": {
+      "message": "Retirer maintenant"
+   },
+   "activity_lang": {
+      "message": "fr"
+   },
+   "add_favorites": {
+      "message": "Ajoutez à vos favoris"
+   },
+   "add_to_chrome": {
+      "message": "ajouter à Chrome"
+   },
+   "added_by_you": {
+      "message": "ajouté par vous"
+   },
+   "advanced_search": {
+      "message": "Recherche Avancée"
+   },
+   "advanced_search_placeholder": {
+      "message": "Recherchez n'importe quoi dans les magasins ci-dessous."
+   },
+   "advanced_search_title": {
+      "message": "Entrez le produit que vous voulez, \u003Cbr>obtenez le prix et les offres rapidement."
+   },
+   "after_purchase": {
+      "message": "de Cashback après l'achat"
+   },
+   "ago": {
+      "message": " depuis"
+   },
+   "all_categories": {
+      "message": "TOUTES CATÉGORIES"
+   },
+   "app_description": {
+      "message": "Coupert trouve automatiquement les codes promo, applique le meilleur code lors du paiement et vous donne du cashback."
+   },
+   "app_name": {
+      "message": "Coupert - Codes Promo Automatiques & Cashback"
+   },
+   "apply": {
+      "message": "Appliquer"
+   },
+   "apply_coupons": {
+      "message": "Tester les codes"
+   },
+   "apply_now": {
+      "message": "Appliquer maintenant"
+   },
+   "atTestingBubbleText": {
+      "message": "Arrêtez les tests et appliquez le code"
+   },
+   "atTestingSaveMoneyText": {
+      "message": "You saved \u003Cb style=\"color: #EA5A4F\">$money$\u003C/b> with the working code: \u003Cb style=\"color: #666666\">$code$\u003C/b>.",
+      "placeholders": {
+         "code": {
+            "content": "$2"
+         },
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "at_apply_now": {
+      "message": "Appliquer maintenant!"
+   },
+   "at_bubble_button": {
+      "message": "Appliquer"
+   },
+   "at_bubble_tips": {
+      "message": "\u003Cb>Conseils:\u003C/b> vous pouvez \u003Cb>ÉCONOMISER PLUS\u003C/b> en appliquant plus de codes!"
+   },
+   "at_inject_popup_desc": {
+      "message": "Ce code peut ne pas fonctionner, mais nous trouvons d'autres codes qui valent la peine d'être essayés!"
+   },
+   "at_least_six_characters": {
+      "message": "Entre 6 et 64 caractères"
+   },
+   "at_not_saving_desc_I": {
+      "message": "Si vous avez appliqué un coupon avant d'utiliser Coupert, veuillez entrer à nouveau."
+   },
+   "at_not_saving_desc_II": {
+      "message": "Si vous avez cliqué sur un lien (par exemple, à partir d'un e-mail) pour effectuer des achats, essayez de cliquer à nouveau."
+   },
+   "at_not_saving_desc_III": {
+      "message": "Essayez de relancer Coupert pour voir si cela résout le problème."
+   },
+   "at_not_saving_title": {
+      "message": "Il semble que le prix de votre panier ait augmenté. Vous pouvez essayer les méthodes ci-dessous pour y remédier."
+   },
+   "at_popover_tips_subtitle": {
+      "message": "Coupert teste tous les codes promo disponibles pour voir lequel vous permet d'économiser le plus d'argent et l'applique automatiquement pour vous."
+   },
+   "at_popover_tips_title": {
+      "message": "Essayez la magie de coupon!"
+   },
+   "at_result_join_coupert_title_after": {
+      "message": "qui peut être retiré via"
+   },
+   "at_result_join_coupert_title_before": {
+      "message": "Rejoignez Coupert pour obtenir une remise en argent et une récompense Gold,"
+   },
+   "at_style_Success": {
+      "message": "du coupon élevé"
+   },
+   "at_testing_title": {
+      "message": "Coupert est en train de tester tous les codes disponibles pour vous."
+   },
+   "available_coupons": {
+      "message": "Coupons disponibles($size$)",
+      "placeholders": {
+         "size": {
+            "content": "$1"
+         }
+      }
+   },
+   "available_for_withdraw": {
+      "message": "Montant en espèces disponible : "
+   },
+   "await_to_be_accepted": {
+      "message": "Attendre d'être accepté"
+   },
+   "await_to_be_accepted_after": {
+      "message": " n'est pas complètement terminé maintenant. Veuillez vous connecter à votre compte PayPal lié pour accepter les paiements manuellement."
+   },
+   "await_to_be_accepted_before": {
+      "message": "Votre retrait CashBack à "
+   },
+   "back": {
+      "message": "Retour"
+   },
+   "balance_calculated": {
+      "message": "Comment calculer mon solde actuel?"
+   },
+   "balance_redeem_tips": {
+      "message": " 10,00 USD minimum pour retirer"
+   },
+   "best_code": {
+      "message": "Le meilleur code appliqué:"
+   },
+   "birthdate": {
+      "message": "Date de Naissance"
+   },
+   "bonus4_title": {
+      "message": "Obtenez un bonus de bienvenue de $money$ aujourd'hui !",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "boot_prompt_got_it": {
+      "message": "J'ai compris!"
+   },
+   "boot_prompt_text": {
+      "message": "Épinglez Coupert à la barre d'outils, vous pouvez toujours cliquer sur l'icône chaque fois que vous en avez besoin."
+   },
+   "can_cashback_message": {
+      "message": "Vous avez gagné"
+   },
+   "can_withdraw_message": {
+      "message": "Vous avez gagné une Cashback de Coupert!"
+   },
+   "cancel": {
+      "message": "Annuler"
+   },
+   "cashBack_available_for_withdrawal": {
+      "message": " CashBack disponible pour le retrait."
+   },
+   "cash_back": {
+      "message": "cashback"
+   },
+   "cash_back_activated": {
+      "message": "Cash Back Activé"
+   },
+   "cash_back_activated1": {
+      "message": "Cash Back Activé!"
+   },
+   "cash_back_activated2": {
+      "message": "$money$ Cash Back Activée!",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "cash_back_after": {
+      "message": "d'Or pour Premier Achat"
+   },
+   "cash_back_ativado": {
+      "message": "Cash Back Activée!"
+   },
+   "cash_back_balance": {
+      "message": "Votre solde CashBack:"
+   },
+   "cash_back_before": {
+      "message": "300 Pièces "
+   },
+   "cash_back_capital": {
+      "message": "Cash Back"
+   },
+   "cash_back_desc": {
+      "message": "Retirez en espèces PayPal lorsque vous recevez 10 $$ ou plus."
+   },
+   "cash_back_encontrado": {
+      "message": "Cash Back trouvée!"
+   },
+   "cash_back_gold": {
+      "description": "",
+      "message": "Cash Back Gold"
+   },
+   "cash_back_hover_I": {
+      "message": "Cashback est différent de coupons. Quand vous faites un achat en passant par Coupert, nous recevons une commission. Ensuite, nous la partageons directement avec vous via notre programme gratuit de Coupert Gold. Vous pouvez échanger facilement via PayPal."
+   },
+   "cash_back_hover_II": {
+      "message": "Cliquez simplement sur le bouton d' Activer pour obtenir des économies supplémentaires."
+   },
+   "cash_back_notification": {
+      "message": "Notification de Cashback"
+   },
+   "cash_back_now": {
+      "message": " maintenant  "
+   },
+   "cash_back_order_bonus": {
+      "message": "Bonus de commande CashBack "
+   },
+   "cash_back_order_bonus_desc": {
+      "message": "Obtenez plus d'or en passant plus de commandes CashBack."
+   },
+   "cashback": {
+      "message": "cashback"
+   },
+   "cashback_alerts": {
+      "message": "Notification de CashBack"
+   },
+   "cashback_found": {
+      "message": "Cash Back trouvée!"
+   },
+   "cashback_message": {
+      "message": "Vous venez de gagner "
+   },
+   "cashback_message1": {
+      "message": "Cashback Gold a été crédité sur votre compte Coupert."
+   },
+   "cashback_message_after": {
+      "message": " Coupert"
+   },
+   "cashback_message_after1": {
+      "message": "Or Cash Back de Coupert"
+   },
+   "cashback_message_before": {
+      "message": " gagné "
+   },
+   "cashback_notification": {
+      "message": "Toutes nos félicitations!"
+   },
+   "cashback_notification_message": {
+      "message": "M'avertir lorsque je reçois le Cashback."
+   },
+   "cashback_tip": {
+      "message": "Le montant ici n'est que le minimum que vous pouvez obtenir et il peut varier en fonction des articles et des catégories de votre achat, etc."
+   },
+   "cashback_tip1": {
+      "message": "Le montant est une valeur estimée basée sur le total de votre commande et la valeur minimale de remise en argent, qui peut en fait varier en fonction des articles et des catégories de votre achat ainsi que des taxes, des frais d'expédition et du montant réel de la remise économisée grâce aux coupons, etc."
+   },
+   "cbItemActivatedTips": {
+      "message": "Nous ajouterons l'équivalent Cash Back Gold à votre compte Coupert dans les 24 à 72 heures suivant votre paiement."
+   },
+   "cbItemCommodityDesc": {
+      "message": "Obtenez \u003Cbr/> $money$ Cash Back à Coupert",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "cbItemCommodityDesc_2": {
+      "message": "Obtenez \u003Cbr/> $money$ \u003Cbr/> de Coupert",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "cbItemDoubleTips": {
+      "message": "Offre de remise en argent \u003Cspan style=\"color: #333333\">2X\u003C/span> à durée limitée! Vous obtiendrez $gold$ Cash Back Gold (= $money$) dans les \u003Cspan style=\"color: #333333\">24 à 72\u003C/span> heures suivant l'achat de cet article.",
+      "placeholders": {
+         "gold": {
+            "content": "$1"
+         },
+         "money": {
+            "content": "$2"
+         }
+      }
+   },
+   "cbItemInjectCommodityDesc": {
+      "message": "Obtenez $money$ Cash Back à Coupert",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "cbItemInjectCommodityDesc_2": {
+      "message": "Obtenez $money$ de Coupert",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "cbItemTips": {
+      "message": "Activez le Cash Back et achetez cet article, vous obtiendrez $gold$ Cash Back Gold ( = $money$ ) en \u003Cspan style=\"color: #333333\">24-72\u003C/span> heures.",
+      "placeholders": {
+         "gold": {
+            "content": "$1"
+         },
+         "money": {
+            "content": "$2"
+         }
+      }
+   },
+   "cbItemTips2": {
+      "message": "Activez maintenant et achetez cet article, vous obtiendrez $money$ Cash Back.",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "cbItemTips_2": {
+      "message": "Activez le Cash Back et passez à la caisse, vous obtiendrez un Cash Back estimé à $money$.",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "cb_at_lost_text": {
+      "message": "Essayez de combiner la remise en argent avec des codes promotionnels pour économiser davantage. Cliquez simplement pour activer le remboursement et vous le recevrez dans les 24 à 72 heures."
+   },
+   "cb_at_lost_text2": {
+      "message": "Après avoir utilisé les codes promotionnels, activez le\u003Cbr/> Cash Back et vous gagnerez toujours de l'or de Coupert."
+   },
+   "cb_first_have_coupons_after": {
+      "message": " coupons à la caisse"
+   },
+   "cb_first_have_coupons_before": {
+      "message": "Appliquer "
+   },
+   "cb_found": {
+      "message": "$rate$ Cash Back trouvée!",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "cb_inject_tips": {
+      "message": "Le montant est une valeur estimée basée sur le total de votre commande et la valeur minimale de remise en argent, qui peut en fait varier en fonction des articles et des catégories de votre achat ainsi que des taxes, des frais d'expédition et du montant réel de la remise économisée grâce aux coupons, etc."
+   },
+   "cb_override_desc": {
+      "message": "Votre Cash Back n'est plus actif parce que\u003Cbr> vous avez cliqué sur un lien d'un autre\u003Cbr> site de coupons ou d'un programme de cash back."
+   },
+   "cb_override_desc_nowrap": {
+      "message": "Votre Cash Back n'est plus actif parce que vous avez cliqué sur un lien d'un autre site de coupons ou d'un programme de cash back."
+   },
+   "cb_override_tips": {
+      "message": "Le montant est une valeur estimée basée sur le total de votre commande et la valeur moyenne de la remise en argent, qui peut varier en fonction des articles et des catégories de votre achat ainsi que des taxes, de l'expédition et du montant de la remise économisé grâce aux coupons, etc."
+   },
+   "cb_override_title": {
+      "message": "Cash Back est perdu!"
+   },
+   "cb_popover_tips_subtitle": {
+      "message": "Cliquez sur le bouton «Activer» pour obtenir Cash Back or sur vos achats que vous pouvez retirer en espèces PayPal!"
+   },
+   "cb_popover_tips_title": {
+      "message": "Activation Cash Back est totalement gratuit."
+   },
+   "cb_serp_notification": {
+      "message": "Montrez-le sur SERP"
+   },
+   "cb_serp_notification_desc": {
+      "message": "Informez-moi du CashBack pour les sites détaillant pris en charge par Coupert sur la page de résultats du moteur de recherche."
+   },
+   "cb_suspend_one": {
+      "message": "Veuillez noter que la remise en argent peut être perdue lorsque vous cliquez sur un lien d'un autre site de coupons ou d'un programme de remise en argent."
+   },
+   "cb_suspend_three": {
+      "message": "You can also earn Coupert cashback by activating the cashback offer after clicking the icon before placing your order."
+   },
+   "cb_suspend_tow_after": {
+      "message": " dans l'icône à côté de la barre d'adresse dans ce cas, donc avant de passer votre commande, veuillez cliquer sur l'icône puis activer l'offre de remboursement."
+   },
+   "cb_suspend_tow_before": {
+      "message": "Et Coupert s'affichera comme "
+   },
+   "cb_withdraw": {
+      "message": "Retirer"
+   },
+   "cc_title": {
+      "message": "Économisez de l'argent en utilisant des coupons"
+   },
+   "change_password": {
+      "message": "Changer le mot de passe"
+   },
+   "check_in": {
+      "message": "Enregistrement"
+   },
+   "check_in_click_tips": {
+      "message": "Cliquez"
+   },
+   "checked": {
+      "message": "connecté"
+   },
+   "checked_days": {
+      "message": "Vous avez enregistré pour"
+   },
+   "checked_months": {
+      "message": "Vous vous êtes enregistré pendant"
+   },
+   "checkin_remind": {
+      "message": "Rappelle-moi plus tard"
+   },
+   "checkout_box_subtitle_I": {
+      "message": "Clique sur le"
+   },
+   "checkout_box_subtitle_II": {
+      "message": "icône sur votre navigateur ci-dessus pour copier tous les coupons disponibles"
+   },
+   "checkout_box_title": {
+      "message": "Nous ne pouvons pas appliquer de coupons pour le moment"
+   },
+   "choose_the_website": {
+      "message": "Choisissez le site"
+   },
+   "claim": {
+      "message": "Recevoir"
+   },
+   "claimed": {
+      "message": "Claimed"
+   },
+   "clear_all_unread": {
+      "message": "Tout marquer comme lu"
+   },
+   "click_details": {
+      "message": "Cliquez ici pour plus de détails"
+   },
+   "code_found": {
+      "message": "CODE TROUVÉ!"
+   },
+   "code_money_saving_rate": {
+      "message": "$rate$ % de taux de réussite",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "codes": {
+      "message": "codes"
+   },
+   "complete_activate_cash_back": {
+      "message": "Compléter \"Activer la remise en argent\" "
+   },
+   "complete_activate_cash_back_desc": {
+      "message": "Découvrez la fonction CashBack en cliquant sur \"Activer la remise en argent\"."
+   },
+   "complete_apply_coupons": {
+      "message": "Compléter \"Tester les codes\" "
+   },
+   "complete_apply_coupons_desc": {
+      "message": "Découvrez la fonction de test automatique en cliquant sur \"Tester les codes\"."
+   },
+   "complete_first_order": {
+      "message": "Terminer la 1ère commande"
+   },
+   "complete_first_order_detail": {
+      "message": "Activer Cash Back et votre première commande avec Coupert."
+   },
+   "complete_profile": {
+      "message": "Compléter Profil"
+   },
+   "complete_profile_detail": {
+      "message": "Ajoutez votre nom, votre sexe et votre date de naissance."
+   },
+   "confirmed": {
+      "message": "Confirmé"
+   },
+   "congrats": {
+      "message": "Félicitations!"
+   },
+   "congratulations": {
+      "message": "Félicitations"
+   },
+   "consecutive_days": {
+      "message": "jour(s) consécutifs."
+   },
+   "consecutive_days1": {
+      "message": "jours ce mois-ci."
+   },
+   "contact_us_with": {
+      "message": "Ou vous pouvez nous contacter"
+   },
+   "continue": {
+      "description": "",
+      "message": "Continuer"
+   },
+   "continue_to_checkout": {
+      "message": "CONTINUER LE PAYEMENT"
+   },
+   "copied": {
+      "message": "Copié"
+   },
+   "copied1": {
+      "message": "Copié !"
+   },
+   "copy": {
+      "message": "Copier"
+   },
+   "coupert_gold": {
+      "message": "Coupert Gold"
+   },
+   "coupert_offers": {
+      "message": "Et Coupert vous offre"
+   },
+   "coupon_code": {
+      "message": "Code Promo"
+   },
+   "coupon_codes": {
+      "message": "Code Promo"
+   },
+   "coupon_found": {
+      "message": "CODES TROUVÉS!"
+   },
+   "coupon_success": {
+      "message": "Coupon réussi"
+   },
+   "coupon_success_rate": {
+      "message": "Taux de réussite du coupon"
+   },
+   "coupons_found": {
+      "message": "CODES TROUVÉS!"
+   },
+   "credit_card_smalltitle": {
+      "message": "Obtenez un remboursement illimité de 1,5% sur chaque achat, chaque jour."
+   },
+   "credit_card_subtitle": {
+      "message": "\u003Cb>150 $doller$\u003C/b> après avoir dépensé \u003Cb>500 $doller$\u003C/b> en achats dans les \u003Cb>3 mois\u003C/b> à partir de l'ouverture du compte.",
+      "placeholders": {
+         "doller": {
+            "content": "$1"
+         }
+      }
+   },
+   "credit_card_tips": {
+      "message": "\u003Cspan> Bonus en espèces de 150 $doller$,\u003Ci>certains termes appliquer\u003C/i>\u003C/span>\u003Cspan>Remise en argent de 1,5% sur chaque achat\u003C/span>",
+      "placeholders": {
+         "doller": {
+            "content": "$1"
+         }
+      }
+   },
+   "credit_card_title": {
+      "message": "Carte de crédit Cash Rewards"
+   },
+   "current_balance": {
+      "message": "Solde actuel"
+   },
+   "current_balance_calculated": {
+      "message": "Comment mon solde actuel est-il calculé?"
+   },
+   "cvc_pop_button_share": {
+      "message": "Partager"
+   },
+   "cvc_pop_button_unshare": {
+      "message": "Ne pas partager"
+   },
+   "cvc_pop_tip": {
+      "message": "Vous entrez un super code ! S'il ne s'agit pas de votre code personnel ou à usage unique, vous pouvez aider notre communauté en l'ajoutant !"
+   },
+   "cvc_pop_title": {
+      "message": "Partager le code ?"
+   },
+   "daily_check_in": {
+      "message": "Se pointer"
+   },
+   "daily_check_in_detail": {
+      "message": "Arrivée consécutivement à réclamer de nouvelles récompenses."
+   },
+   "daily_check_in_hover": {
+      "message": "Enregistrez-vous tous les jours pour gagner plus de Coupert Gold! Vous devez vous enregistrer consécutivement pour réclamer la prochaine récompense. Si vous ne vous enregistrez pas consécutivement, le décompte sera réinitialisé et recommencera."
+   },
+   "daily_check_in_hover_after": {
+      "message": "Obtenez 100 pièces d'or supplémentaires si vous vous êtes enregistré plus de 15 jours par mois. Ou obtenez 250 pièces d'or si vous vous êtes enregistré pendant plus de 20 jours, obtenez 300 pièces d'or si vous vous êtes enregistré pendant plus de 25 jours."
+   },
+   "daily_check_in_tip": {
+      "message": "Obtenez 100 pièces d'or supplémentaires si vous vous êtes enregistré plus de 15 jours par mois. Ou obtenez 250 pièces d'or si vous vous êtes enregistré pendant plus de 20 jours, obtenez 300 pièces d'or si vous vous êtes enregistré pendant plus de 25 jours."
+   },
+   "day": {
+      "message": " journée"
+   },
+   "day_ucfirst": {
+      "message": "Jour"
+   },
+   "days": {
+      "message": " journées"
+   },
+   "dd_switch": {
+      "message": "Ne plus afficher"
+   },
+   "dd_switch_desc": {
+      "message": "M'avertir lors de la saisie des codes promo."
+   },
+   "dd_switch_title": {
+      "message": "Notification déroulante"
+   },
+   "dd_switch_title1": {
+      "message": "Montrez-le sur la page de paiement"
+   },
+   "dollar": {
+      "message": "$$ "
+   },
+   "dontPopup": {
+      "message": "Ne pas apparaître "
+   },
+   "dont_have_an_account": {
+      "message": "Vous n'avez pas de compte?"
+   },
+   "dont_submit": {
+      "message": "Ne soumettez pas"
+   },
+   "double_cash_back": {
+      "message": "Obtenez 2X Cash Back & 300 Gold"
+   },
+   "double_cashback_desc": {
+      "message": "Cette offre peut être automatiquement utilisée lors de la première commande(moins de 500 cashback gold)."
+   },
+   "double_cashback_desc1": {
+      "message": "L'offre 2X Cash Back sera automatiquement appliquée à vos achats effectués via Coupert au cours du mois de juin."
+   },
+   "earn": {
+      "message": "Gagnez"
+   },
+   "earn_more_gold": {
+      "message": "Gagner Plus de Gold"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "email_sent": {
+      "message": "Votre email de confirmation a été envoyé!"
+   },
+   "ends_in": {
+      "message": "Se Termine par : "
+   },
+   "enter_email": {
+      "message": "Entrez l'e-mail du compte Coupert"
+   },
+   "error_title": {
+      "message": "Vous avez déjà le meilleur prix!"
+   },
+   "estimate_saving": {
+      "message": "Estimer l'économie"
+   },
+   "exclusions": {
+      "message": "Exclusions"
+   },
+   "exclusions_tips": {
+      "message": "Certaines exclusions peuvent s'appliquer."
+   },
+   "exclusive_code": {
+      "message": "Code exclusif"
+   },
+   "explanatory_language": {
+      "message": "Me notifier d'activer Cashback sur la page d'accueil d'un site pris en charge."
+   },
+   "extra": {
+      "message": "EXTRA "
+   },
+   "facebook_warning": {
+      "message": "Votre compte Facebook n'a pas d'e-mail, veuillez vous inscrire avec l'e-mail ci-dessous."
+   },
+   "failed_after": {
+      "message": " pour des raisons spécifiques si vous avez des questions."
+   },
+   "failed_before": {
+      "message": "Désolé, votre retrait CashBack à "
+   },
+   "failed_center": {
+      "message": " a échoué en raison de l'anomalie des informations de retrait, d'une annulation de commande ou d'un remboursement automatique. Veuillez contacter "
+   },
+   "faq_redemption": {
+      "message": "FAQ sur le rachat"
+   },
+   "fcb_banner_after": {
+      "message": " de Cash Back de Coupert"
+   },
+   "fcb_banner_before": {
+      "message": "Vous avez gagné une"
+   },
+   "fcb_cash_back": {
+      "message": "Pour un temps limité"
+   },
+   "feedback_title": {
+      "message": "Vos avis nous aident à mieux vous servir!"
+   },
+   "female": {
+      "message": "Mme"
+   },
+   "finished_tasks": {
+      "message": "Terminé"
+   },
+   "first_order": {
+      "message": "Premier Cash Back Order Récompense"
+   },
+   "first_order_activate": {
+      "message": "Activer Premier Ordre Récompense"
+   },
+   "first_order_activated": {
+      "message": "Récompense Premier Ordre Activé"
+   },
+   "first_order_cb_first": {
+      "message": "2X Cash Back + Extra $$3 Reward"
+   },
+   "fixedCommission": {
+      "message": "Avoir $fixedCommission$",
+      "placeholders": {
+         "fixedCommission": {
+            "content": "$1"
+         }
+      }
+   },
+   "floating_coupon_found": {
+      "message": "CODES TROUVÉS!"
+   },
+   "floating_coupons_found": {
+      "message": "CODES TROUVÉS!"
+   },
+   "floating_display_for_all_site": {
+      "message": "Snooze sur TOUS les sites pendant 24 hrs"
+   },
+   "floating_display_for_this_page": {
+      "message": "Cacher sur cette page pendant 24 hrs"
+   },
+   "floating_display_for_this_site": {
+      "message": "Snooze sur ce site pendant 24 hrs"
+   },
+   "floating_switch_desc": {
+      "message": "Avertissez-moi des coupons disponibles, des remises en argent et d'autres informations utiles pour les sites pris en charge par Coupert."
+   },
+   "floating_switch_title": {
+      "message": "Notification de fenêtre flottante"
+   },
+   "floating_switch_title1": {
+      "message": "Affichez-le sur les sites pris en charge"
+   },
+   "floating_tip_desc": {
+      "message": "Cliquez et maintenez enfoncé le bouton pour le faire glisser de haut en bas."
+   },
+   "floating_tip_goit": {
+      "message": "J'ai compris!"
+   },
+   "floating_tip_title": {
+      "message": "Vous voulez déplacer le bouton?"
+   },
+   "follow": {
+      "message": "Suivre"
+   },
+   "following": {
+      "message": "Suivant"
+   },
+   "forget_password": {
+      "message": "Mot de passe oublié"
+   },
+   "forgot_password": {
+      "message": "Mot de passe oublié?"
+   },
+   "forgot_password_notice": {
+      "description": "",
+      "message": "Veuillez entrer l'adresse e-mail associée à votre compte Coupert, et nous vous envoyerons un e-mail de réinitialiser votre mot de passe."
+   },
+   "found": {
+      "message": "$fixedCommission$ trouvée!",
+      "placeholders": {
+         "fixedCommission": {
+            "content": "$1"
+         }
+      }
+   },
+   "found_code_tips": {
+      "message": "Trouver un code que nous n'avons pas?"
+   },
+   "found_saving_code_desc": {
+      "message": "Nous avons trouvé un code d'économie potentiel pour cet article!"
+   },
+   "full_name": {
+      "message": "Nom complet"
+   },
+   "gender": {
+      "message": "Sexe"
+   },
+   "getGold": {
+      "message": "Appliquez des coupons pour obtenir \u003Cb style=\"color: #F7791A;\">$gold$ Gold\u003C/b>",
+      "placeholders": {
+         "gold": {
+            "content": "$1"
+         }
+      }
+   },
+   "get_Gold_tomorrow": {
+      "message": "Obtenez $_gold$ or demain",
+      "placeholders": {
+         "_gold": {
+            "content": "$1"
+         }
+      }
+   },
+   "get_another": {
+      "message": "Obtenir un autre"
+   },
+   "get_back": {
+      "message": "Obtenez $money$ Back",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "get_gold_after": {
+      "message": "Gold auj"
+   },
+   "get_gold_before": {
+      "message": "Vous avez gagné"
+   },
+   "go": {
+      "message": "Aller"
+   },
+   "gold": {
+      "message": "Gold"
+   },
+   "gold_cash_back": {
+      "message": "Gold de Cash Back"
+   },
+   "gold_cash_back_activated": {
+      "message": "Gold de Cash Back Activé"
+   },
+   "gold_cash_backed": {
+      "message": "Gold de Cash Back"
+   },
+   "gold_credited_notification": {
+      "message": "Notification d'arrivée de Pièce d'or"
+   },
+   "gold_csah": {
+      "message": " 100 pièces d'or = 1 USD"
+   },
+   "gold_to_redeem": {
+      "message": "Gold pour échanger 10 $$!"
+   },
+   "gold_today_cash_back": {
+      "message": "Cash Back"
+   },
+   "got_it": {
+      "message": "Je l'ai"
+   },
+   "has_cash_back_title": {
+      "message": "Aucune économie supplémentaire trouvée,\u003Cbr /> mais vous obtenez une remise en argent!"
+   },
+   "have_an_account": {
+      "message": "Vous avez déjà un compte?"
+   },
+   "help": {
+      "message": "Aide"
+   },
+   "high": {
+      "message": "Élevé"
+   },
+   "hl": {
+      "message": "fr"
+   },
+   "home": {
+      "message": "Accueil"
+   },
+   "home_wpcb_desc": {
+      "message": "Recommandez ce magasin ou ses produits par votre lien pour gagner du Cash Back."
+   },
+   "home_wpcb_title": {
+      "message": "Cash Back sans achat"
+   },
+   "hour": {
+      "message": " heure"
+   },
+   "hours": {
+      "message": " heures"
+   },
+   "how_can_we_help": {
+      "message": "Comment pouvons nous aider?"
+   },
+   "how_it_works": {
+      "message": "Comment ça marche?"
+   },
+   "how_it_works_hover": {
+      "message": "Soyez récompensé pour tout ce que vous achetez déjà avec Coupert Gold! Les commerçants nous donnent une petite commission pour leur apporter des affaires, et nous la partageons directement avec vous via notre programme gratuit de récompenses Coupert Gold. Et Coupert Gold sera automatiquement ajouté à votre compte lorsque nous serons informés de la transaction, mais l'action ne se déroulera pas en temps réel. Avant de passer votre commande, veuillez confirmer que Coupert est le seul ou le dernier programme de remise en argent que vous avez activé."
+   },
+   "iOS15_or_above_only": {
+      "message": "iOS15 ou supérieur uniquement."
+   },
+   "in_process_tasks": {
+      "message": "En cours"
+   },
+   "install_coupert": {
+      "message": "Installer Coupert"
+   },
+   "install_coupert_detail": {
+      "message": "Bonus de bienvenue de 100 Gold, merci d'avoir ajouté l'extension Coupert!"
+   },
+   "invite_friend_title_after": {
+      "message": "de leur argent sur chacun de leurs achats admissibles."
+   },
+   "invite_friend_title_before": {
+      "message": "Partager Coupert avec les amis et la famille et nous égalerons"
+   },
+   "invite_friends": {
+      "message": "Inviter les amis"
+   },
+   "invite_friends_desc": {
+      "message": "Partager Coupert avec les amis et la famille et nous égalerons \u003Cspan>20%\u003C/span> de leur argent sur chacun de leurs achats admissibles. \u003Cb class=\"view-details\">les détails\u003C/b>"
+   },
+   "invite_friends_detail": {
+      "message": "Parrainez un ami et nous égalerons $percentage$ de leur remise en argent.",
+      "placeholders": {
+         "percentage": {
+            "content": "$1"
+         }
+      }
+   },
+   "invite_friends_gold": {
+      "message": "+ jusqu'à 1 000 000 Gold"
+   },
+   "invite_friends_title": {
+      "message": "Parrainez vos amis et gagnez des récompenses lorsqu'ils achètent!"
+   },
+   "is_login_share_code": {
+      "message": "Sachez que vous devez vous connecter ou vous inscrire afin que nous puissions livrer la récompense sur votre compte Coupert."
+   },
+   "join_coupert": {
+      "message": "Rejoindre Coupert"
+   },
+   "join_coupert_detail": {
+      "message": "Créez un compte pour rejoindre Coupert."
+   },
+   "just_now": {
+      "message": "juste maintenant"
+   },
+   "just_saved": {
+      "message": "Vous économisez"
+   },
+   "just_saved1": {
+      "message": "Vous venez d'économiser \u003Cspan style=\"color: #EA5A4F;font-weight: 900;font-size: 24px;\">$money$\u003C/span>!",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "just_saved2": {
+      "message": "Vous venez d'économiser  \u003Cspan style=\"color: #EA5A4F;font-weight: 900;font-size: 20px;\">$money$\u003C/span> !",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "lang": {
+      "message": "fr"
+   },
+   "last_worked_day": {
+      "message": "il y a $day$ jour",
+      "placeholders": {
+         "day": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_worked_days": {
+      "message": "il y a $days$ jours",
+      "placeholders": {
+         "days": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_worked_hr": {
+      "message": "il y a $hr$ h",
+      "placeholders": {
+         "hr": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_worked_hrs": {
+      "message": "il y a $hrs$ hrs",
+      "placeholders": {
+         "hrs": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_worked_min": {
+      "message": "il y a $min$ min",
+      "placeholders": {
+         "min": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_worked_mins": {
+      "message": "il y a $min$ mins",
+      "placeholders": {
+         "min": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_worked_time": {
+      "message": "Dernier temps de travail"
+   },
+   "learn_more": {
+      "message": "En savoir plus"
+   },
+   "limited_withdraw_offer": {
+      "message": "Offre de retrait à durée limitée de $money$",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "log_in": {
+      "message": "Connexion"
+   },
+   "log_in_or_sign_up": {
+      "message": "Connexion/Inscription"
+   },
+   "log_in_with_apple": {
+      "message": "Se connecter via Apple"
+   },
+   "log_in_with_facebook": {
+      "message": "Se connecter via Facebook"
+   },
+   "log_in_with_gmail": {
+      "message": "Se connecter via Google"
+   },
+   "log_out": {
+      "message": "Déconnexion"
+   },
+   "login_getGoldHint": {
+      "message": "\u003Cb style=\"color: #F7791A;\">$gold$ Gold\u003C/b> a été ajouté à votre compte.",
+      "placeholders": {
+         "gold": {
+            "content": "$1"
+         }
+      }
+   },
+   "lowCouponSuccess": {
+      "message": "Faible Bon de réduction appliqué"
+   },
+   "male": {
+      "message": "Mâle"
+   },
+   "mini_withdraw_mes_after": {
+      "message": "en PayPal Cash."
+   },
+   "mini_withdraw_mes_before": {
+      "message": "Vous avez gagné "
+   },
+   "mini_withdraw_mes_content": {
+      "message": " en achetant avec Coupert et pouvez maintenant être échangé contre "
+   },
+   "minute": {
+      "message": " minute"
+   },
+   "minutes": {
+      "message": " minutes"
+   },
+   "money": {
+      "message": "$rate$ ",
+      "placeholders": {
+         "rate": {
+            "content": "$1"
+         }
+      }
+   },
+   "month": {
+      "message": "Mois"
+   },
+   "more_gold": {
+      "message": "Plus d'or"
+   },
+   "my_coupert_gold": {
+      "message": "Mon Coupert Gold:"
+   },
+   "my_offers": {
+      "message": "Mes offres"
+   },
+   "my_task_gold": {
+      "message": "Mes Task Gold"
+   },
+   "my_wallet": {
+      "message": "Mon Portefeuille"
+   },
+   "nav_help": {
+      "message": "Aide/FAQ"
+   },
+   "nav_how_to_use": {
+      "message": "Comment utiliser"
+   },
+   "nav_my_account": {
+      "message": "Mon compte"
+   },
+   "nav_submit_feedback": {
+      "message": "Soumettre un feedback"
+   },
+   "never_remind_again": {
+      "message": "Ne plus jamais rappeler"
+   },
+   "new": {
+      "message": "nouveau"
+   },
+   "new_cashback_link": {
+      "message": "lien Cash Back"
+   },
+   "new_invite_friends_detail": {
+      "message": "$text$ Partagez sur Facebook et @CoupertUS.",
+      "placeholders": {
+         "text": {
+            "content": "$1"
+         }
+      }
+   },
+   "new_invite_friends_text": {
+      "message": "Des opportunités gratuites?"
+   },
+   "new_not_login_desc": {
+      "message": "Connectez-vous ou inscrivez-vous pour que nous puissions ajouter le CashBack à votre compte Coupert."
+   },
+   "new_not_login_title": {
+      "message": "Obtenez votre Cashback Gold"
+   },
+   "new_upper": {
+      "message": "NEW"
+   },
+   "new_user_desc_I": {
+      "message": "Lorsque vous êtes sur un site de vente au détail pris en charge, l'icône «c» de la barre d'outils devient rouge."
+   },
+   "new_user_desc_II": {
+      "message": "Coupert apparaîtra, testera automatiquement et appliquera le meilleur code effectif à votre panier à la caisse, ou vous pourrez également copier et appliquer vous-même les codes disponibles."
+   },
+   "new_user_title": {
+      "message": "L'économie  automatique est maintenant prête."
+   },
+   "no_cash_back_desc": {
+      "message": "Cliquez sur l'icône rouge «C» en haut à droite du navigateur pour ouvrir Coupert et accéder au centre de tâches."
+   },
+   "no_cash_back_title": {
+      "message": "Accomplissez des Task Gold pour gagner plus de Coupert Gold! (100 Gold = US$$1)"
+   },
+   "no_cashback_title": {
+      "message": "Coupert a testé tous les codes disponibles de tout Internet. Payez avec confiance!"
+   },
+   "no_code_tips_subtitle": {
+      "message": "Nous n'avons pas trouvé de coupons pour ce magasin, vous pouvez donc vérifier en sachant que vous avez le meilleur prix."
+   },
+   "no_code_tips_subtitle2": {
+      "message": "Le code soumis sera examiné par l'équipe Coupert et si le code fonctionne, il sera partagé avec la communauté Coupert."
+   },
+   "no_code_tips_title": {
+      "message": "Pas de code disponible à ce moment."
+   },
+   "no_code_tips_title2": {
+      "message": "Merci d'avoir partagé l'amour."
+   },
+   "no_display_for_a_week": {
+      "message": "Ne vous présentez pas pendant une semaine."
+   },
+   "no_gold_task": {
+      "message": "Accomplissez des Task Gold pour gagner Coupert Gold!"
+   },
+   "no_notifications": {
+      "message": "Aucune notification."
+   },
+   "no_offers": {
+      "message": "Aucune offre."
+   },
+   "no_pop_up_again": {
+      "message": "Pas de pop-up à nouveau"
+   },
+   "no_support_subtitle": {
+      "message": "S'il est en effet un site marchand et vous en avez besoin, s'il vous plaît nous le faire savoir."
+   },
+   "no_support_title": {
+      "message": "Nous ne prenons pas encore en charge ce site."
+   },
+   "no_website_is_displayed": {
+      "message": "Ne pas afficher sur "
+   },
+   "notLogin_getGoldHint": {
+      "message": "\u003Cb style=\"color: #F7791A;\">$gold$ Gold\u003C/b> seront ajoutés à votre compte après votre connexion.",
+      "placeholders": {
+         "gold": {
+            "content": "$1"
+         }
+      }
+   },
+   "not_display_for_a_page": {
+      "message": "Ne pas afficher sur cette page."
+   },
+   "not_displayed_for_one_day": {
+      "message": "Ne pas afficher dans 1 jour"
+   },
+   "notifications": {
+      "message": "Notification"
+   },
+   "offer6_desc": {
+      "message": "Votre taux de remboursement sera augmenté de 20% par rapport à la base et cette offre sera automatiquement appliquée à toutes les commandes passées par Coupert Mobile Extension."
+   },
+   "offer_desc": {
+      "message": "Cette offre peut être automatiquement utilisée lorsque vous passez votre première commande."
+   },
+   "offer_expired": {
+      "message": "expiré"
+   },
+   "offer_unused": {
+      "message": "non utilisé"
+   },
+   "offer_used": {
+      "message": "Utilisé"
+   },
+   "onHold": {
+      "message": "Bloquer"
+   },
+   "on_hold_after": {
+      "message": " pour votre vérification dès que possible."
+   },
+   "on_hold_before": {
+      "message": "Votre demande de retrait à "
+   },
+   "on_hold_center": {
+      "message": " n'a pas encore été approuvée en raison de l'anomalie dans vos informations de retrait. Veuillez contacter "
+   },
+   "oneMonth": {
+      "message": "dans un mois."
+   },
+   "oneWeek": {
+      "message": "dans une semaine."
+   },
+   "oops": {
+      "message": "Oups!"
+   },
+   "oops_desc_I": {
+      "message": "Coupert est désormais désactivé sur ce site, car vous utilisez un autre site de coupons ou programme de récompenses.\u003Cbr>Cliquez sur le bouton ci-dessous pour réactiver Coupert et gagner vos récompenses."
+   },
+   "oops_desc_II_after": {
+      "message": " ! Cliquez ici pour gagner vos récompenses."
+   },
+   "oops_desc_II_before": {
+      "message": "Ne perdez pas votre remise de "
+   },
+   "oops_desc_ebay": {
+      "message": "Coupert est désormais désactivé sur ce site, car vous utilisez un autre site de coupons ou programme de récompenses."
+   },
+   "oops_desc_new": {
+      "message": "Coupert est désactivé car vous utilisez un autre site de coupons ou programme de remise en argent. Cliquez simplement sur le bouton pour gagner vos récompenses."
+   },
+   "open_cws": {
+      "message": "Ouvre CWS dans un nouvel onglet"
+   },
+   "opps_weve_run_into_an_issue": {
+      "message": "Oups, nous avons rencontré un problème"
+   },
+   "or": {
+      "message": "OU"
+   },
+   "other_code": {
+      "message": "Les autres codes testés à la caisse."
+   },
+   "other_code1": {
+      "message": "$code$ AUTRES CODES ESSAYÉS AU MOMENT DU PAIEMENT",
+      "placeholders": {
+         "code": {
+            "content": "$1"
+         }
+      }
+   },
+   "other_code_single": {
+      "message": "$code$ AUTRES CODE ESSAYÉS AU MOMENT DU PAIEMENT",
+      "placeholders": {
+         "code": {
+            "content": "$1"
+         }
+      }
+   },
+   "paid": {
+      "message": "Payé"
+   },
+   "paid_after": {
+      "message": " a été payé avec succès via PayPal."
+   },
+   "paid_before": {
+      "message": "Toutes nos félicitations! Votre retrait CashBack à "
+   },
+   "password": {
+      "message": "Mot de passe"
+   },
+   "pending": {
+      "message": "En attente"
+   },
+   "pending_notifications_after": {
+      "message": "ont été crédités sur votre compte Coupert."
+   },
+   "pending_notifications_after1": {
+      "message": "a été confirmé sur votre compte."
+   },
+   "pending_notifications_before": {
+      "message": "La commande que vous avez passée sur"
+   },
+   "pending_notifications_center": {
+      "message": "a été suivie et"
+   },
+   "pending_notifications_center1": {
+      "message": "a été vérifiée et"
+   },
+   "personalise_at_btn": {
+      "message": "Essayez maintenant"
+   },
+   "personalise_at_desc": {
+      "message": "Essayez \u003Cspan style=\"font-weight: 900;\">$code$ autres codes\u003C/span> pour voir si Coupert peut vous aider à économiser davantage !",
+      "placeholders": {
+         "code": {
+            "content": "$1"
+         }
+      }
+   },
+   "personalise_at_title": {
+      "message": "Vous voulez économiser plus ?"
+   },
+   "plus": {
+      "message": "Obtenez"
+   },
+   "popUpNotification": {
+      "message": "Notification contextuelle"
+   },
+   "popup_withdraw_notification": {
+      "message": "Le retrait an échoué"
+   },
+   "popver_activity_Of_30_desc_activated": {
+      "message": "Click the \"Withdraw\" button to redeem your reward."
+   },
+   "product_at_info_desc": {
+      "message": "Nous avons trouvé un bon de réduction potentiel pour cet article!"
+   },
+   "product_at_info_text": {
+      "message": "Succès élevé des coupons"
+   },
+   "product_query": {
+      "message": "Entrez le produit que vous voulez ci-dessous, sélectionnez les magasins que vous voulez interroger, obtenez le prix et les offres rapidement."
+   },
+   "rate_coupert": {
+      "message": "Évaluer Coupert"
+   },
+   "re_activate": {
+      "message": "Re-Activer"
+   },
+   "re_activated": {
+      "message": "Re-Activé"
+   },
+   "read_less": {
+      "message": "lire moins"
+   },
+   "read_more": {
+      "message": "lire plus"
+   },
+   "redeemed": {
+      "message": "peut être racheté!"
+   },
+   "refresh_title": {
+      "message": "Actualisez la page Web après le premier\u003Cbr> téléchargement pour appliquer des coupons."
+   },
+   "remind_in_1_day": {
+      "message": "Pop up après 1 jour"
+   },
+   "remind_in_1_week": {
+      "message": "Pop up après 1 semaine"
+   },
+   "reminder": {
+      "message": "Rappel"
+   },
+   "remove_favorites": {
+      "message": "retirer de vos favoris"
+   },
+   "repeat_submit": {
+      "message": "Vous avez déjà rapporté ce site."
+   },
+   "report_feedback": {
+      "message": "Signalez un problème"
+   },
+   "reset_success": {
+      "message": "L'e-mail a été envoyé avec succès à "
+   },
+   "reset_success_tips": {
+      "message": "Si vous ne recevez pas cet e-mail, recherchez-le dans le spam ou revérifiez si l'adresse e-mail indiquée ci-dessus est exacte."
+   },
+   "review_title": {
+      "message": "Votre avis motive Coupert à vous faire économiser plus!"
+   },
+   "reward_activated_tips": {
+      "message": "Terminez vos achats, Cash Back Gold sera ajouté automatiquement dans quelques jours."
+   },
+   "rewards_unlock": {
+      "message": "DÉBLOQUEZ LE BONUS"
+   },
+   "rewards_unlocked": {
+      "message": "DÉBLOQUÉ"
+   },
+   "sat_cb_text": {
+      "message": "Cash Back sera ajouté à votre compte Coupert dans les 24 à 72 heures."
+   },
+   "sat_text": {
+      "message": "Ces coupons ne sont pas vérifiés par notre communauté d'utilisateurs mais valent toujours la peine d'être essayés."
+   },
+   "saved": {
+      "message": " enregistrer!"
+   },
+   "savingCode": {
+      "message": "Le code le plus économique:"
+   },
+   "search": {
+      "message": "Chercher"
+   },
+   "search_for_anything": {
+      "message": "Recherchez toutes les offres"
+   },
+   "search_stores": {
+      "message": "Recherche magasins"
+   },
+   "see_deal": {
+      "message": "Découvrir l'offre"
+   },
+   "settings": {
+      "message": "Paramètres"
+   },
+   "share": {
+      "message": "Partager"
+   },
+   "share_code": {
+      "message": "Partagez avec nous,"
+   },
+   "share_code_benefit": {
+      "message": "Partagez-le pour gagner 10 - 100 Coupert Gold."
+   },
+   "share_code_desc_at": {
+      "message": "Le code soumis sera essayé à la caisse, et si le code fonctionne, vous serez récompensé avec 30 à 80 pièces d'or supplémentaires."
+   },
+   "share_code_desc_at1": {
+      "message": "Le code soumis sera essayé à la caisse, et si le code fonctionne, il sera partagé avec la communauté Coupert."
+   },
+   "share_code_desc_no_at": {
+      "message": "Le code soumis sera examiné par l'équipe Coupert et si le code fonctionne, vous serez récompensé par 30 à 80 pièces d'or supplémentaires."
+   },
+   "share_code_desc_no_at1": {
+      "message": "Le code soumis sera examiné par l'équipe Coupert et si le code fonctionne, il sera partagé avec la communauté Coupert."
+   },
+   "share_code_text": {
+      "message": "Veuillez noter que chaque utilisateur ne peut être récompensé que 3 fois en 24 heures."
+   },
+   "share_code_title": {
+      "message": "Merci d'avoir partagé cet amour avec la communauté et vous avez gagné 20 pièces d'or."
+   },
+   "share_code_title1": {
+      "message": "Merci d'avoir partagé l'amour."
+   },
+   "share_friends": {
+      "message": "Partage avec tes amis"
+   },
+   "share_invite_link": {
+      "message": "Partagez votre lien d'invitation"
+   },
+   "share_social_media": {
+      "message": "Partager Via Social Media"
+   },
+   "share_title": {
+      "message": "Parrainez un ami et nous égalerons \u003Cb>20%\u003C/b> de sa remise en argent."
+   },
+   "shop": {
+      "message": "Acheter"
+   },
+   "show_it_on_homepage": {
+      "message": "Montrez-le sur la page d'accueil"
+   },
+   "sign_in_password_error": {
+      "message": "E-mail ou mot de passe incorrect"
+   },
+   "sign_up_email": {
+      "message": "Entrez courriel pour obtenir 1 $$"
+   },
+   "sign_up_email_tips": {
+      "message": "Cette adresse e-mail a déjà été enregistrée."
+   },
+   "sign_up_now": {
+      "message": "S'inscrire maintenant"
+   },
+   "sign_up_password_tips": {
+      "description": "",
+      "message": "Entre 6 et 64 caractères"
+   },
+   "sign_up_with_apple": {
+      "message": "S'inscrire via Apple"
+   },
+   "sign_up_with_facebook": {
+      "message": "S'inscrire via Facebook "
+   },
+   "sign_up_with_gmail": {
+      "message": "S'inscrire via Google"
+   },
+   "similar_stores": {
+      "message": "Mais cela ne signifie pas que vous devez rater des économies.\u003Cbr /> Découvrez ces offres de magasins similaires!"
+   },
+   "skipTesting": {
+      "message": "Ignorer les tests et"
+   },
+   "some_terms_apply": {
+      "message": "certains termes appliquent"
+   },
+   "start": {
+      "message": "Démarrer"
+   },
+   "still_earn_gold": {
+      "message": "Malgré cela, vous pouvez toujours gagner Coupert Gold en effectuant des tâches Gold."
+   },
+   "stores_found": {
+      "message": "Aucun magasin pris en charge trouvé."
+   },
+   "submit": {
+      "message": "Soumettre"
+   },
+   "submit_a_coupon": {
+      "message": "Soumettre un coupon"
+   },
+   "submit_another_code": {
+      "message": "Soumettre un autre code."
+   },
+   "submit_code": {
+      "message": "Code"
+   },
+   "submit_code1": {
+      "message": "Vous avez trouvé un code fonctionnel ?"
+   },
+   "submit_code_success": {
+      "message": "Merci d'avoir partagé le code !"
+   },
+   "submit_coupon": {
+      "message": "Soumettre un coupon"
+   },
+   "submit_description": {
+      "message": "la description"
+   },
+   "submit_done": {
+      "message": "complété"
+   },
+   "submit_site": {
+      "message": "Soumettre le site"
+   },
+   "submit_success_tips": {
+      "message": "Nous partagerons votre code avec la communauté Coupert dès qu'un membre de l'équipe l'aura examiné."
+   },
+   "submit_successed": {
+      "message": "Soumettre réussi!"
+   },
+   "submit_successed_tips": {
+      "message": "Coupert vous répondra sous peu"
+   },
+   "submitted": {
+      "message": "Soumettre!"
+   },
+   "subtotal": {
+      "message": "Sous-total"
+   },
+   "success": {
+      "message": "taux de réussite"
+   },
+   "task_center": {
+      "message": "Centre de tâches"
+   },
+   "task_gold": {
+      "message": "Task Gold"
+   },
+   "terms_apply1": {
+      "message": "Des conditions s'appliquent"
+   },
+   "test_all_coupons": {
+      "message": "Tester tous les coupons"
+   },
+   "test_code": {
+      "message": "Tester les codes"
+   },
+   "test_coupons_desc": {
+      "message": "Nous testerons et appliquerons les coupons en quelques secondes."
+   },
+   "testing_code": {
+      "message": "Test en cours:"
+   },
+   "thanks": {
+      "message": "Merci d'avoir partagé l'amour."
+   },
+   "thanks_desc": {
+      "message": "Le code soumis sera testé par Coupert en priorité lorsque vous serez à la caisse, et si le code fonctionne, il sera partagé avec la communauté Coupert."
+   },
+   "theLifetime": {
+      "message": "dans la vie."
+   },
+   "there_is_no_cash_back_here": {
+      "message": " Il n'y a pas de cashback ici."
+   },
+   "this_order": {
+      "message": "de remise en argent lorsque vous terminez votre achat!"
+   },
+   "this_order_after": {
+      "message": "pour cette commande après achat."
+   },
+   "this_order_before": {
+      "message": " cash back"
+   },
+   "this_site_is_not_displayed": {
+      "message": "Ne pas afficher sur ce site."
+   },
+   "time_ends_in": {
+      "message": "Se termine à "
+   },
+   "tips_detail_1": {
+      "message": "Enregistrez-vous quotidiennement pour gagner plus d'or Coupert! Enregistrez-vous consécutivement pour réclamer des récompenses Super Gold!"
+   },
+   "tips_detail_2": {
+      "message": "N'oubliez pas d'activer Cashback avant de passer à la caisse!"
+   },
+   "tips_detail_3": {
+      "message": "Coupert Gold peut être échangé via PayPal 100 Gold = $doller$1 USD.",
+      "placeholders": {
+         "doller": {
+            "content": "$1"
+         }
+      }
+   },
+   "tips_detail_4": {
+      "message": "Essayer de combiner les offres Cashback avec les codes promo pour des économies maximales!"
+   },
+   "tips_detail_5": {
+      "message": "Faire attention à Coupert, nous donnerons des Gold gratuitement de temps en temps!"
+   },
+   "tips_detail_6": {
+      "message": "Faire du shopping avec Coupert, vous pouvez économiser le plus d'argent et gagner le cashback!"
+   },
+   "tips_detail_7": {
+      "message": "Cliquez sur la petite icône rouge «C» en haut à droite de votre navigateur pour ouvrir Coupert. Vous pouvez vérifier dans ou effectuer des tâches de l'or lors du test de codes."
+   },
+   "tips_detail_8": {
+      "message": "Parrainez un ami et nous égalerons 20% de leur remise en argent."
+   },
+   "tips_detail_9": {
+      "message": "\u003Cdiv style=\"display: flex;flex-direction: column;\">\u003Cp style=\"margin: 0;\">Installez l'application mobile Coupert pour obtenir de cashback à tout moment, n'importe où.\u003C/p>\u003Ca style=\"text-decoration: underline;color:#2066C5;font-size:16px;\" href=\"https://www.coupert.com/mobile?utm_source=extension&utm_campaign=at-test-tips\" target=\"_blank\">Téléchargez l'application.\u003C/a>\u003C/div>"
+   },
+   "tips_icon": {
+      "message": "Astuces"
+   },
+   "today": {
+      "message": "Auj"
+   },
+   "today_cash_back_rate": {
+      "message": "Cash Back"
+   },
+   "today_cash_back_rate1": {
+      "message": "5X Cash Back"
+   },
+   "today_hot_deals": {
+      "message": "bonnes affaires du jour"
+   },
+   "total": {
+      "message": "Total de la commande"
+   },
+   "trending_stores": {
+      "message": "Magasins tendance"
+   },
+   "try_demo": {
+      "message": "Essayer la démo"
+   },
+   "try_demo_detail": {
+      "message": "Voyez comment Coupert économise de l'argent pour vous."
+   },
+   "try_more_codes": {
+      "message": "Tente Mais Códigos"
+   },
+   "unfollow": {
+      "message": "Se désabonner"
+   },
+   "upToFixedCommission": {
+      "message": "Jusqu'à $maxFixedCommission$ Gold",
+      "placeholders": {
+         "maxFixedCommission": {
+            "content": "$1"
+         }
+      }
+   },
+   "update": {
+      "message": "Mise à jour"
+   },
+   "updateCompleted": {
+      "message": "Mise à jour terminée"
+   },
+   "usd": {
+      "message": " USD "
+   },
+   "user_privacy_policy_I": {
+      "message": "En cliquant sur le bouton pour la connexion, j'accepte les "
+   },
+   "user_privacy_policy_II": {
+      "message": "Termes d'utilisation"
+   },
+   "user_privacy_policy_III": {
+      "message": "les"
+   },
+   "user_privacy_policy_IV": {
+      "message": "Termes de CashBack"
+   },
+   "user_privacy_policy_V": {
+      "message": "et j'ai lu la "
+   },
+   "user_privacy_policy_VI": {
+      "message": "Politique de confidentialité"
+   },
+   "user_privacy_policy_VII": {
+      "message": "En cliquant sur le bouton pour l'inscription, j'accepte les "
+   },
+   "verification_email": {
+      "message": "L'e-mail envoie..."
+   },
+   "verify_email_address": {
+      "message": "Vérifier l'adresse e-mail"
+   },
+   "verify_email_address_detail": {
+      "message": "Vérifiez votre email pour vérifier votre compte Coupert."
+   },
+   "view_detail": {
+      "message": "Voir les détails"
+   },
+   "view_gold_details": {
+      "message": "Afficher le détail de mon cashback"
+   },
+   "view_gold_details1": {
+      "message": "Voir mon compte"
+   },
+   "view_hot_deals": {
+      "message": "Voir Les Hot"
+   },
+   "view_hot_deals_detail": {
+      "message": "Voir ce qui vaut la peine d'acheter aujourd'hui."
+   },
+   "view_how_Coupert": {
+      "message": "Découvrez comment Coupert vous fait économiser de l'argent"
+   },
+   "view_to_earn_gold": {
+      "message": "Voir les Hot Deals pour gagner du Coupert Gold"
+   },
+   "voir_tous_les_magasins": {
+      "message": "Voir tous les magasins"
+   },
+   "we_have_similar_stores": {
+      "message": "Nous avons des magasins similaires avec cashback !"
+   },
+   "web_description": {
+      "message": "La description"
+   },
+   "web_site": {
+      "message": "Domaine"
+   },
+   "welcome": {
+      "message": "Bienvenue!"
+   },
+   "welcome_bonus": {
+      "message": "Bonus de bienvenue"
+   },
+   "welcome_to_coupert": {
+      "message": "Bienvenue à Coupert!"
+   },
+   "what_is_more": {
+      "message": "De plus, vous pouvez gagner de 1 à 40%"
+   },
+   "with_coupert": {
+      "message": "avec Coupert"
+   },
+   "withdraw": {
+      "message": "Retirer"
+   },
+   "withdraw_10_soon": {
+      "message": "Activez le Cash Back, vous pourrez bientôt retirer $$10!"
+   },
+   "withdraw_cashBack": {
+      "message": "Retirer CashBack"
+   },
+   "withdraw_failed_notification": {
+      "message": "Notification d'échec de retrait"
+   },
+   "withdraw_message": {
+      "message": "Votre récent échange d'or \u003Cbr />Cashback a échoué."
+   },
+   "withdraw_my": {
+      "message": "Retirer ma Cashback de "
+   },
+   "withdraw_notification": {
+      "message": "Désolé, votre retrait a échoué."
+   },
+   "withdraw_now": {
+      "message": "demander un paiement"
+   },
+   "withdraw_tips": {
+      "message": "$$10,00 USD minimum à retirer"
+   },
+   "withdraw_tips1": {
+      "message": "$money$ USD minimum pour retirer",
+      "placeholders": {
+         "money": {
+            "content": "$1"
+         }
+      }
+   },
+   "withdrawable": {
+      "message": "Peut être retiré"
+   },
+   "withdrawal_alerts": {
+      "message": "Notification de retrait"
+   },
+   "withdrawal_my_balance_NOW": {
+      "message": "demander un paiement"
+   },
+   "withdrawal_notification_message": {
+      "message": "M'avertir lorsque le retrait a échoué."
+   },
+   "worked_after": {
+      "message": ""
+   },
+   "worked_day": {
+      "message": "Travaillé $day$ journée$complex$",
+      "placeholders": {
+         "complex": {
+            "content": "$2"
+         },
+         "day": {
+            "content": "$1"
+         }
+      }
+   },
+   "worked_hour": {
+      "message": "Travaillé $hour$ heure$complex$",
+      "placeholders": {
+         "complex": {
+            "content": "$2"
+         },
+         "hour": {
+            "content": "$1"
+         }
+      }
+   },
+   "worked_just_now": {
+      "message": "A travaillé tout à l'heure"
+   },
+   "worked_minute": {
+      "message": "Travaillé juste maintenant"
+   },
+   "worked_minutes": {
+      "message": "Travaillé $minute$ minute$complex$",
+      "placeholders": {
+         "complex": {
+            "content": "$2"
+         },
+         "minute": {
+            "content": "$1"
+         }
+      }
+   },
+   "worked_ucfirst": {
+      "message": "Travaillé "
+   },
+   "working_code": {
+      "message": "code valide"
+   },
+   "write_review": {
+      "message": "Rédiger un avis"
+   },
+   "year": {
+      "message": "An"
+   },
+   "you_have": {
+      "message": "Vous avez gagné une Cashback"
+   },
+   "your_feedback": {
+      "message": "Vos réactions"
+   }
+}

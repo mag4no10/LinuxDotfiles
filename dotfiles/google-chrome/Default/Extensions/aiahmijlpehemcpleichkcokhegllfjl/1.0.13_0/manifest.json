@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://www.duolingo.com"
+      },
+      "urls": [ "*://*.duolingo.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC7D/xInzxo29PsfM/BsgANUG4q91QHTAN2l+iV+UwA7BQPUwyFSjwOxcnW3VzTRcQOoYrd5Kb0GaWu++DdFy7y4+m1+L3wsCyJB66fp2nQvO88nmVBlaNsvYbo2ZX3BMeucSXuzxDiVAc3K1rd0AFxpwRfM9r2xZjWivRjNuAFvwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.13"
+}

@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Skift webside, du vil have mørk tilstand. Mørk tilstand hjælper enheder med at spare batteri og reducerer belastningen på dine øjne."
+   },
+   "name": {
+      "message": "Super Dark Mode"
+   },
+   "short_name": {
+      "message": "Night Mode"
+   }
+}

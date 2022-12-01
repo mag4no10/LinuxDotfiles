@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Zmień stronę internetową, która ma działać w trybie ciemnym. Tryb ciemny pomaga oszczędzać baterie i zmniejsza obciążenie oczu."
+   },
+   "name": {
+      "message": "Super Dark Mode"
+   },
+   "short_name": {
+      "message": "Night Mode"
+   }
+}

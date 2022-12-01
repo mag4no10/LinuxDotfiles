@@ -1,0 +1,45 @@
+:root{
+	--bg-color:#1a1a1a;
+	--text-color:lightgray;
+	--a-color:#365899;
+	--a-visited-color:lightblue;
+	--a-hover-color:lightgray;
+	--input-border-color:rgba(255,255,255,.1);
+	--input-placeholder-color:lightblue;
+	--dialog-bg-color:rgba(10, 40, 40, .6);
+}
+
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 5px;
+  background-color: var(--bg-color);
+}
+*::-webkit-scrollbar-thumb {
+    background: gray; 
+}
+html, body, div{
+  background:var(--bg-color) !important;
+  background-image:none !important;
+  background-color:var(--bg-color) !important;
+}
+
+a:visited, a:link{color:var(--a-color) !important;} a:hover{color:orange;}
+
+html, body{
+	color:var(--text-color) !important;
+}
+
+h1, h2, h3, h4, h1 *, h2 *, h3 *, h4 *{
+	background-color:transparent !important;
+	color:orange !important;
+}
+
+#app .navitem§biX1K{background-color:var(--bg-color) !important;}
+#app .vjs-ima3-ad-container{display:none !important;}
+a[class*='ButtonLink']{
+	background-color:black !important;
+	border-color:var(--input-border-color) !important;
+}
+input{background-color:transparent !important;}
+#app .vjs-text-track-display{display: none !important;}
+grammarly-extension{visibility:hidden;}

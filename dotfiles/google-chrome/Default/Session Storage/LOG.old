@@ -1,0 +1,18 @@
+2022/11/30-22:46:08.898 3 Reusing MANIFEST /home/atenea/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2022/11/30-22:46:08.900 3 Recovering log #181
+2022/11/30-22:46:08.901 3 Reusing old log /home/atenea/.config/google-chrome/Default/Session Storage/000181.log 
+2022/11/30-23:50:09.406 27 Level-0 table #185: started
+2022/11/30-23:50:09.409 27 Level-0 table #185: 20704 bytes OK
+2022/11/30-23:50:09.412 27 Delete type=0 #181
+2022/11/30-23:50:09.412 27 Compacting 4@0 + 1@1 files
+2022/11/30-23:50:09.431 27 Generated table #186@0: 14721 keys, 333013 bytes
+2022/11/30-23:50:09.431 27 Compacted 4@0 + 1@1 files => 333013 bytes
+2022/11/30-23:50:09.433 27 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/11/30-23:50:09.434 27 Delete type=2 #174
+2022/11/30-23:50:09.434 27 Delete type=2 #176
+2022/11/30-23:50:09.434 27 Delete type=2 #179
+2022/11/30-23:50:09.434 27 Delete type=2 #182
+2022/11/30-23:50:09.434 27 Delete type=2 #185
+2022/12/01-00:39:08.220 44 Level-0 table #188: started
+2022/12/01-00:39:08.222 44 Level-0 table #188: 25088 bytes OK
+2022/12/01-00:39:08.225 44 Delete type=0 #184

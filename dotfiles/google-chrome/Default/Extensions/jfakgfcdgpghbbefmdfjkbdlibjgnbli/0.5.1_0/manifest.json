@@ -1,0 +1,106 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "Background.js" ]
+   },
+   "browser_action": {
+   },
+   "browser_specific_settings": {
+      "gecko": {
+         "id": "{64b2c525-24ed-4c05-aed1-95ff9e6cef70}"
+      }
+   },
+   "content_scripts": [ {
+      "include_globs": [ "*://music.yandex.*/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/YandexMusic.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://play.google.*/music/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/GooglePlayMusic.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://music.youtube.*/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/YoutubeMusic.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://www.youtube.*/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/Youtube.js", "Websites/YoutubeNew.js", "Websites/YoutubeTV.js", "Websites/YoutubeSelector.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://soundcloud.*/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/Soundcloud.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://listen.tidal.*/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/Tidal.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://music.amazon.*/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/AmazonMusic.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://www.pandora.*/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/Pandora.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://open.spotify.*/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/Spotify.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://www.deezer.*/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/Deezer.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://play.pocketcasts.*/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/PocketCasts.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://app.plex.tv/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/Plex.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://vibe.naver.com/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/VIBE.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://jetsetradio.live/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/JetSetRadioLive.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://player.fm/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/PlayerFM.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://www.twitch.tv/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/Twitch.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://music.apple.com/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/AppleMusic.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "include_globs": [ "*://play.qobuz.com/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/Qobuz.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "exclude_globs": [ "*://music.yandex.*/*", "*://play.google.*/music/*", "*://music.youtube.*/*", "*://www.youtube.*/*", "*://soundcloud.*/*", "*://listen.tidal.*/*", "*://music.amazon.*/*", "*://www.pandora.*/*", "*://open.spotify.*/*", "*://www.deezer.*/*", "*://play.pocketcasts.*/*", "*://app.plex.tv/*", "*://vibe.naver.com/*", "*://jetsetradio.live/*", "*://player.fm/*", "*://www.twitch.tv/*", "*://music.apple.com/*" ],
+      "js": [ "WebNowPlaying.js", "Websites/Generic.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Ever wished music info from your web browser could be used in Rainmeter? Well now it can!",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoN+H2lOp/MxZAkjgwXtOy3oV9kJGSDYdBwk7j6UIMs5FIP5dB2tqV4Czu2sKUvEkbmgC3bw3SKeqpxyBoI0WDfEUXBLQ5PjNh0hD3qGFetTTwZ/ZQwpgSREwnjBpp4Gmj6KiwwL6QMZz1xBLO5VMibEtthzrYkxZbgT0JkFx9KbuL/imX4F0xE94iqa0pS0cnKyl7GJqgC5rfei+54Fizn/s7sageLP0qtKDxKil3vxTpigOKvK/D0HHVZRDBHjYsdhxdqGWCtNj1+bQwccVj2T3oSU79nSoROtvzdVjF/UPsNKmq6r1iNwpOfHiHVt5xLO2sS6ZSXt6kL5jBwwpzwIDAQAB",
+   "manifest_version": 2,
+   "name": "WebNowPlaying Companion",
+   "options_ui": {
+      "page": "Options.html"
+   },
+   "permissions": [ "storage" ],
+   "short_name": "WebNowPlaying",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.5.01"
+}

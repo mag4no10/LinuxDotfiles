@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="33px" viewBox="0 0 19 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1</title>
+    <g id="1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 0.500000)" fill-rule="nonzero" stroke="#EA5A4F">
+            <path d="M0,0 C0.896932735,0 2.24233184,0 4.03619731,0 L15.302635,9.98350948 C18.5889049,12.8955662 18.9182285,17.9499292 16.0382009,21.2727452 C15.8094132,21.5367071 15.5636938,21.785159 15.302635,22.0164905 L4.03619731,32 C2.2697825,32 0.944971387,32 0.061763982,32" fill="#FDD0C7" stroke-dasharray="4" transform="translate(9.000000, 16.000000) scale(-1, 1) translate(-9.000000, -16.000000) "></path>
+            <ellipse fill="#FFFFFF" cx="9.75374707" cy="16" rx="2.47250367" ry="2.5"></ellipse>
+        </g>
+    </g>
+</svg>

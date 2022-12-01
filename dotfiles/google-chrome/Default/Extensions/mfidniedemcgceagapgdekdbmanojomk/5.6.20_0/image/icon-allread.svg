@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_allread</title>
+    <defs>
+        <polygon id="path-1" points="0 0 10 0 10 9 0 9"></polygon>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-51.000000, -156.000000)">
+            <g id="icon_allread" transform="translate(51.000000, 156.000000)">
+                <circle fill="#CACACA" cx="9" cy="9" r="9"></circle>
+                <g id="yidu" transform="translate(4.000000, 4.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M9.84322614,2.5435129 L5.26671601,0.0997478424 C5.19701916,0.0302703265 5.10039298,-0.00543522801 5.00212571,0.001980541 C4.91302212,-0.00806095955 4.82383042,0.0203936208 4.75715142,0.0802251438 L0.156113013,2.5435129 C0.0571628712,2.6500363 0.00127762872,2.78933191 -0.000660842442,2.93456013 L-0.000660842442,7.94918004 C0.0147367865,8.52303971 0.47750272,8.98464112 1.05281012,9 L8.94652904,9 C9.52183644,8.98464112 9.98460237,8.52303971 10,7.94918004 L10,2.93451618 C9.99806153,2.78933191 9.94222034,2.64999235 9.84322614,2.5435129 Z M5.00212571,5.24636844 L1.13120806,2.88079306 L4.99721345,0.925732674 L8.86814211,2.93456013 L5.00212571,5.24636844 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

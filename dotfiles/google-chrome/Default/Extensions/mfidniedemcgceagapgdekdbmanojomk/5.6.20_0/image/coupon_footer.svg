@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="33px" viewBox="0 0 9 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3</title>
+    <g id="1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3" transform="translate(0.000000, 0.500000)">
+            <path d="M0,0 L2.6,0 C5.9137085,-1.4968968e-15 8.6,2.6862915 8.6,6 L8.6,26 C8.6,29.3137085 5.9137085,32 2.6,32 L0,32 L0,32 L0,0 Z" fill="#FDD0C7"></path>
+            <path d="M3.53352388,0 C5.11125862,0.267205194 6.4184276,1.10032364 7.45503082,2.49935534" stroke="#EA5A4F"></path>
+            <path d="M3.53352388,29.5 C5.11125862,29.7672052 6.4184276,30.6003236 7.45503082,31.9993553" stroke="#EA5A4F" transform="translate(5.494277, 30.749678) scale(1, -1) translate(-5.494277, -30.749678) "></path>
+            <rect fill="#EA5A4F" transform="translate(8.500000, 8.500000) rotate(90.000000) translate(-8.500000, -8.500000) " x="6.5" y="8" width="4" height="1"></rect>
+            <rect fill="#EA5A4F" transform="translate(8.500000, 15.500000) rotate(90.000000) translate(-8.500000, -15.500000) " x="6.5" y="15" width="4" height="1"></rect>
+            <rect fill="#EA5A4F" transform="translate(8.500000, 22.500000) rotate(90.000000) translate(-8.500000, -22.500000) " x="6.5" y="22" width="4" height="1"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "切换网站你想要暗模式。 黑暗模式将有助于设备节省电量并减轻眼睛疲劳。"
+   },
+   "name": {
+      "message": "Super Dark Mode"
+   },
+   "short_name": {
+      "message": "Night Mode"
+   }
+}

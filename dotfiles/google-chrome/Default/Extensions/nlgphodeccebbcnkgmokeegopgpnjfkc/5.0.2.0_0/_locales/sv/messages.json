@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Byt webbsida du vill ha mörkt läge. Mörkt läge hjälper enheter spara batteri och minskar belastningen på ögonen."
+   },
+   "name": {
+      "message": "Super Dark Mode"
+   },
+   "short_name": {
+      "message": "Night Mode"
+   }
+}

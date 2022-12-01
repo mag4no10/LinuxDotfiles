@@ -1,0 +1,7 @@
+2022/10/21-11:53:54.719 76b Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/21-11:53:54.719 76b Recovering log #3
+2022/10/21-11:53:54.720 76b Reusing old log /home/atenea/.config/google-chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/000003.log 
+2022/10/21-12:57:44.864 13fb7 Level-0 table #5: started
+2022/10/21-12:57:44.866 13fb7 Level-0 table #5: 4999 bytes OK
+2022/10/21-12:57:44.867 13fb7 Delete type=0 #3
+2022/10/21-12:57:44.868 13fb7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

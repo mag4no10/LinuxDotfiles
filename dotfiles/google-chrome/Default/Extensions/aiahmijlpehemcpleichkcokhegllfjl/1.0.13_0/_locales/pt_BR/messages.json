@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Aprenda inglês de graça, sem anúncios ou taxas escondidas. O aprendizado é fácil, divertido e comprovado cientificamente."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Duolingo na Web"
+   }
+}

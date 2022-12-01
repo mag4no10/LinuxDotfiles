@@ -1,0 +1,7 @@
+2022/10/26-09:21:34.817 a4c5 Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_es.aliexpress.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/26-09:21:34.818 a4c5 Recovering log #3
+2022/10/26-09:21:34.818 a4c5 Reusing old log /home/atenea/.config/google-chrome/Default/IndexedDB/https_es.aliexpress.com_0.indexeddb.leveldb/000003.log 
+2022/10/26-09:23:06.781 ae70 Level-0 table #5: started
+2022/10/26-09:23:06.782 ae70 Level-0 table #5: 7299 bytes OK
+2022/10/26-09:23:06.784 ae70 Delete type=0 #3
+2022/10/26-09:23:06.784 ae70 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

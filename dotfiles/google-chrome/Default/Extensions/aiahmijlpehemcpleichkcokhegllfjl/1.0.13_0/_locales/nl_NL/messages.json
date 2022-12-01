@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Leer helemaal gratis talen, zonder reclames of verborgen kosten. Het is leuk, makkelijk, en wetenschappelijk bewezen."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Duolingo op het Web"
+   }
+}

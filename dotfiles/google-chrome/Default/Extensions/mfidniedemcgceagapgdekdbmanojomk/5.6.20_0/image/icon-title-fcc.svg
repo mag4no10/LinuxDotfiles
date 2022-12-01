@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="14px" viewBox="0 0 18 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_coupon</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-48.000000, -135.000000)">
+            <g id="icon_coupon" transform="translate(48.000000, 135.000000)">
+                <path d="M15.3,0 C16.7911688,-2.73923269e-16 18,1.20883118 18,2.7 L18,4.8125 L18,4.8125 C16.7573593,4.8125 15.75,5.79187711 15.75,7 C15.75,8.20812289 16.7573593,9.1875 18,9.1875 L18,11.3 C18,12.7911688 16.7911688,14 15.3,14 L2.7,14 C1.20883118,14 -2.61473697e-16,12.7911688 0,11.3 L0,9.1875 L0,9.1875 C1.24264069,9.1875 2.25,8.20812289 2.25,7 C2.25,5.79187711 1.24264069,4.8125 0,4.8125 L0,2.7 C-6.26704723e-16,1.20883118 1.20883118,-6.14255151e-16 2.7,0 L15.3,0 Z" fill="#FF6826"></path>
+                <line x1="7.22397426" y1="2.10153176" x2="7.22397426" y2="11.7328566" stroke="#FFFFFF" stroke-width="1.08" stroke-dasharray="0.9,0.9"></line>
+            </g>
+        </g>
+    </g>
+</svg>

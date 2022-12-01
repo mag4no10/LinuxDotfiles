@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Vaihda verkkosivusto, jonka haluat tummustilaan. Tumma tila auttaa laitteita säästämään akkua ja vähentämään silmäsi rasitusta."
+   },
+   "name": {
+      "message": "Super Dark Mode"
+   },
+   "short_name": {
+      "message": "Night Mode"
+   }
+}

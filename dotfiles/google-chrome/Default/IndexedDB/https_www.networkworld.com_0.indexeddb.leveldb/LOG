@@ -1,0 +1,6 @@
+2022/11/22-18:57:25.862 14489 Creating DB /home/atenea/.config/google-chrome/Default/IndexedDB/https_www.networkworld.com_0.indexeddb.leveldb since it was missing.
+2022/11/22-18:57:25.865 14489 Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_www.networkworld.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/22-18:59:15.939 1432d Level-0 table #5: started
+2022/11/22-18:59:15.945 1432d Level-0 table #5: 1145233 bytes OK
+2022/11/22-18:59:15.946 1432d Delete type=0 #3
+2022/11/22-18:59:15.946 1432d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Prebacivanje web stranice koju želite u tamnom načinu rada. Tamni način rada pomaže u uštedama baterija i smanjuje pritisak na oči."
+   },
+   "name": {
+      "message": "Super Dark Mode"
+   },
+   "short_name": {
+      "message": "Night Mode"
+   }
+}

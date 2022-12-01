@@ -1,0 +1,1540 @@
+html,
+body,
+input,
+textarea,
+select {
+	color: #e8e6e3 !important;
+	background: #181a1b !important;
+}
+
+input[type="text"],
+textarea,
+select {
+	color: #e8e6e3 !important;
+	background: #181a1b !important;
+}
+
+body, .tiktok-w9wcox-DivScrollContainer-StyledScroll, #main, #main .header-container, #main .main-body, #main .header-setting-wrap, .row-layout-background.jsx-3453939526, .tiktok-1cjb6r6-UlPopupContainer, .layout.jsx-740312492, .layout.jsx-175208557, .container-v2.jsx-410242825, .tiktok-1t1sirr-DivHeaderInboxWrapper{
+	background-color: #181a1b !important;
+	color: #dddad5 !important;
+}
+#main .conversation-list-wrapper, .tiktok-11xyjxo-DivContainer, .tiktok-lg9f76-DivTabsContainer, #main .conversation-container, .row-layout-content-container.jsx-3453939526, .keyboard-shortcut-container.jsx-813273064, .tiktok-1ytxmny-DivExpandContainer, .tiktok-eqz0je{
+	background-color: #3a3a3a !important;
+}
+.container-v2.jsx-410242825 .tiktok-select-selector, .container-v2.jsx-410242825 button, .container-v2.jsx-410242825 .public-DraftEditor-content{
+	background-color: #b10123 !important;
+}
+.tiktok-u1imyl-DivContainer{
+	border: 1px solid rgb(192 83 151 / 51%) !important
+}
+#main *, .tiktok-1uetk1w-DivTextContainer *, .tiktok-eqz0je *, .tiktok-lg9f76-DivTabsContainer *, .container-v2.jsx-410242825 *
+{
+	color: #dddad5 !important;
+}
+
+body a {
+	color: #dddad5 !important;
+}
+
+body a:visited {
+	color: #dddad5 !important;
+}
+
+body a:hover {
+	color: #dddad5 !important;
+}
+
+body a:active {
+	color: #dddad5 !important;
+}
+
+body a:focus {
+	color: #dddad5 !important;
+}
+
+body {
+	background-color: #181a1b !important;
+}
+
+body {
+	color: #dddad5 !important;
+}
+
+body a {
+	color: #dddad5 !important;
+}
+
+body a:visited {
+	color: #dddad5 !important;
+}
+
+body a:hover {
+	color: #dddad5 !important;
+}
+
+body a:active {
+	color: #dddad5 !important;
+}
+
+body a:focus {
+	color: #dddad5 !important;
+}
+
+.tiktok-12azhi0-DivHeaderContainer {
+	background-color: #181a1b !important;
+}
+
+.tiktok-12azhi0-DivHeaderContainer {
+	box-shadow: rgba(102, 102, 102, 0.12) 0px 1px 1px;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border-bottom: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border-top: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border-left: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border-right: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-1klp3iq-SpanUploadText {
+	color: #dddad5 !important;
+}
+
+.tiktok-qstmns-StyledScroll {
+	background-color: #181a1b !important;
+}
+
+.tiktok-qstmns-StyledScroll {
+	border-right: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-qstmns-StyledScroll {
+	box-shadow: rgba(102, 102, 102, 0.06) 0px 2px 8px;
+}
+
+.tiktok-1cx1pch-DivScrollContainer-StyledScroll {
+	background-color: #181a1b !important;
+}
+
+.tiktok-1cx1pch-DivScrollContainer-StyledScroll {
+	border-right: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-1cx1pch-DivScrollContainer-StyledScroll {
+	box-shadow: rgba(102, 102, 102, 0.06) 0px 2px 8px;
+}
+
+.tiktok-1g27b7n-H2MainNavText {
+	color: #fe345c !important;
+}
+
+.tiktok-1tfqc6a-H2MainNavText {
+	color: #dddad5 !important;
+}
+
+.tiktok-1liq5tk-DivUserContainer {
+	color: rgba(221, 218, 213, 0.75) !important;
+}
+
+.tiktok-1jfrc7x-DivBaseComponent-StyledAvatar {
+	background-color: #1c1e1f !important;
+}
+
+.tiktok-1xxodjj-DivBaseComponent-StyledTitle {
+	background-color: #1c1e1f !important;
+}
+
+.tiktok-4fb5qk-StyledNavLink {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+
+.tiktok-4fb5qk-StyledNavLink:hover,
+.tiktok-4fb5qk-StyledNavLink:active,
+.tiktok-4fb5qk-StyledNavLink:link {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border-color: rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border: 1.5px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border-bottom: 1.5px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border-top: 1.5px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border-left: 1.5px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border-right: 1.5px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-ztf279-SpanCopyright {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+
+.tiktok-ztf279-SpanCopyright:hover,
+.tiktok-ztf279-SpanCopyright:active,
+.tiktok-ztf279-SpanCopyright:link {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+
+.tiktok-1hmwtp5-StyledAvatar {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-gigx3u-SpanAvatarContainer-StyledAvatar {
+	background-color: rgba(58, 62, 64, 0.5);
+}
+
+.tiktok-gigx3u-SpanAvatarContainer-StyledAvatar {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-gigx3u-SpanAvatarContainer-StyledAvatar {
+	color: #ffffff !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	background-color: #181a1b !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	border-color: #c20127 !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	border-bottom: 1px solid #c20127 !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	border-top: 1px solid #c20127 !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	border-left: 1px solid #c20127 !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	border-right: 1px solid #c20127 !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	color: #fe345c !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton:hover {
+	background-color: rgba(177, 1, 35, 0.06);
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton:active {
+	background-color: rgba(177, 1, 35, 0.16) !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton:disabled {
+	background-color: #181a1b !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton:disabled {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton:disabled {
+	color: rgba(221, 218, 213, 0.34) !important;
+}
+
+.tiktok-1kx4ci3-DivVideoCardContainer {
+	background-color: #1d1f20 !important;
+}
+
+.tiktok-czl35e-PReportText {
+	color: #ffffff !important;
+}
+
+.tiktok-1xiuanb-ButtonActionItem {
+	background: none;
+}
+
+.tiktok-1xiuanb-ButtonActionItem:disabled {
+	color: #dddad5 !important;
+}
+
+.tiktok-1y2yo26-StrongText {
+	color: rgba(221, 218, 213, 0.75) !important;
+}
+
+.tiktok-1lh5noh-DivVideoCardContainer {
+	background-color: #1d1f20 !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	background: none;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	background-color: #181a1b !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border-bottom: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border-top: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border-left: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border-right: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	box-shadow: rgba(102, 102, 102, 0.06) 0px 2px 8px;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	color: rgba(221, 218, 213, 0.75) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText:hover {
+	border-color: rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText:active {
+	border-color: rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	background-color: #181a1b !important;
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border-color: rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border-bottom: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border-top: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border-left: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border-right: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	box-shadow: rgba(102, 102, 102, 0.06) 0px 2px 8px;
+}
+
+.tiktok-d0ezxi-ButtonIconContainer {
+	background-color: #b10123 !important;
+}
+
+.tiktok-d0ezxi-ButtonIconContainer {
+	box-shadow: rgba(102, 102, 102, 0.06) 0px 2px 8px;
+}
+
+.tiktok-d0ezxi-ButtonIconContainer:hover {
+	background-color: #b10123 !important;
+}
+
+.tiktok-d0ezxi-ButtonIconContainer:active {
+	background-color: #b10123 !important;
+}
+
+body {
+	background-color: #181a1b !important;
+}
+
+body {
+	color: #dddad5 !important;
+}
+
+body a {
+	color: #dddad5 !important;
+}
+
+body a:visited {
+	color: #dddad5 !important;
+}
+
+body a:hover {
+	color: #dddad5 !important;
+}
+
+body a:active {
+	color: #dddad5 !important;
+}
+
+body a:focus {
+	color: #dddad5 !important;
+}
+
+body {
+	background-color: #181a1b !important;
+}
+
+body {
+	color: #dddad5 !important;
+}
+
+body a {
+	color: #dddad5 !important;
+}
+
+body a:visited {
+	color: #dddad5 !important;
+}
+
+body a:hover {
+	color: #dddad5 !important;
+}
+
+body a:active {
+	color: #dddad5 !important;
+}
+
+body a:focus {
+	color: #dddad5 !important;
+}
+
+.tiktok-12azhi0-DivHeaderContainer {
+	background-color: #181a1b !important;
+}
+
+.tiktok-12azhi0-DivHeaderContainer {
+	box-shadow: rgba(102, 102, 102, 0.12) 0px 1px 1px;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border-color: rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border: 1.5px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border-bottom: 1.5px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border-top: 1.5px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border-left: 1.5px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border-right: 1.5px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border-bottom: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border-top: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border-left: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border-right: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-1klp3iq-SpanUploadText {
+	color: #dddad5 !important;
+}
+
+.tiktok-qstmns-StyledScroll {
+	background-color: #181a1b !important;
+}
+
+.tiktok-qstmns-StyledScroll {
+	border-right: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-qstmns-StyledScroll {
+	box-shadow: rgba(102, 102, 102, 0.06) 0px 2px 8px;
+}
+
+.tiktok-1cx1pch-DivScrollContainer-StyledScroll {
+	background-color: #181a1b !important;
+}
+
+.tiktok-1cx1pch-DivScrollContainer-StyledScroll {
+	border-right: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-1cx1pch-DivScrollContainer-StyledScroll {
+	box-shadow: rgba(102, 102, 102, 0.06) 0px 2px 8px;
+}
+
+.tiktok-1g27b7n-H2MainNavText {
+	color: #fe345c !important;
+}
+
+.tiktok-1tfqc6a-H2MainNavText {
+	color: #dddad5 !important;
+}
+
+.tiktok-1liq5tk-DivUserContainer {
+	color: rgba(221, 218, 213, 0.75) !important;
+}
+
+.tiktok-1jfrc7x-DivBaseComponent-StyledAvatar {
+	background-color: #1c1e1f !important;
+}
+
+.tiktok-1xxodjj-DivBaseComponent-StyledTitle {
+	background-color: #1c1e1f !important;
+}
+
+.tiktok-4fb5qk-StyledNavLink {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+
+.tiktok-4fb5qk-StyledNavLink:hover,
+.tiktok-4fb5qk-StyledNavLink:active,
+.tiktok-4fb5qk-StyledNavLink:link {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+
+.tiktok-ztf279-SpanCopyright {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+
+.tiktok-ztf279-SpanCopyright:hover,
+.tiktok-ztf279-SpanCopyright:active,
+.tiktok-ztf279-SpanCopyright:link {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+
+.tiktok-1hmwtp5-StyledAvatar {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-gigx3u-SpanAvatarContainer-StyledAvatar {
+	background-color: rgba(58, 62, 64, 0.5);
+}
+
+.tiktok-gigx3u-SpanAvatarContainer-StyledAvatar {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-gigx3u-SpanAvatarContainer-StyledAvatar {
+	color: #ffffff !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	background-color: #181a1b !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	border-color: #c20127 !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	border-bottom: 1px solid #c20127 !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	border-top: 1px solid #c20127 !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	border-left: 1px solid #c20127 !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	border-right: 1px solid #c20127 !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	color: #fe345c !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton:hover {
+	background-color: rgba(177, 1, 35, 0.06);
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton:active {
+	background-color: rgba(177, 1, 35, 0.16) !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton:disabled {
+	background-color: #181a1b !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton:disabled {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton:disabled {
+	color: rgba(221, 218, 213, 0.34) !important;
+}
+
+.tiktok-1kx4ci3-DivVideoCardContainer {
+	background-color: #1d1f20 !important;
+}
+
+.tiktok-czl35e-PReportText {
+	color: #ffffff !important;
+}
+
+.tiktok-1xiuanb-ButtonActionItem {
+	background: none;
+}
+
+.tiktok-1xiuanb-ButtonActionItem:disabled {
+	color: #dddad5 !important;
+}
+
+.tiktok-1y2yo26-StrongText {
+	color: rgba(221, 218, 213, 0.75) !important;
+}
+
+.tiktok-1lh5noh-DivVideoCardContainer {
+	background-color: #1d1f20 !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	background: none;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	background-color: #181a1b !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border-bottom: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border-top: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border-left: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border-right: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	box-shadow: rgba(102, 102, 102, 0.06) 0px 2px 8px;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	color: rgba(221, 218, 213, 0.75) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText:hover {
+	border-color: rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText:active {
+	border-color: rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	background-color: #181a1b !important;
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border-color: rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border-bottom: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border-top: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border-left: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border-right: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	box-shadow: rgba(102, 102, 102, 0.06) 0px 2px 8px;
+}
+
+.tiktok-d0ezxi-ButtonIconContainer {
+	background-color: #b10123 !important;
+}
+
+.tiktok-d0ezxi-ButtonIconContainer {
+	box-shadow: rgba(102, 102, 102, 0.06) 0px 2px 8px;
+}
+
+.tiktok-d0ezxi-ButtonIconContainer:hover {
+	background-color: #b10123 !important;
+}
+
+.tiktok-d0ezxi-ButtonIconContainer:active {
+	background-color: #b10123 !important;
+}
+
+.css-feuqz4 {
+	color: #ffffff !important;
+}
+
+.css-feuqz4-notice-content {
+	background-color: rgba(61, 64, 67, 0.92) !important;
+}
+
+.tiktok-12azhi0-DivHeaderContainer {
+	background-color: #181a1b !important;
+}
+
+.tiktok-12azhi0-DivHeaderContainer {
+	box-shadow: rgba(102, 102, 102, 0.12) 0px 1px 1px;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border-color: rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border: 1.5px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border-bottom: 1.5px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border-top: 1.5px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border-left: 1.5px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1dckc0v-DivInputBorder {
+	border-right: 1.5px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border-bottom: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border-top: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border-left: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-rnjhln-DivUpload {
+	border-right: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-1klp3iq-SpanUploadText {
+	color: #dddad5 !important;
+}
+
+.tiktok-qstmns-StyledScroll {
+	background-color: #181a1b !important;
+}
+
+.tiktok-qstmns-StyledScroll {
+	border-right: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-qstmns-StyledScroll {
+	box-shadow: rgba(102, 102, 102, 0.06) 0px 2px 8px;
+}
+
+.tiktok-1cx1pch-DivScrollContainer-StyledScroll {
+	background-color: #181a1b !important;
+}
+
+.tiktok-1cx1pch-DivScrollContainer-StyledScroll {
+	border-right: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-1cx1pch-DivScrollContainer-StyledScroll {
+	box-shadow: rgba(102, 102, 102, 0.06) 0px 2px 8px;
+}
+
+.tiktok-1g27b7n-H2MainNavText {
+	color: #fe345c !important;
+}
+
+.tiktok-1tfqc6a-H2MainNavText {
+	color: #dddad5 !important;
+}
+
+.tiktok-1liq5tk-DivUserContainer {
+	color: rgba(221, 218, 213, 0.75) !important;
+}
+
+.tiktok-1jfrc7x-DivBaseComponent-StyledAvatar {
+	background-color: #1c1e1f !important;
+}
+
+.tiktok-1xxodjj-DivBaseComponent-StyledTitle {
+	background-color: #1c1e1f !important;
+}
+
+.tiktok-4fb5qk-StyledNavLink {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+
+.tiktok-4fb5qk-StyledNavLink:hover,
+.tiktok-4fb5qk-StyledNavLink:active,
+.tiktok-4fb5qk-StyledNavLink:link {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+
+.tiktok-ztf279-SpanCopyright {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+
+.tiktok-ztf279-SpanCopyright:hover,
+.tiktok-ztf279-SpanCopyright:active,
+.tiktok-ztf279-SpanCopyright:link {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+
+.tiktok-1hmwtp5-StyledAvatar {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-gigx3u-SpanAvatarContainer-StyledAvatar {
+	background-color: rgba(58, 62, 64, 0.5);
+}
+
+.tiktok-gigx3u-SpanAvatarContainer-StyledAvatar {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-gigx3u-SpanAvatarContainer-StyledAvatar {
+	color: #ffffff !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	background-color: #181a1b !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	border-color: #c20127 !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	border-bottom: 1px solid #c20127 !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	border-top: 1px solid #c20127 !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	border-left: 1px solid #c20127 !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	border-right: 1px solid #c20127 !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton {
+	color: #fe345c !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton:hover {
+	background-color: rgba(177, 1, 35, 0.06);
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton:active {
+	background-color: rgba(177, 1, 35, 0.16) !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton:disabled {
+	background-color: #181a1b !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton:disabled {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-jcprrh-Button-StyledFollowButton:disabled {
+	color: rgba(221, 218, 213, 0.34) !important;
+}
+
+.tiktok-1kx4ci3-DivVideoCardContainer {
+	background-color: #1d1f20 !important;
+}
+
+.tiktok-czl35e-PReportText {
+	color: #ffffff !important;
+}
+
+.tiktok-1xiuanb-ButtonActionItem {
+	background: none;
+}
+
+.tiktok-1xiuanb-ButtonActionItem:disabled {
+	color: #dddad5 !important;
+}
+
+.tiktok-1y2yo26-StrongText {
+	color: rgba(221, 218, 213, 0.75) !important;
+}
+
+.tiktok-1lh5noh-DivVideoCardContainer {
+	background-color: #1d1f20 !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	background: none;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	background-color: #181a1b !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border-bottom: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border-top: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border-left: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	border-right: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	box-shadow: rgba(102, 102, 102, 0.06) 0px 2px 8px;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText {
+	color: rgba(221, 218, 213, 0.75) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText:hover {
+	border-color: rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-zxo5ey-ButtonGetAppText:active {
+	border-color: rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	background-color: #181a1b !important;
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border-color: rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border-bottom: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border-top: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border-left: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	border-right: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-1soztfq-DivExpandContainer {
+	box-shadow: rgba(102, 102, 102, 0.06) 0px 2px 8px;
+}
+
+.tiktok-d0ezxi-ButtonIconContainer {
+	background-color: #b10123 !important;
+}
+
+.tiktok-d0ezxi-ButtonIconContainer {
+	box-shadow: rgba(102, 102, 102, 0.06) 0px 2px 8px;
+}
+
+.tiktok-d0ezxi-ButtonIconContainer:hover {
+	background-color: #b10123 !important;
+}
+
+.tiktok-d0ezxi-ButtonIconContainer:active {
+	background-color: #b10123 !important;
+}
+
+body {
+	background-color: #181a1b !important;
+}
+
+body {
+	color: #dddad5 !important;
+}
+
+body a {
+	color: #dddad5 !important;
+}
+
+body a:visited {
+	color: #dddad5 !important;
+}
+
+body a:hover {
+	color: #dddad5 !important;
+}
+
+body a:active {
+	color: #dddad5 !important;
+}
+
+body a:focus {
+	color: #dddad5 !important;
+}
+
+.tiktok-1pyd9ev-DivHeaderInboxWrapper {
+	background-color: #181a1b !important;
+}
+
+.tiktok-1pyd9ev-DivHeaderInboxWrapper {
+	box-shadow: rgba(102, 102, 102, 0.12) 0px -4px 32px;
+}
+
+.tiktok-1ehk2x4-H4InboxTitle {
+	color: #dddad5 !important;
+}
+
+.tiktok-7799n-DivGroupContainer {
+	color: #dddad5 !important;
+}
+
+.tiktok-1yj7pwh-SpanGroupItem {
+	background-color: #161823 !important;
+}
+
+.tiktok-1yj7pwh-SpanGroupItem {
+	color: #ffffff !important;
+}
+
+.tiktok-11g5zco-SpanGroupItem {
+	background-color: #1c1e1f !important;
+}
+
+.tiktok-1tgbrfc-PErrorDesc {
+	color: rgba(221, 218, 213, 0.75) !important;
+}
+
+.tiktok-m6qd4i-PDiscoverTitle {
+	color: rgba(221, 218, 213, 0.75) !important;
+}
+
+.tiktok-1q0ta1o-DivDiscoverSkeletonItem {
+	background-color: #1c1e1f !important;
+}
+
+.css-feuqz4-notice-content {
+	background-color: rgba(61, 64, 67, 0.92) !important;
+}
+
+.css-6re93f {
+	background-color: rgba(61, 64, 67, 0.92) !important;
+}
+
+.css-6re93f {
+	color: #ffffff !important;
+}
+
+.css-1s03iea {
+	color: rgba(232, 230, 227, 0.65) !important;
+}
+
+.css-1s03iea-inner {
+	background-color: rgba(61, 64, 67, 0.92) !important;
+}
+
+.css-1s03iea-inner {
+	color: #ffffff !important;
+}
+
+.css-7lxu2l {
+	background-color: #0e92b2 !important;
+}
+
+.css-7lxu2l {
+	color: #ffffff !important;
+}
+
+.css-156s08 {
+	color: rgba(232, 230, 227, 0.65) !important;
+}
+
+.css-156s08-inner {
+	background-color: #0e92b2 !important;
+}
+
+.css-156s08-inner {
+	color: #ffffff !important;
+}
+
+.tiktok-4gw84j-DivKeyboardShortcutContainer {
+	background-color: #181a1b !important;
+}
+
+.tiktok-4gw84j-DivKeyboardShortcutContainer {
+	border-color: rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-4gw84j-DivKeyboardShortcutContainer {
+	border: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-4gw84j-DivKeyboardShortcutContainer {
+	border-bottom: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-4gw84j-DivKeyboardShortcutContainer {
+	border-top: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-4gw84j-DivKeyboardShortcutContainer {
+	border-left: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-4gw84j-DivKeyboardShortcutContainer {
+	border-right: 1px solid rgba(79, 86, 125, 0.03);
+}
+
+.tiktok-4gw84j-DivKeyboardShortcutContainer {
+	box-shadow: rgba(102, 102, 102, 0.06) 0px 2px 8px;
+}
+
+.tiktok-1jm8e85-DivKeyboardShortcutTitle {
+	color: #dddad5 !important;
+}
+
+.tiktok-i7obfm-DivKeyboardShortcutContent {
+	border-top: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-drf9az-DivKeyboardShortcutContentItem {
+	border-bottom: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-drf9az-DivKeyboardShortcutContentItem {
+	color: #e8e6e3 !important;
+}
+
+.tiktok-d79uqq-PFollowEmptyHint {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+
+.tiktok-arsb3q-H4UserTitle {
+	color: #dddad5 !important;
+}
+
+.tiktok-1f4lmy9-PUserDesc {
+	color: rgba(221, 218, 213, 0.75) !important;
+}
+
+.tiktok-1ezua2b-PShowMoreText {
+	color: #fe345c !important;
+}
+
+.tiktok-1qlwqct-DivDiscoverItemContainer {
+	border-color: rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1qlwqct-DivDiscoverItemContainer {
+	border: 1px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1qlwqct-DivDiscoverItemContainer {
+	border-bottom: 1px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1qlwqct-DivDiscoverItemContainer {
+	border-top: 1px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1qlwqct-DivDiscoverItemContainer {
+	border-left: 1px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1qlwqct-DivDiscoverItemContainer {
+	border-right: 1px solid rgba(79, 86, 125, 0.2) !important;
+}
+
+.tiktok-1sw5kok-PText {
+	color: rgba(221, 218, 213, 0.75) !important;
+}
+
+.css-2yh6ib {
+	color: rgba(232, 230, 227, 0.65) !important;
+}
+
+.css-2yh6ib-inner {
+	background-color: #0e92b2 !important;
+}
+
+.css-2yh6ib-inner {
+	color: #ffffff !important;
+}
+
+.tiktok-ckj05b-DivSeekBarProgress {
+	background-color: rgba(24, 26, 27, 0.2) !important;
+}
+
+.tiktok-ifi2lf-DivSeekBarCircle {
+	background-color: #181a1b !important;
+}
+
+.tiktok-122kkp0-DivSeekBar {
+	background-color: #181a1b !important;
+}
+
+.tiktok-1atuw3p-DivSeekBarTimeContainer {
+	color: #ffffff !important;
+}
+
+.css-1t1y3t4 {
+	color: rgba(232, 230, 227, 0.65) !important;
+}
+
+.css-1t1y3t4-inner {
+	background-color: rgba(61, 64, 67, 0.92) !important;
+}
+
+.css-1t1y3t4-inner {
+	color: #ffffff !important;
+}
+
+.tiktok-7t2h2f-DivBrowserModeContainer {
+	background-color: #181a1b !important;
+}
+
+.tiktok-5uccoo-DivVideoContainer {
+	background-color: #000000 !important;
+}
+
+.tiktok-j48lkt-DivSeekBarProgress {
+	background-color: rgba(24, 26, 27, 0.2) !important;
+}
+
+.tiktok-1ioucls-DivSeekBarCircle {
+	background-color: #181a1b !important;
+}
+
+.tiktok-zqr7z4-DivSeekBar {
+	background-color: #181a1b !important;
+}
+
+.tiktok-o2z5xv-DivSeekBarTimeContainer {
+	color: #ffffff !important;
+}
+
+.tiktok-bqtu1e-ButtonBasicButtonContainer-StyledCloseIconContainer {
+	background-color: rgba(24, 26, 27, 0.12) !important;
+}
+
+.tiktok-t8cj5n-DivVolumeControlContainer {
+	background-color: rgba(24, 26, 27, 0.12) !important;
+}
+
+.tiktok-m4h4si-DivVolumeControlProgress {
+	background-color: rgba(24, 26, 27, 0.2) !important;
+}
+
+.tiktok-1wejges-DivVolumeControlCircle {
+	background-color: #181a1b !important;
+}
+
+.tiktok-18ly8p2-DivVolumeControlBar {
+	background-color: #181a1b !important;
+}
+
+.tiktok-z6k360-ButtonVoiceControlNew {
+	background: none;
+}
+
+.tiktok-z6k360-ButtonVoiceControlNew {
+	background-color: rgba(24, 26, 27, 0.12) !important;
+}
+
+.tiktok-1iiukfq-ButtonBasicButtonContainer-StyledVideoSwitchV2 {
+	background-color: rgba(24, 26, 27, 0.12) !important;
+}
+
+.tiktok-2xqv0y-ButtonBasicButtonContainer-StyledVideoSwitchV2 {
+	background-color: rgba(24, 26, 27, 0.12) !important;
+}
+
+.tiktok-1wfi3px-DivReportText {
+	background-color: rgba(24, 26, 27, 0.12) !important;
+}
+
+.tiktok-1wfi3px-DivReportText {
+	color: #ffffff !important;
+}
+
+.tiktok-5xuix8-Button-StyledFollowButton {
+	background-color: #181a1b !important;
+}
+
+.tiktok-5xuix8-Button-StyledFollowButton {
+	border-color: #c20127 !important;
+}
+
+.tiktok-5xuix8-Button-StyledFollowButton {
+	border-bottom: 1px solid #c20127 !important;
+}
+
+.tiktok-5xuix8-Button-StyledFollowButton {
+	border-top: 1px solid #c20127 !important;
+}
+
+.tiktok-5xuix8-Button-StyledFollowButton {
+	border-left: 1px solid #c20127 !important;
+}
+
+.tiktok-5xuix8-Button-StyledFollowButton {
+	border-right: 1px solid #c20127 !important;
+}
+
+.tiktok-5xuix8-Button-StyledFollowButton {
+	color: #fe345c !important;
+}
+
+.tiktok-5xuix8-Button-StyledFollowButton:hover {
+	background-color: rgba(177, 1, 35, 0.06);
+}
+
+.tiktok-5xuix8-Button-StyledFollowButton:active {
+	background-color: rgba(177, 1, 35, 0.16) !important;
+}
+
+.tiktok-5xuix8-Button-StyledFollowButton:disabled {
+	background-color: #181a1b !important;
+}
+
+.tiktok-5xuix8-Button-StyledFollowButton:disabled {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-5xuix8-Button-StyledFollowButton:disabled {
+	color: rgba(221, 218, 213, 0.34) !important;
+}
+
+.tiktok-zhw1g9-ButtonActionItem {
+	background: none;
+}
+
+.tiktok-zhw1g9-ButtonActionItem:disabled {
+	color: #dddad5 !important;
+}
+
+.tiktok-1xq5mk6-ButtonShare {
+	background: none;
+}
+
+.tiktok-vryw7w-DivCopyLinkContainer {
+	border-color: rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-vryw7w-DivCopyLinkContainer {
+	border: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-vryw7w-DivCopyLinkContainer {
+	border-bottom: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-vryw7w-DivCopyLinkContainer {
+	border-top: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-vryw7w-DivCopyLinkContainer {
+	border-left: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-vryw7w-DivCopyLinkContainer {
+	border-right: 1px solid rgba(79, 86, 125, 0.12) !important;
+}
+
+.tiktok-vryw7w-DivCopyLinkContainer {
+	color: rgba(221, 218, 213, 0.75) !important;
+}
+
+.tiktok-iyi993-ButtonCopyLink {
+	background: none;
+}
+
+.tiktok-iyi993-ButtonCopyLink {
+	color: #dddad5 !important;
+}
+
+.tiktok-dqnt8f-DivCommentListContainer {
+	background-color: #1a1c1d !important;
+}
+
+.tiktok-dqnt8f-DivCommentListContainer {
+	border-bottom: 1px solid rgba(98, 98, 98, 0.12);
+}
+
+.tiktok-1xjmtjf-DivBottomCommentContainer {
+	background-color: #181a1b !important;
+}
+
+.tiktok-ywie5h-DivPostButton {
+	color: rgba(221, 218, 213, 0.34) !important;
+}
+
+.tiktok-ybf3r7-DivInputAreaContainer {
+	color: #dddad5 !important;
+}
+
+.tiktok-ybf3r7-DivInputAreaContainer .public-DraftEditorPlaceholder-root {
+	color: rgba(221, 218, 213, 0.75) !important;
+}
+
+.tiktok-46wese-DivCommentListContainer {
+	background-color: #1a1c1d !important;
+}
+
+.tiktok-46wese-DivCommentListContainer {
+	border-bottom: 1px solid rgba(98, 98, 98, 0.12);
+}
+
+.tiktok-46wese-DivCommentListContainer {
+	border-top: 1px solid rgba(98, 98, 98, 0.12);
+}
+
+.tiktok-tuohvl-SpanAvatarContainer {
+	background-color: rgba(58, 62, 64, 0.5);
+}
+
+.tiktok-tuohvl-SpanAvatarContainer {
+	color: #ffffff !important;
+}
+
+.tiktok-iq73u3-PCommentSubContent {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+
+.tiktok-1d3egy1-SpanReplyButton {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+
+.tiktok-t4fbi8-DivLikeWrapper {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+
+.tiktok-1oxhn3k-PReplyActionText {
+	color: rgba(221, 218, 213, 0.5) !important;
+}
+.tiktok-xhmvja-DivProfileOuterContainer div, .tiktok-1gg6dzy-DivContainer div{
+	background-color: black !important;
+}

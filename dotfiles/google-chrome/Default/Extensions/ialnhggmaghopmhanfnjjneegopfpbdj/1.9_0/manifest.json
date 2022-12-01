@@ -1,0 +1,51 @@
+{
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyjTHilcqflqdJlmuUXjG1Zg9wIKq24/O//Sc1suwC4PynbKs9gKzegshPT0bpkP/So0fL7a2L3fnODOhkZew5ekaEIYk1mvNDi7vCo2UpZAuzVcmTUKnh21Cz/QcVhxiVAAxarMlZJUZFBwr8mu3MjFJoFYWOeG3CL98oqndwnUgNMU1lN1CAeWcwB3wBqNUEiE8bLKurfH099/8NmRmSHc4OLVSRqQKaBbbn9Y6jXHfMdH8nmqRuMvY/cljAxt2wp4zv/A8TUbPzFPOd5zHEh6ztqqXsblhjcTU4Pjej6FnJbcVjVOvGakaBOqyxOitqqe6dzObxRHJEoTX5eeCSQIDAQAB",
+   "manifest_version": 2,
+   "name": "Carbon Blackout",
+   "short_name": "Carbon Blackout",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 232, 232, 232 ],
+         "button_background": [ 0, 0, 0 ],
+         "control_background": [ 0, 0, 0 ],
+         "frame": [ 0, 0, 0 ],
+         "frame_inactive": [ 71, 71, 71 ],
+         "frame_incognito": [ 0, 0, 0 ],
+         "frame_incognito_inactive": [ 71, 71, 71 ],
+         "ntp_background": [ 0, 0, 0 ],
+         "ntp_header": [ 0, 0, 0 ],
+         "ntp_link": [ 255, 255, 255 ],
+         "ntp_link_underline": [ 255, 255, 255 ],
+         "ntp_section": [ 74, 74, 74 ],
+         "ntp_section_link": [ 6, 55, 116 ],
+         "ntp_section_link_underline": [ 255, 255, 255 ],
+         "ntp_section_text": [ 255, 255, 255 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 0, 0, 0 ]
+      },
+      "images": {
+         "theme_button_background": "images/theme_button_background.png",
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "center",
+         "ntp_background_repeat": "repeat",
+         "ntp_logo_alternate": 0
+      },
+      "tints": {
+         "background_tab": [ -1.0, 0.5, 0.75 ],
+         "buttons": [ 1.0, 1.0, 1.0 ],
+         "frame": [ -1.0, 0.5, 0.5 ],
+         "frame_inactive": [ -1.0, 0.3, 0.6 ],
+         "frame_incognito": [ -1.0, 0.2, 0.35 ],
+         "frame_incognito_inactive": [ -1.0, 0.3, 0.6 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.9"
+}

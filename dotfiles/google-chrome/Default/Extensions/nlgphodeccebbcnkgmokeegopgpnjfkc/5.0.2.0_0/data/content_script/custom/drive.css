@@ -1,0 +1,85 @@
+html {background-color: rgb(255, 255, 255) !important}
+
+html, iframe {
+  filter: invert(100%) brightness(70%) !important;
+  -webkit-filter: invert(100%) brightness(70%) !important;
+}
+body::-webkit-scrollbar {
+  width: 8px;
+  height: 5px;
+  background-color: black;
+}
+body::-webkit-scrollbar-thumb {
+    background: gray; 
+}
+em,
+img,
+image,
+video,
+audio,
+embed,
+object,
+button,
+figure:empty {
+  filter: invert(100%) !important;
+  -webkit-filter: invert(100%) !important;
+  
+}
+
+svg{
+	filter: invert(100%) brightness(60%) sepia(30%) !important;
+  -webkit-filter: invert(100%) brightness(60%) sepia(30%) !important;
+}
+
+#drive-viewer-video-player-object-0{filter:invert(0%) !important;}
+
+[style*='background:url']:not(html):not(body):not(input),
+[style*='background: url']:not(html):not(body):not(input),
+[style*='background-image']:not(html):not(body):not(input) {
+  filter: invert(100%) !important;
+  -webkit-filter: invert(100%) !important;
+}
+
+#docs-branding-logo,
+div[class*="-button-action"] {
+  background-color: #999999 !important;
+}
+
+div[class*="-button-action"] {
+  border-color: #666666 !important;
+  background-image: none !important;
+}
+
+.a-nEbBXb .a-qc-La {
+  background-color: #e3e3e3 !important;
+}
+
+.a-nEbBXb .a-D-B.a-D-B-gc-WErN3d {
+  background-color: #c0c0c0 !important;
+}
+
+.gb_xd {
+  background-color: #d9d9d9 !important;
+}
+
+.h-uj {
+  background: #d6d6d6 !important;
+}
+
+#gb li.gb_h a span.gb_k, .gbip::before, .gbii::before{filter:invert(100%);}
+.a-D-gc-wKOTTc .a-ec-Gd button.RTMQvb{background-color:black !important; color:gray !important;}
+.a-b-Sh, .a-b-va-Zf{background-color:white !important; filter:invert(100%) !important; -webkit-filter:invert(100%) !important;}
+.a-b-L .a-b-K{background:linear-gradient(to bottom,rgba(178, 179, 30, 0.65) 0%,#8788275c 100%) !important;}
+.a-b-L .a-b-da-Nd{background-color:rgba(133, 139, 218, 0.75) !important;}
+.a-s-Ba-Ak.a-D-B-Ak.Hb-ja-hc, .a-D-B-Lc-j, .a-D-B-x, .N7iPof.O5x1db, .a-Rc-Fa.a-c-d, .a-Kk7lMc-lihzJ-j{background-color:#e3e3e3 !important;}
+
+.a-b-Xa-La-kg{
+    background: linear-gradient(to bottom, rgba(255,255,255,.2), rgba(255,255,255,.2)) !important;
+}
+.a-b-ta-j .a-b-va-Zf{background-color:rgba(0,0,0,.5) !important;}
+
+.ndfHFb-c4YZDc-K9a4Re{background-color:white !important;}
+canvas.kb-Gm.kb-Uq{filter:invert(1) !important;}
+.EHzcec{filter:invert(0) !important;}
+.EHzcec span[pid]{filter:invert(1) !important;}
+grammarly-extension{visibility:hidden;}

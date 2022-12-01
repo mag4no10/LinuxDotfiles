@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="26px" viewBox="0 0 68 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img_low</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EA5A4F" stop-opacity="0.408587262" offset="0%"></stop>
+            <stop stop-color="#EA5A4F" stop-opacity="0.0195047872" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.6397436%" y1="48.6118281%" x2="100%" y2="51.9096824%" id="linearGradient-2">
+            <stop stop-color="#EA5A4F" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#EA5A4F" stop-opacity="0.783750307" offset="5.39884457%"></stop>
+            <stop stop-color="#EA5A4F" offset="50.8072334%"></stop>
+            <stop stop-color="#EA5A4F" stop-opacity="0.805143343" offset="95.3887321%"></stop>
+            <stop stop-color="#EA5A4F" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-222.000000, -31.000000)">
+            <g id="img_low-2" transform="translate(222.000000, 31.000000)">
+                <g id="img_low" transform="translate(1.000000, 11.000000)">
+                    <path d="M0,3.27308119 C2.37278344,0.768098443 5.73868781,-0.299033042 10.0977131,0.0716867373 C16.6362511,0.627766406 20.6093983,6.12399532 30.4769274,5.62399532 C40.3444566,5.12399532 40.3444566,9.20310077 44.8164285,9.90679924 C49.2884005,10.6104977 54.821774,10.0356911 57.3490418,10.5335374 C59.8763096,11.0313838 64.1374721,12.8122901 65.7038945,14.2326794 C64.8960945,14.2326794 42.9947963,14.2326794 0,14.2326794 L0,3.27308119 Z" fill="url(#linearGradient-1)"></path>
+                    <path d="M0,3.27308119 C2.37278344,0.768098443 5.73868781,-0.299033042 10.0977131,0.0716867373 C16.6362511,0.627766406 20.6093983,6.12399532 30.4769274,5.62399532 C40.3444566,5.12399532 40.3444566,9.20310077 44.8164285,9.90679924 C49.2884005,10.6104977 54.821774,10.0356911 57.3490418,10.5335374 C59.8763096,11.0313838 64.1374721,12.8122901 65.7038945,14.2326794" stroke="url(#linearGradient-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "어두운 모드로 전환하려는 웹 사이트를 전환하십시오. 어두운 모드는 장치가 배터리를 절약하고 눈의 부담을 덜어줍니다."
+   },
+   "name": {
+      "message": "Super Dark Mode"
+   },
+   "short_name": {
+      "message": "Night Mode"
+   }
+}

@@ -27,6 +27,10 @@ super + shift + c
 Print  
     flameshot full -c
 
+#print snip screen to clipbard
+shift + Print   
+    flameshot gui 
+
 #Firejail + Firefox
 super + shift + f
 	firejail /opt/firefox/firefox

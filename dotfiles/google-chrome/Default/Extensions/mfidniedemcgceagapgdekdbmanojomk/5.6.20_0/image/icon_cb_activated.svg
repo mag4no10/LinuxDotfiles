@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_conplete</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g  transform="translate(-110.000000, -121.000000)">
+            <g  transform="translate(110.000000, 82.000000)">
+                <g  transform="translate(0.000000, 34.000000)">
+                    <g id="icon_conplete" transform="translate(0.000000, 5.000000)">
+                        <circle  fill="#FF6F00" cx="10" cy="10" r="10"></circle>
+                        <polyline  stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(10.000000, 8.646049) scale(-1, 1) rotate(-45.000000) translate(-10.000000, -8.646049) " points="8 4.64604949 8 12.6460495 12 12.6460495"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

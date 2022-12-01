@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Schimbați site-ul pe care doriți să îl închideți. Modul închis va ajuta dispozitivele să economisească bateria și va reduce solicitarea ochilor."
+   },
+   "name": {
+      "message": "Super Dark Mode"
+   },
+   "short_name": {
+      "message": "Night Mode"
+   }
+}

@@ -1,0 +1,15 @@
+2022/11/03-13:10:04.069 8592 Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_kawaiifu.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/03-13:10:04.069 8592 Recovering log #7
+2022/11/03-13:10:04.069 8592 Reusing old log /home/atenea/.config/google-chrome/Default/IndexedDB/https_kawaiifu.com_0.indexeddb.leveldb/000007.log 
+2022/11/03-13:10:08.095 85a7 Level-0 table #12: started
+2022/11/03-13:10:08.096 85a7 Level-0 table #12: 3646 bytes OK
+2022/11/03-13:10:08.098 85a7 Delete type=0 #7
+2022/11/03-13:10:08.098 85a7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/11/03-13:10:08.098 85a7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 1266 : 1
+2022/11/03-13:10:08.098 85a7 Compacting 1@1 + 1@2 files
+2022/11/03-13:10:08.099 85a7 Generated table #13@1: 99 keys, 2218 bytes
+2022/11/03-13:10:08.099 85a7 Compacted 1@1 + 1@2 files => 2218 bytes
+2022/11/03-13:10:08.100 85a7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/11/03-13:10:08.100 85a7 Delete type=2 #9
+2022/11/03-13:10:08.100 85a7 Delete type=2 #12
+2022/11/03-13:10:08.100 85a7 Manual compaction at level-1 from '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 1266 : 1 .. (end); will stop at (end)

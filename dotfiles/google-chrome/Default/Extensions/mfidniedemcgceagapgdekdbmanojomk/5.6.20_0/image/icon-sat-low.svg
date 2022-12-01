@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1</title>
+    <g id="page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1">
+            <circle fill="#3479E8" cx="12" cy="12" r="12"></circle>
+            <g transform="translate(7.000000, 9.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+                <polyline transform="translate(8.693460, 4.291755) rotate(-78.000000) translate(-8.693460, -4.291755) " points="7.43163834 3.04364105 7.62078446 5.53986862 9.95528151 5.23897496"></polyline>
+                <polyline points="0 0 2.65143411 3.09270593 6.00126535 1.54635297 9.17647059 5.25"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

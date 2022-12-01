@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_gold</title>
+    <defs>
+        <ellipse id="path-1" cx="7" cy="7.17721004" rx="7" ry="7.17721004"></ellipse>
+        <ellipse id="path-3" cx="7" cy="7.17721004" rx="5.13333333" ry="5.26328737"></ellipse>
+        <filter x="-14.6%" y="-14.2%" width="129.2%" height="128.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.543487762   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="16.5829658%" x2="52.2070133%" y2="68.5940016%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" stop-opacity="0.242242133" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="16.5829658%" x2="53.9536339%" y2="68.5940016%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0.242242133" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-263.000000, -113.000000)">
+            <g id="icon_gold" transform="translate(263.000000, 113.000000)">
+                <ellipse fill="#FF7600" cx="7" cy="7.82278996" rx="7" ry="7.17721004"></ellipse>
+                <g>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use fill="#FFD500" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)">
+                        <use fill="#FFD500" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    </g>
+                    <polygon fill="url(#linearGradient-5)" mask="url(#mask-2)" transform="translate(6.377425, 3.900374) rotate(-315.000000) translate(-6.377425, -3.900374) " points="4.74163632 -2.99086818 7.40514056 -2.95236394 8.01321463 10.7916168 6.05485699 9.95698211"></polygon>
+                    <polygon fill="url(#linearGradient-6)" mask="url(#mask-2)" transform="translate(8.561653, 6.911231) rotate(-315.000000) translate(-8.561653, -6.911231) " points="6.40043021 0.108645058 9.06393445 0.147149301 10.722876 13.7138163 6.78336811 13.1052159"></polygon>
+                </g>
+                <text id="$" font-family="Circular-Black, Circular" font-size="7" font-weight="700" fill="#FF7E00">
+                    <tspan x="4.8125" y="9.80587711">$</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

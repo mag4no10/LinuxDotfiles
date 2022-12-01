@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Beralih situs web Anda ingin mode gelap. Mode gelap akan membantu perangkat menghemat baterai dan mengurangi ketegangan pada mata Anda."
+   },
+   "name": {
+      "message": "Super Dark Mode"
+   },
+   "short_name": {
+      "message": "Night Mode"
+   }
+}

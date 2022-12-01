@@ -1,0 +1,25 @@
+2022/11/24-14:59:06.417 10f85 Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/24-14:59:06.417 10f85 Recovering log #7
+2022/11/24-14:59:06.418 10f85 Reusing old log /home/atenea/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2022/11/24-15:32:39.366 133c5 Level-0 table #12: started
+2022/11/24-15:32:39.391 133c5 Level-0 table #12: 2131498 bytes OK
+2022/11/24-15:32:39.393 133c5 Delete type=0 #7
+2022/11/24-15:54:57.164 1531a Level-0 table #14: started
+2022/11/24-15:54:57.182 1531a Level-0 table #14: 1117232 bytes OK
+2022/11/24-15:54:57.184 1531a Delete type=0 #11
+2022/11/24-15:54:57.184 1531a Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x0a\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x001\x00/' @ 8302 : 1
+2022/11/24-15:54:57.184 1531a Compacting 1@0 + 1@1 files
+2022/11/24-15:54:57.195 1531a Generated table #15@0: 1559 keys, 783372 bytes
+2022/11/24-15:54:57.195 1531a Compacted 1@0 + 1@1 files => 783372 bytes
+2022/11/24-15:54:57.196 1531a compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/11/24-15:54:57.196 1531a Delete type=2 #12
+2022/11/24-15:54:57.196 1531a Delete type=2 #14
+2022/11/24-15:54:57.197 1531a Manual compaction at level-0 from '\x00\x0a\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x001\x00/' @ 8302 : 1 .. (end); will stop at (end)
+2022/11/24-15:54:57.197 1531a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0a\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x001\x00/' @ 8302 : 1
+2022/11/24-15:54:57.197 1531a Compacting 1@1 + 1@2 files
+2022/11/24-15:54:57.201 1531a Generated table #16@1: 106 keys, 110766 bytes
+2022/11/24-15:54:57.201 1531a Compacted 1@1 + 1@2 files => 110766 bytes
+2022/11/24-15:54:57.202 1531a compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/11/24-15:54:57.202 1531a Delete type=2 #9
+2022/11/24-15:54:57.202 1531a Delete type=2 #15
+2022/11/24-15:54:57.202 1531a Manual compaction at level-1 from '\x00\x0a\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x001\x00/' @ 8302 : 1 .. (end); will stop at (end)

@@ -1,0 +1,38 @@
+html {background-color: rgb(255, 255, 255) !important}
+html, iframe {
+  filter: invert(100%) brightness(70%);
+  -webkit-filter: invert(100%) brightness(70%);
+}
+body::-webkit-scrollbar {
+  width: 8px;
+  height: 5px;
+  background-color: black;
+}
+body::-webkit-scrollbar-thumb {
+    background: gray; 
+}
+em,
+img,
+image,
+video,
+audio,
+embed,
+object,
+button,
+figure:empty {
+  filter: invert(100%);
+  -webkit-filter: invert(100%);
+  
+}
+grammarly-extension{visibility:hidden;}
+#topnav{
+    filter: invert(.8) saturate(0.5);
+}
+#ikind--date .item-parent-img{filter: invert(1);}
+body.navia #theatre-ia-wrap, .terms-of-service, .jw-overlays.jw-reset{
+    background-color: #c9c9c9 !important;
+}
+.backdrop, modal-template{display:none !important;}
+.jw-overlays.jw-reset{display:none;}
+#theatre-ia, #screenshot, #ia-carousel, #BookReader .BRtwopageview{filter:invert(1);}
+video{filter:invert(0);}

@@ -1,0 +1,15 @@
+
+body::-webkit-scrollbar {
+  width: 8px;
+  height: 5px;
+  background-color: black;
+}
+body::-webkit-scrollbar-thumb {
+    background: gray; 
+}
+body{filter:invert(100%) brightness(75%); background:black !important;}
+img, button{filter:invert(100%);}
+svg{filter:invert(0%) !important;}
+button img{filter:invert(0%);}
+div.mc-media-cell-icon svg, a.maestro-nav__home-button svg{filter:invert(100%) !important;}
+grammarly-extension{visibility:hidden;}

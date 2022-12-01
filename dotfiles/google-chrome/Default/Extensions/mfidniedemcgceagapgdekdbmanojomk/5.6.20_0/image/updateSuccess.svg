@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="226px" height="162px" viewBox="0 0 226 162" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EFECEF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="97.5019759%" y1="0%" x2="5.19725803%" y2="94.3577117%" id="linearGradient-2">
+            <stop stop-color="#A6A6A6" offset="0%"></stop>
+            <stop stop-color="#ECEBEB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="61.9736189%" y1="0%" x2="26.8548335%" y2="94.3577117%" id="linearGradient-3">
+            <stop stop-color="#D9D9D9" offset="0%"></stop>
+            <stop stop-color="#ECEBEB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="61.9736189%" y1="0%" x2="26.8548335%" y2="94.3577117%" id="linearGradient-4">
+            <stop stop-color="#D9D9D9" offset="0%"></stop>
+            <stop stop-color="#ECEBEB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="61.9736189%" y1="0%" x2="26.8548335%" y2="94.3577117%" id="linearGradient-5">
+            <stop stop-color="#D9D9D9" offset="0%"></stop>
+            <stop stop-color="#ECEBEB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-452.000000, -253.000000)">
+            <g transform="translate(452.000000, 253.106649)">
+                <ellipse fill="url(#linearGradient-1)" cx="115.5" cy="112.849324" rx="102" ry="43"></ellipse>
+                <g transform="translate(79.500000, 14.507322)">
+                    <circle fill="url(#linearGradient-2)" cx="36" cy="36" r="36"></circle>
+                    <polyline stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" transform="translate(38.362355, 27.166913) rotate(-45.000000) translate(-38.362355, -27.166913) " points="56.7385362 36.1748446 19.9861743 36.1748446 19.9861743 18.1589809"></polyline>
+                </g>
+                <g transform="translate(39.781250, 80.407322)">
+                    <rect fill="#D1D0D0" x="5.21875" y="13.4" width="2.5" height="13"></rect>
+                    <ellipse fill="url(#linearGradient-3)" cx="6.46875" cy="9" rx="6.46875" ry="9"></ellipse>
+                </g>
+                <g transform="translate(179.708690, 72.507322)">
+                    <rect fill="#D1D0D0" x="2.76751894" y="7.10606061" width="1.32575758" height="6.89393939"></rect>
+                    <ellipse fill="url(#linearGradient-4)" cx="3.43039773" cy="4.77272727" rx="3.43039773" ry="4.77272727"></ellipse>
+                </g>
+                <g transform="translate(186.569486, 80.540407)">
+                    <rect fill="#D1D0D0" x="1.75332677" y="4.50195522" width="1" height="4.36756849"></rect>
+                    <ellipse fill="url(#linearGradient-5)" cx="2.17328528" cy="3.02370126" rx="2.17328528" ry="3.02370126"></ellipse>
+                </g>
+                <g transform="translate(157.503465, 19.007322) rotate(-295.000000) translate(-157.503465, -19.007322) translate(141.757609, 7.799263)">
+                    <polygon fill="#D7D7D7" transform="translate(16.325952, 7.878874) rotate(315.000000) translate(-16.325952, -7.878874) " points="17.8793831 2.12704013 21.7165286 5.23429931 13.0890454 13.6307069 10.9353758 11.8866996"></polygon>
+                    <polygon fill="#C6C6C6" transform="translate(5.503714, 16.912403) rotate(315.000000) translate(-5.503714, -16.912403) " points="7.3154556 11.1086024 4.04685197 10.940719 3.69197163 22.6497998 5.50538851 22.8840879"></polygon>
+                    <polygon fill="#C6C6C6" transform="translate(26.149345, 14.259647) rotate(315.000000) translate(-26.149345, -14.259647) " points="32.1420149 12.9542155 32.3991603 15.4265551 19.8995298 15.5650786 20.1150984 13.952846"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

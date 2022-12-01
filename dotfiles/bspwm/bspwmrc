@@ -39,3 +39,7 @@ xsetroot -cursor_name left_ptr &
 
 #Pulseaudio launch
 pulseaudio --start
+
+#Activate touchpad click
+synclient TapButton1=1
+

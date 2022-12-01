@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Tanulj nyelveket teljesen ingyen, reklámok és rejtett költségek nélkül. Szórakoztató, könnyű és tudományosan igazolt."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "A Duolingo az interneten"
+   }
+}

@@ -1,0 +1,119 @@
+:root{
+	--bg-color-d:#333;
+	--text-color-d:lightgray;
+	--a-color-d:#7e7349;
+	--a-visited-color-d:lightblue;
+	--a-hover-color-d:lightgray;
+	--input-border-color-d:rgba(255,255,255,.1);
+	--input-placeholder-color-d:lightblue;
+	--dialog-bg-color-d:#333;
+	--bg-color-page-d:rgba(170, 170, 170);
+}
+
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 5px;
+  background-color: var(--bg-color-d);
+}
+*::-webkit-scrollbar-thumb {
+    background-color: gray; 
+}
+
+html, body {
+  background:var(--bg-color-d) !important;
+  background-image:none !important;
+  background-color:var(--bg-color-d) !important;
+}
+
+html, body, body *:not(a):not([style*=color]){
+	color:var(--text-color-d) !important;
+}
+*{box-shadow:none !important;}
+html *:not(body):not(span):not(a):not([style*=background-color]):not([style*=color]):not([style*=background-image]):not([style*=url]):not(figure):not(svg):not([class*=dialog]):not([role*=dialog]):not([class*=sub-items]):not([class=sbsb_b]):not(input):not(select):not(textarea):not(option):not([style*=background-position]):not([class*=menu]):not([class*=logo]):not([class*=Menu]):not([class*=Header]):not([role*=menuitem]):not([aria-labelledby*=menu]):not([class*=msg-overlay]):not([class*=dropdown-options]):not([class*=rsdc-dual-month]):not([class*=popup]):not([class=sa_as]):not([class=oml_img]):not([class=cr]):not([aria-label*=apps]):not([class*=goog-menu-vertical]):not([class*=docs-homescreen-floater-header-title]):not([class*=docs-homescreen-floater-header]){
+	outline:none !important;
+	box-shadow:none !important;
+	background-image:none !important;
+	background:none !important;
+	background-color:rgba(0,0,0,0) !important;
+}
+div.goog-menu-vertical{border:1px solid rgba(255,255,255,.2) !important;}
+html *[class*=menu]{
+	color:var(--text-color-d) !important;
+	box-shadow:none !important;
+	background-image:none !important;
+	background:none !important;
+	background-color:var(--bg-color-d) !important;
+}
+html span:not([style*=color]):not([style*=background-color]), html a{
+	color:var(--text-color-d) !important;
+	border:none !important;
+	outline:none !important;
+	box-shadow:none !important;
+	background-color:rgba(0,0,0,0) !important;
+}
+html span[class~=logo], html span[class~=img], html a[class~=logo], html div[class~=logo]{
+	background-image:none !important;
+	background:none !important;
+}
+section[class*=section], div[class*=section], section[class], section[id], section{
+	background:none !important;
+	background-color:rgba(0,0,0,0) !important;
+}
+div::before, div::after, section::before, section::after, li::before, li::after, header::before, header::after, span::before, span::after, article::before, article::after{
+	background:none !important;
+	background-color:rgba(0,0,0,0) !important;
+	border:none !important;
+}
+li:not([class*=menu]):not([id*=menu]):hover{background-color:rgb(0,0,0,0) !important;}
+a, a:link, a.fl, a.fl:link, .departments-facet-desktop .dept-head-list-heading a, .departments-facet-desktop .dept-head-list-heading a:link{color:var(--a-color-d) !important;}
+a:visited, a.fl:visited{color:var(--a-visited-color-d) !important;}
+a:hover, a.fl:hover{color:var(a-hover-color) !important;}
+ul[class*=menu], li[class*=menu], div[class*=menu-]:not([class*=goog-menu-vertical]), a[class*=menu], a[id*=menu], a[class*=Menu], div[class*=Menu], dl dd, dl dt, dl dd *, dl dt *, ul[class*=sub-items], html div[class*=Header]:not([class=HeaderedGrid__header]):not([data-tl-id=categorypage-CuratedCategoryCarousel-ModuleHeader]), *[role*=menuitem], div[aria-labelledby*=menu], ul[class*=dropdown-options], *[role=dialog], *[class*=popup],header,div.sa_as{
+	background-color:var(--bg-color-d) !important;
+}
+*[class*=masthead], #nav__plain-header{
+	background-color:var(--bg-color-d) !important;
+}
+
+input::placeholder, textarea::placeholder{
+	color:var(--input-placeholder-color-d) !important;
+}
+div[class*=dialog], div[id*=dialog], div[role*=dialog]{
+	background:var(--dialog-bg-color-d) !important;
+}
+*[class*=msg-overlay]{
+	background-color:/*rgba(0,0,0,.7)*/var(--dialog-bg-color-d) !important;
+}
+input:not([id=sb_form_go]), select, textarea, #CountryUrlChooser{
+	border:0.5px solid var(--input-border-color-d) !important;
+	background:none !important;
+	color:var(--text-color-d) !important;
+	background-color:/*rgba(0,0,0,0)*/var(--dialog-bg-color-d) !important;
+}
+select option{
+	color:var(--text-color-d) !important; 
+	background-color:var(--bg-color-d) !important;
+}
+form#sb_form input#sb_form_go{transform:scale(0.64) !important;}
+#hp_sw_hdr, footer#b_footer, #id_hbfo, #id_d, #off_menu_cont{background-color:var(--bg-color-d) !important;}
+div.kix-page.kix-page-paginated, div.kix-page-content-wrapper{background-color:var(--bg-color-page-d) !important;}
+div.kix-page-content-wrapper{border:1px solid var(--input-border-color-d) !important;}
+*[id*=docs-], *[class*=goog-toolbar-separator], .companion-app-switcher-guest-container, #kix-horizontal-ruler, .companion-app-switcher-container{border-color:var(--input-border-color-d) !important;}
+.gb_Ed.gb_de.gb_Nd{background-color:var(--bg-color-d) !important;}
+canvas{filter:brightness(60%);}
+.gb_ba.gb_aa.gb_ua.gb_g.gb_ca{background-color:var(--bg-color-d) !important;}
+
+
+
+#docs-editor-container .kix-selection-overlay.kix-htmloverlay-under-text{background-color:lightgray !important;}
+#docs-editor-container div#kix-appview {background-color:#222!important;}
+#docs-editor-container {/* opacity:.9!important; */background-color:var(--bg-color-page-d) !important;}
+#docs-editor-container .goog-menu.goog-menu-vertical{background-color:#444!important;}
+#docs-editor-container .docs-gm .docs-menubar .goog-control.docs-menu-button-open-below{background-color:#222!important;}
+#docs-editor-container .kix-page{border:1px solid rgb(109, 109, 109);}
+#docs-editor-container div.kix-page-content-wrapper{border:1px solid transparent!important;}
+#docs-editor-container .kix-selection-overlay.kix-htmloverlay.docs-ui-unprintable.kix-htmloverlay-under-text {border:0px solid transparent!important;}
+#kix-appview .kix-appview-editor{background-color:var(--bg-color-d) !important;}
+.docs-homescreen-floater-header-title, .docs-homescreen-floater-header{background-color:var(--bg-color-d) !important;}
+
+grammarly-extension{visibility:hidden;}

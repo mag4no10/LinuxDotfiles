@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Switch all websites to dark mode. You can darken all sites and also customize colors for the sites you want."
+   },
+   "name": {
+      "message": "Super Dark Mode"
+   },
+   "short_name": {
+      "message": "Night Mode"
+   }
+}

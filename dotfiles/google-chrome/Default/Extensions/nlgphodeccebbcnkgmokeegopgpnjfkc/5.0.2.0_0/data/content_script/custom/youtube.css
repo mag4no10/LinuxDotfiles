@@ -1,0 +1,110 @@
+ytd-app, #content, #content #page-manager, #content #page-manager ytd-watch.style-scope.ytd-page-manager, #content #page-manager  ytd-browse.style-scope.ytd-page-manager, app-toolbar #tabs-container #tabs-inner-container, #channel-container #channel-header, ytd-multi-page-menu-renderer, #page-manager ytd-browse.style-scope.ytd-page-manager ytd-playlist-sidebar-renderer.style-scope.ytd-browse, #page-manager ytd-section-list-renderer#primary #contents ytd-item-section-renderer.style-scope.ytd-section-list-renderer #contents, #page-manager ytd-browse #alerts, #page-manager ytd-section-list-renderer#primary #contents, ytd-watch-flexy, ytd-section-list-renderer#primary, ytd-playlist-video-renderer, div#secondary, ytd-video-renderer.ytd-backstage-post-renderer, h3.ytd-miniplayer, #card.style-scope.ytd-miniplayer, ytd-section-list-renderer, #secondary, #creator-page, #creator-page .ytg-fl.account-container, #yt-masthead-container, body #footer-container, #yt-picker-language-footer, #yt-picker-country-footer, #yt-picker-safetymode-footer, #masthead-search-term, #guide-container, #yt-masthead-creation-clickcard, #yt-masthead-notifications-clickcard, #yt-masthead-notifications-content, #yt-masthead-notifications-content *, .yt-masthead-account-picker, .yt-masthead-account-picker *, #primary, #embed-panel, paper-dialog[role=dialog], #star-survey, #inline-survey-compact-video-renderer, paper-listbox#menu, #tabs-inner-container{
+	background:#1a1a1a !important;
+	color:#959595 !important;
+}
+paper-listbox#menu .iron-selected, paper-listbox#menu paper-item.yt-dropdown-menu:hover{
+	background-color:black;
+}
+ytd-multi-page-menu-renderer{border:1px solid gray;}
+#content #page-manager ytd-watch.style-scope.ytd-page-manager *{
+	color:#959595 !important
+}
+body *, a:link, a:visited{
+	color:#959595 !important
+}
+a:hover{
+	color:orange !important;
+}
+#masthead-container{
+	background-color: transparent !important;
+	background:none !important;
+}
+
+ytd-masthead#masthead{
+	border-bottom:1px solid #262525;
+	background:linear-gradient(#1a1a1a, #1a1a1a);
+}
+ytd-searchbox#search *{
+	background:transparent !important;
+}
+ytd-searchbox#search input{
+	color:white !important;
+}
+#guide #guide-content, #columns, ytd-browse,ytd-post-renderer{
+	background:#1a1a1a !important;
+	color:#959595 !important;
+;
+}
+#guide #guide-content *{
+	color:#959595 !important;
+}
+#guide #guide-content{
+	margin-right:-18px !important;
+}
+#right-arrow ytd-button-renderer, #left-arrow ytd-button-renderer{background:#007ebf !important;}
+paper-button[class*=ytd-subscribe-button-renderer]{background:#035090 !important;}
+ytd-author-comment-badge-renderer{background-color:#c0c0c0 !important;}
+ytd-comments#comments paper-button, #meta paper-button{background:none !important;}
+ytd-comments#comments paper-button *, #meta paper-button *{color:#9c2c00 !important;}
+
+#guide-button #button{filter:contrast(10%);}
+#contents.ytd-section-list-renderer > .ytd-section-list-renderer:not(:last-child):not(ytd-page-introduction-renderer), #sections.ytd-guide-renderer > .ytd-guide-renderer:not(:last-child){
+	border-bottom: 1px solid rgba(255,255,255,.1) !important;
+}
+#playlist #container .header.style-scope.ytd-playlist-panel-renderer{background: rgb(18,18,18) !important;}
+#playlist #container #items{background:rgb(18,18,18) !important;}
+#content #page-manager ytd-watch.style-scope.ytd-page-manager *{color:#959595 !important;}
+ytd-video-secondary-info-renderer, ytd-video-primary-info-renderer, #placeholder-area.ytd-comment-simplebox-renderer {border-bottom:rgba(255,255,255,.1) !important;}
+body::-webkit-scrollbar {
+  width: 8px;
+  height: 5px;
+  background-color: #1a1a1a;
+}
+body::-webkit-scrollbar-thumb {
+    background: darkgray; 
+}
+
+#logo svg g g path:not([fill=white]){fill:#007ebf !important;}
+ytd-simple-menu-header-renderer, ytd-active-account-header-renderer{background-color:#343434 !important;}
+ytd-multi-page-menu-renderer{overflow-x:hidden !important;}
+ytd-multi-page-menu-renderer ytd-account-settings{background:#1a1a1a !important;}
+ytd-multi-page-menu-renderer ytd-account-settings .ytd-account-settings::-webkit-scrollbar{width:4px; background-color:#1a1a1a;}
+paper-listbox#items{background:#1a1a1a !important;border:solid gray 1px !important;}
+paper-listbox#items ytd-menu-service-item-renderer:hover{background:#373838 !important;}
+form#search-form div#container.style-scope.ytd-searchbox{box-shadow:none !important;}
+
+div.gstl_50.sbdd_a, div.gstl_50.sbdd_a *{
+	background:#1a1a1a !important;
+	color:#959595 !important;
+}
+
+ytd-playlist-panel-renderer#playlist #items-stamp, ytd-mini-guide-renderer, ytd-mini-guide-renderer ytd-mini-guide-entry-renderer, ytd-rich-metadata-row-renderer .ytd-rich-metadata-renderer{background:#1a1a1a !important;}
+.exp-kevlar-settings .account-page #creator-sidebar .creator-sidebar-item.selected>a, #yt-picker-language-button, #yt-picker-country-button, #yt-picker-safetymode-button, .footer-history.yt-uix-sessionlink, .yt-google-help-link, #creator-page-content .account-content option{background-color:transparent !important;}
+#creator-sidebar .creator-sidebar-section a:hover{color:gray !important;background-color:transparent !important;}
+
+.social-connector, .desktop-notifications .browser, button.yt-uix-button.yt-uix-button-size-default, input[type=text], select, option, span.yt-uix-form-input-select-content, .sbdd_b .sbsb_a ul.sbsb_b{background-color:#1a1a1a !important;}
+.yt-uix-button {background-color:transparent !important;}
+
+
+*::-webkit-scrollbar {
+  width: 4px;
+  height: 5px;
+  background-color: #1a1a1a;
+}
+*::-webkit-scrollbar-thumb {
+    background: gray; 
+}
+#card-title{background-color:#1a1a1a !important;} ytd-search-refinement-card-renderer{border:rgba(255,255,255,.1) !important;} #right-arrow, #left-arrow{background-color:#007ebf !important;}#right-arrow svg, #left-arrow svg{fill:#959595 !important;}
+
+#chips-wrapper #left-arrow, #chips-wrapper #right-arrow{background:none !important; background-color:transparent !important;}
+yt-chip-cloud-chip-renderer[chip-style="STYLE_HOME_FILTER"][selected]{
+	background-color:#1a1a1a !important;
+}
+#chips-wrapper.ytd-feed-filter-chip-bar-renderer, tp-yt-paper-listbox{background-color:#1a1a1a !important;}
+:root{
+	--yt-spec-brand-background-primary:#1a1a1a !important;
+}
+iron-selector#chips, #secondary #scroll-container, #left-arrow #left-arrow-button, #left-arrow:after, #right-arrow #right-arrow-button, #right-arrow:before{background-color:#1a1a1a !important;background-image:none !important;}
+grammarly-extension{visibility:hidden;}
+
+#primary #primary-inner #clarify-box .ytd-watch-flexy{background: transparent !important;}

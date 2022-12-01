@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Учите языки совершенно бесплатно, без рекламы и завуалированных платежей. Это весело, легко, и научно обоснованно."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Duolingo в сети"
+   }
+}

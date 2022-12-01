@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="56px" viewBox="0 0 88 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img_Giftcard</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-682.000000, -282.000000)">
+            <g id="img_Giftcard" transform="translate(682.000000, 282.000000)">
+                <path d="M3.91111112,0 L84.0888889,0 C86.2489359,4.72950087e-17 88,1.75106409 88,3.91111112 L88,52.0888889 C88,54.2489359 86.2489359,56 84.0888889,56 L3.91111112,56 C1.75106409,56 2.64529467e-16,54.2489359 0,52.0888889 L0,3.91111112 C1.79559742e-16,1.75106409 1.75106409,3.96794201e-16 3.91111112,0 Z" fill="#FF8A4B"></path>
+                <rect fill="#E76829" x="65.5111111" y="38.4074074" width="14.6666667" height="3.92592593" rx="0.977777778"></rect>
+                <rect fill="#E76829" x="56.7111111" y="46.2592593" width="23.4666667" height="3.92592593" rx="0.977777778"></rect>
+                <polygon fill="#FFFFFF" points="18.5777778 0 22.4888889 0 22.4888889 56 18.5777778 56"></polygon>
+                <polygon fill="#FFFFFF" transform="translate(44.000000, 17.666667) rotate(-270.000000) translate(-44.000000, -17.666667) " points="42.037037 -26.3333333 45.962963 -26.3333333 45.962963 61.6666667 42.037037 61.6666667"></polygon>
+                <g transform="translate(8.800000, 4.907407)" stroke="#FFFFFF" stroke-width="3.91111111">
+                    <ellipse  cx="6.84444444" cy="6.87037037" rx="4.88888889" ry="4.91481481"></ellipse>
+                    <line x1="9.77777778" y1="9.98764199" x2="20.5333333" y2="21.5925926" ></line>
+                </g>
+                <g transform="translate(22.977778, 15.790117) scale(-1, 1) translate(-22.977778, -15.790117) translate(12.711111, 4.907407)" stroke="#FFFFFF" stroke-width="3.91111111">
+                    <ellipse cx="6.84444444" cy="6.87037037" rx="4.88888889" ry="4.91481481"></ellipse>
+                    <line x1="9.77777778" y1="9.98764199" x2="20.5333333" y2="21.5925926"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

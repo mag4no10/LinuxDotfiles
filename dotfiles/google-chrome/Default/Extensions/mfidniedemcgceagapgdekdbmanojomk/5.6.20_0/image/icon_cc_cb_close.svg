@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2</title>
+    <g id="1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2">
+            <circle fill="#FFFFFF" cx="10" cy="10" r="10"></circle>
+            <line x1="4.84732225" y1="9.98991703" x2="15.1325118" y2="9.98991703" stroke="#979797" stroke-linecap="round" transform="translate(9.989917, 9.989917) rotate(-45.000000) translate(-9.989917, -9.989917) "></line>
+            <line x1="4.84732225" y1="9.98991703" x2="15.1325118" y2="9.98991703" stroke="#979797" stroke-linecap="round" transform="translate(9.989917, 9.989917) rotate(45.000000) translate(-9.989917, -9.989917) "></line>
+        </g>
+    </g>
+</svg>

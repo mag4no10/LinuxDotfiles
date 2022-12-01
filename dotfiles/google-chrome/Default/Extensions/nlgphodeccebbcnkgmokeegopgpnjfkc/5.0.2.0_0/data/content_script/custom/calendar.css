@@ -1,0 +1,20 @@
+:root{
+	--bg-color:#1a1a1a;
+}
+
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 5px;
+  background-color: var(--bg-color);
+}
+*::-webkit-scrollbar-thumb {
+    background: gray; 
+}
+
+html{
+	filter:invert(90%) sepia(.5) saturate(1.7) hue-rotate(180deg);
+}
+img{filter:invert(0) sepia(0) saturate(1) hue-rotate(0deg); opacity:.8;}
+header img{filter:invert(1) sepia(0) saturate(1) hue-rotate(0deg); opacity:.8;}
+iframe[role="presentation"]{filter:invert(100%) grayscale(1);}
+grammarly-extension{visibility:hidden;}

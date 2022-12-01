@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Bytt nettside du vil ha mørk modus. Mørk modus vil hjelpe enheter spare batteri og reduserer belastningen på øynene dine."
+   },
+   "name": {
+      "message": "Super Dark Mode"
+   },
+   "short_name": {
+      "message": "Night Mode"
+   }
+}

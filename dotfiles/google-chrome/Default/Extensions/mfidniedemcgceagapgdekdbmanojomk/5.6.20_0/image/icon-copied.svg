@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_copied</title>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-202.000000, -212.000000)">
+            <g id="icon_copied" transform="translate(202.000000, 212.000000)">
+                <circle fill="#00B968" cx="6" cy="6" r="6"></circle>
+                <polyline stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(6.000000, 5.853732) scale(-1, 1) rotate(-45.000000) translate(-6.000000, -5.853732) " points="5 3.85373226 5 7.85373226 7 7.85373226"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

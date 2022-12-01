@@ -1,0 +1,7 @@
+2022/11/03-18:08:09.773 25cc Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_www.geogebra.org_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/03-18:08:09.773 25cc Recovering log #16
+2022/11/03-18:08:09.773 25cc Reusing old log /home/atenea/.config/google-chrome/Default/IndexedDB/https_www.geogebra.org_0.indexeddb.leveldb/000016.log 
+2022/11/03-18:08:10.348 22af Level-0 table #22: started
+2022/11/03-18:08:10.350 22af Level-0 table #22: 2129 bytes OK
+2022/11/03-18:08:10.351 22af Delete type=0 #16
+2022/11/03-18:08:10.351 22af Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

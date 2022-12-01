@@ -1,0 +1,57 @@
+/*
+ * This file is part of AdBlock  <https://getadblock.com/>,
+ * Copyright (C) 2013-present  Adblock, Inc.
+ *
+ * AdBlock is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License version 3 as
+ * published by the Free Software Foundation.
+ *
+ * AdBlock is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with AdBlock.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+#_ABoverlay {
+  padding: 0;
+  margin: 0;
+  font: 13px Arial, Helvetica;
+  text-transform: none;
+  font-size: 100%;
+  vertical-align: baseline;
+  line-height: normal;
+  position: fixed;
+  z-index: 2147483647 !important;
+  background-color: inherit;
+
+  /* CSS reset */
+  div,
+  span,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  a,
+  em,
+  img,
+  strong,
+  ol,
+  ul,
+  li {
+    padding: 0;
+    margin: 0;
+    font: 13px Arial, Helvetica;
+    text-transform: none;
+    font-size: 100%;
+    vertical-align: baseline;
+    line-height: normal;
+    color: #fff;
+    position: static;
+  }
+}

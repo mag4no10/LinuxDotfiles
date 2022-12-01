@@ -1,0 +1,7 @@
+2022/11/09-00:54:28.929 68cd Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/09-00:54:28.929 68cd Recovering log #3
+2022/11/09-00:54:28.929 68cd Reusing old log /home/atenea/.config/google-chrome/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb/000003.log 
+2022/11/09-00:54:59.160 68cd Level-0 table #5: started
+2022/11/09-00:54:59.161 68cd Level-0 table #5: 6061 bytes OK
+2022/11/09-00:54:59.163 68cd Delete type=0 #3
+2022/11/09-00:54:59.163 68cd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Sprachen völlig kostenlos lernen, ohne Werbung oder versteckte Kosten. Macht Spaß, ist einfach und wissenschaftlich bewiesen."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Duolingo im Web"
+   }
+}

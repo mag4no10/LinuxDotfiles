@@ -1,0 +1,22 @@
+{
+   "author": "sendhereplz",
+   "browser_action": {
+      "default_icon": "img/sendhereplz-logo-128.png"
+   },
+   "content_scripts": [ {
+      "css": [ "styles/loader.css", "styles/products.css" ],
+      "js": [ "content.js" ],
+      "matches": [ "https://smile.amazon.com/*", "https://www.amazon.ae/*", "https://www.amazon.ca/*", "https://www.amazon.cn/*", "https://www.amazon.co.jp/*", "https://www.amazon.co.uk/*", "https://www.amazon.com.au/*", "https://www.amazon.com.br/*", "https://www.amazon.com.mx/*", "https://www.amazon.com.tr/*", "https://www.amazon.com/*", "https://www.amazon.de/*", "https://www.amazon.es/*", "https://www.amazon.fr/*", "https://www.amazon.in/*", "https://www.amazon.it/*", "https://www.amazon.nl/*", "https://www.amazon.sa/*", "https://www.amazon.sg/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Quick identification of Amazon products with shipping restrictions",
+   "icons": {
+      "128": "img/sendhereplz-logo-128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg6twYLBMSuFdODREZBlhT4v2ospMQglKXq/3lLvHyhrPDthKdHONpvp0kZhWtY7aYo3lJFmV/6Zf2tcCZChT+z2VGnC1YzIFqyVdQAoljRbqTccRH/xUkVUc+e3GcPW3xqrfbT+ndpdekijK00/YfCC1ZCKgQ7NBcAHyH3sL4DXmkH313ahqWcbYCgzXVO7+kZ2Ncbafj3B1YP1DJinWVFDwBqjYISXfR16iZ4EngGZkWkbPFyi3n/3lgN2+V09xJfU02ugqPVgIhdvjceLGA6ycL3yYE7VuBm3Fx21P54MUEfZF6oC78YxJwJsWs/fhLqCIY2dGTjkxrWpmivYqlwIDAQAB",
+   "manifest_version": 2,
+   "name": "SendHerePlz - Amazon shipping availability",
+   "permissions": [ "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.9.5"
+}

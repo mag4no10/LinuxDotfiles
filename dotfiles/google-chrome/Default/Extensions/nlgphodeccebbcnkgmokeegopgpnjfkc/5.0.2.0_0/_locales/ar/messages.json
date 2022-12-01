@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "تبديل الموقع الذي تريد وضع مظلمة، ووضع الظلام يساعد الأجهزة على حفظ البطارية ويقلل من الضغط على عينيك."
+   },
+   "name": {
+      "message": "Super Dark Mode"
+   },
+   "short_name": {
+      "message": "Night Mode"
+   }
+}

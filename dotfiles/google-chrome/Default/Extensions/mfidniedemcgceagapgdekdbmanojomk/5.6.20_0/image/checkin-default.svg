@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 26 26" style="enable-background:new 0 0 26 26;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#666666;}
+	.st1{fill:none;}
+	.st2{fill:#666666;}
+	.st3{font-family:'Circular-Black';}
+	.st4{font-size:14px;}
+</style>
+<g>
+	<path id="Fill-1" class="st0" d="M2.7,3.9c-0.5,0-0.9,0.3-0.9,0.8v0v18.9c0,0.5,0.4,0.8,0.9,0.8h20.6c0.5,0,0.9-0.4,0.9-0.8V4.7
+		c0-0.4-0.4-0.8-0.9-0.8H2.7z M23.3,26H2.7C1.2,26,0,24.9,0,23.6V4.7c0-1.4,1.2-2.4,2.7-2.4h20.6c1.5,0,2.7,1.1,2.7,2.4v18.9
+		C26,24.9,24.8,26,23.3,26L23.3,26z"/>
+	<polygon id="Clip-4" class="st1" points="0,0 25.3,0 25.3,21.6 0,21.6 	"/>
+	<path class="st0" d="M17.8,6.9c-0.5,0-0.9-0.4-0.9-0.8v0V0.8c0-0.5,0.4-0.8,0.9-0.8c0.5,0,0.9,0.4,0.9,0.8v5.2
+		C18.7,6.5,18.3,6.9,17.8,6.9C17.8,6.9,17.8,6.9,17.8,6.9"/>
+	<path class="st0" d="M8.2,6.9c-0.5,0-0.9-0.4-0.9-0.8v0V0.8C7.3,0.4,7.7,0,8.2,0h0c0.5,0,0.9,0.4,0.9,0.8v5.2
+		C9.1,6.5,8.7,6.9,8.2,6.9"/>
+	<path class="st0" d="M24.8,10.1H1.3c-0.5,0-0.9-0.4-0.9-0.8c0-0.5,0.4-0.8,0.9-0.8h23.5c0.5,0,0.9,0.4,0.9,0.8
+		C25.7,9.8,25.3,10.1,24.8,10.1"/>
+	<text transform="matrix(1 0 0 1 9.3279 21.7972)" class="st2 st3 st4">$</text>
+</g>
+</svg>

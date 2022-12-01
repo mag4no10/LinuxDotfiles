@@ -1,0 +1,20 @@
+2022/11/30-22:46:33.231 21ea Reusing MANIFEST /home/atenea/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/30-22:46:33.231 21ea Recovering log #263
+2022/11/30-22:46:33.232 21ea Reusing old log /home/atenea/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000263.log 
+2022/11/30-22:46:41.831 21ea Level-0 table #273: started
+2022/11/30-22:46:41.862 21ea Level-0 table #273: 1616659 bytes OK
+2022/11/30-22:46:41.864 21ea Delete type=0 #263
+2022/11/30-22:46:41.866 21ea Compacting 1@1 + 5@2 files
+2022/11/30-22:46:41.890 21ea Generated table #274@1: 7277 keys, 2133222 bytes
+2022/11/30-22:46:41.909 21ea Generated table #275@1: 1911 keys, 2133792 bytes
+2022/11/30-22:46:41.927 21ea Generated table #276@1: 2121 keys, 2119826 bytes
+2022/11/30-22:46:41.946 21ea Generated table #277@1: 2333 keys, 2121844 bytes
+2022/11/30-22:46:41.965 21ea Generated table #278@1: 11729 keys, 1934490 bytes
+2022/11/30-22:46:41.965 21ea Compacted 1@1 + 5@2 files => 10443174 bytes
+2022/11/30-22:46:41.966 21ea compacted to: files[ 0 0 5 0 0 0 0 ]
+2022/11/30-22:46:41.967 21ea Delete type=2 #266
+2022/11/30-22:46:41.967 21ea Delete type=2 #267
+2022/11/30-22:46:41.967 21ea Delete type=2 #268
+2022/11/30-22:46:41.967 21ea Delete type=2 #269
+2022/11/30-22:46:41.967 21ea Delete type=2 #270
+2022/11/30-22:46:41.967 21ea Delete type=2 #273

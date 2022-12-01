@@ -1,0 +1,20 @@
+
+body::-webkit-scrollbar {
+  width: 8px;
+  height: 5px;
+  background-color: black;
+}
+body::-webkit-scrollbar-thumb {
+    background: gray; 
+}
+
+body{filter:invert(100%) brightness(75%);}
+img, svg, canvas, video{filter:invert(100%);}
+a#logo_homepage_link.logo_homepage{filter:invert(100%);}
+ul.nav-menu__themes, div.onboarding-ed__slide, span.header__logo.js-logo-ddg{filter:invert(100%);}
+div.onboarding-ed__slide img{filter:invert(0%);}
+a:link, a:visited{color:#83430e !important;}
+a:hover{color:#3f51b5 !important;}
+section.showcase__dropdown-top ul li a div[class*="icon"]{filter:invert(100%);}
+#search_button_homepage, #search_button{filter:invert(100%);}
+grammarly-extension{visibility:hidden;}

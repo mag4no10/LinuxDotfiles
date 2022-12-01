@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Prepnite webovú lokalitu, ktorú chcete použiť v tmavom režime. Tmavý režim pomôže zariadeniam šetriť batériu a znižuje namáhanie očí."
+   },
+   "name": {
+      "message": "Super Dark Mode"
+   },
+   "short_name": {
+      "message": "Night Mode"
+   }
+}
