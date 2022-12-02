@@ -1,0 +1,5 @@
+alias bat="batcat --paging=never"
+alias kb0="echo 0 > /sys/class/leds/asus::kbd_backlight/brightness"
+alias kb1="echo 1 > /sys/class/leds/asus::kbd_backlight/brightness"
+alias kb2="echo 2 > /sys/class/leds/asus::kbd_backlight/brightness" 
+alias kb3="echo 3 > /sys/class/leds/asus::kbd_backlight/brightness"
