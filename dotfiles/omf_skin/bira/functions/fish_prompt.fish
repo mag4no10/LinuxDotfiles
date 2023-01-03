@@ -16,15 +16,12 @@ function __current_path
 end
 
 function __current_ip
-  echo -n (hostname -I) | sed 's/ *$//'
+    echo -n (set_color --bold red)" ["(hostname -I | sed 's/^[ \t]*//;s/[ \t]*$//')"]"(set_color normal)
 end
 
 function fish_prompt
   echo -n (set_color --bold magenta)"╭─"(set_color normal)
   __user_host
-  echo -n " ["
-  __current_ip
-  echo -n "]"
   __current_path
   echo -e ''
   echo (set_color --bold magenta)"╰─"(set_color --bold magenta)"  "(set_color normal)
