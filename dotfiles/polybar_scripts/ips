@@ -1,0 +1,17 @@
+#!/bin/bash
+
+rj45_adapter="enp2s0"
+wifi_adapter="wlp3s0"
+
+ip_rj45=$(ip a | grep ${rj45_adapter} | grep inet | awk '{print $2}' | sed 's/\/.*//' 2> /dev/null)
+ip_wifi=$(ip a | grep ${wifi_adapter} | grep inet | awk '{print $2}' | sed 's/\/.*//' 2> /dev/null)
+
+if [ ${ip_rj45} ]; then
+    echo -n " [${ip_rj45}]     "
+fi
+
+if [ ${ip_wifi} ]; then
+    echo -n "直 [${ip_wifi}]"
+else
+    echo -n "[]"
+fi
